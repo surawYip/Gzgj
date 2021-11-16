@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>广咨网站后台设计规范</title>
+<link rel="shortcut icon" type="image/ico" src="images/favicon.ico"/>
+</head>
+<body>
+
+<style type="text/css">
+*{margin:0;padding:0;list-style-type:none;}
+a,img{border:0;}
+table{empty-cells:show;border-collapse:collapse;border-spacing:0;}
+body{font:14px/180% Arial, Helvetica, sans-serif, "新宋体";}
+
+.demo{width:980px;margin:40px auto;}
+
+.listext th{background:#fafafa;color:rgba(0,0,0,0.80);}
+.listext th{border:solid 1px #f5f5f5;text-align:left;padding:11px;font-size:14px; height: 20px;}
+.listext td{border:solid 1px #f5f5f5;text-align:left;padding:17px;font-size:14px; height: 20px;}
+.rc-handle-container{position:relative;}
+.rc-handle{position:absolute;width:7px;cursor:ew-resize;*cursor:pointer;margin-left:-3px;}
+</style>
+
+<div class="demo">
+	
+	<table width="100%" class="table listext" data-resizable-columns-id="demo-table">
+		<thead>
+			<tr>
+				<th data-resizable-column-id="#">编号</th>
+				<th data-resizable-column-id="first_name">标题1</th>
+				<th data-resizable-column-id="last_name">标题2</th>
+				<th data-resizable-column-id="username" id="username-column" data-noresize>标题3</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>这是文字内容</td>
+				<td>这是文字内容</td>
+				<td>这是文字内容</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>这是文字内容</td>
+				<td>这是文字内容</td>
+				<td>这是文字内容</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td colspan="2">这是很多很多文字内容....这是很多很多文字内容....</td>
+				<td>这是文字内容</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.resizableColumns.js"></script>
+<script type="text/javascript">
+$(function(){
+	$("table").resizableColumns({});
+});
+</script>
+
+</body>
+</html>

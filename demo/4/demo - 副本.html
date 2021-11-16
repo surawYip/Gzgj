@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Mr吴</title>
+		<link rel="stylesheet" href="css/element.min.css">
+	</head>
+	<body>
+		<div id="myVue">
+			<el-row style="text-align: center;margin-top: 100px;background: #F1F1F1;">微信：<a href="#">MRJYZX-15-04-16</a> || QQ：<a href="#">978434783</a></el-row>
+			<el-row style="text-align: center;background: #F1F1F1;">本人个人主页：<a href="http://wuhaoran0409.github.io">wuhaoran0409.github.io</a></el-row>
+			<h2>一款通用单选，基于element-ui</h2>
+			<p>1.基础用法</p>
+			<template>
+			  <el-radio v-model="radio" label="1">备选项</el-radio>
+			  <el-radio v-model="radio" label="2">备选项</el-radio>
+			</template>
+			<p>2.禁用状态</p>
+			<template>
+			  <el-radio disabled v-model="radio1" label="禁用">禁用项</el-radio>
+			  <el-radio v-model="radio1" label="选中且禁用">备选项</el-radio>
+			</template>
+			<p>3.单选框组</p>
+			<template>
+			  <el-radio-group v-model="radio2">
+			    <el-radio :label="3">备选项</el-radio>
+			    <el-radio :label="6">备选项</el-radio>
+			    <el-radio :label="9">备选项</el-radio>
+			  </el-radio-group>
+			</template>
+			<p>4.按钮样式</p>
+			<template>
+			  <div>
+			    <el-radio-group v-model="radio3">
+			      <el-radio-button label="上海"></el-radio-button>
+			      <el-radio-button label="北京"></el-radio-button>
+			      <el-radio-button label="广州"></el-radio-button>
+			      <el-radio-button label="深圳"></el-radio-button>
+			    </el-radio-group>
+			  </div>
+			  <div style="margin-top: 20px">
+			    <el-radio-group v-model="radio4" size="medium">
+			      <el-radio-button label="上海" ></el-radio-button>
+			      <el-radio-button label="北京"></el-radio-button>
+			      <el-radio-button label="广州"></el-radio-button>
+			      <el-radio-button label="深圳"></el-radio-button>
+			    </el-radio-group>
+			  </div>
+			  <div style="margin-top: 20px">
+			    <el-radio-group v-model="radio5" size="small">
+			      <el-radio-button label="上海"></el-radio-button>
+			      <el-radio-button label="北京" disabled ></el-radio-button>
+			      <el-radio-button label="广州"></el-radio-button>
+			      <el-radio-button label="深圳"></el-radio-button>
+			    </el-radio-group>
+			  </div>
+			  <div style="margin-top: 20px">
+			    <el-radio-group v-model="radio6" disabled size="mini">
+			      <el-radio-button label="上海"></el-radio-button>
+			      <el-radio-button label="北京"></el-radio-button>
+			      <el-radio-button label="广州"></el-radio-button>
+			      <el-radio-button label="深圳"></el-radio-button>
+			    </el-radio-group>
+			  </div>
+			</template>
+			<p>5.带有边框</p>
+			<template>
+			  <div>
+			    <el-radio v-model="radio7" label="1" border>备选项1</el-radio>
+			    <el-radio v-model="radio7" label="2" border>备选项2</el-radio>
+			  </div>
+			  <div style="margin-top: 20px">
+			    <el-radio v-model="radio8" label="1" border size="medium">备选项1</el-radio>
+			    <el-radio v-model="radio8" label="2" border size="medium">备选项2</el-radio>
+			  </div>
+			  <div style="margin-top: 20px">
+			    <el-radio-group v-model="radio9" size="small">
+			      <el-radio label="1" border>备选项1</el-radio>
+			      <el-radio label="2" border disabled>备选项2</el-radio>
+			    </el-radio-group>
+			  </div>
+			  <div style="margin-top: 20px">
+			    <el-radio-group v-model="radio10" size="mini" disabled>
+			      <el-radio label="1" border>备选项1</el-radio>
+			      <el-radio label="2" border>备选项2</el-radio>
+			    </el-radio-group>
+			  </div>
+			</template>
+			<p>参数：</p>
+			<img src="img/微信图片_20180103174907.png" />
+			<img src="img/微信图片_20180103174913.png" />
+		</div>
+	</body>
+	<script type="text/javascript" src="js/vue.min.js" ></script>
+	<script src="js/element.min.js"></script>
+    
+</html>

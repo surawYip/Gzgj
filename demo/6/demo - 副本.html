@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style type="text/css">
+body {
+	font: 16px/150% microsoft yahei,pingfang sc,Tahoma,Sim sun;
+	}
+<link href="checkbox.css" rel="stylesheet"/>
+</style>
+
+<title>极简美化单复选框</title>
+</head>
+
+<body>
+
+<h3>单选框类型</h3>
+<h4>基础样式</h4>
+<span class="Label"><span class="Mandatory"></span>请选择性别</span>
+<span class="Radio">
+    <input id="man" name="sex" type="radio" checked /><label for="man">男</label>
+    <input id="female" name="sex" type="radio" /><label for="female">女</label>
+    <input id="secret" name="sex" type="radio" disabled /><label for="secret">不可用</label>
+</span>
+
+<h4>垂直样式</h4>
+    
+<ul class="Radio">
+    <li class="Black">接到诈骗电话和诈骗，但是没有资金损失，最佳的处理方法是：</li>
+    <li>
+        <input id="safe1" name="safe" type="radio" /><label for="safe1">A. 反正没有损失无所谓</label>
+    </li>
+    <li>
+        <input id="safe2" name="safe" type="radio" /><label for="safe2">B. 将诈骗电话、短信通过北京返诈微信公众号进行举报</label>
+    </li>
+    <li>
+        <input id="safe3" name="safe" type="radio" /><label for="safe3">C. 将诈骗电话、短信删除</label>
+    </li>
+    <li>
+        <input id="safe4" name="safe" type="radio" /><label for="safe4">D. 把骗子的信息在网上公开</label>
+    </li>
+</ul>
+
+<div style="height: 100px"><!--就是个间隔没有什么用--></div>
+
+<h3>复选框类型</h3>
+<h4>基础样式</h4>
+<span class="Checkbox">
+    <input id="love1" type="checkbox" checked /><label for="love1">宽带</label>
+    <input id="love2" type="checkbox" /><label for="love2">iTV</label>
+    <input id="love3" type="checkbox" /><label for="love3">固话</label>
+    <input id="love4" type="checkbox" disabled checked /><label for="love4">已选不可用</label>
+    <input id="love5" type="checkbox" disabled /><label for="love5">未选不可用</label>
+</span>
+
+
+<h4>垂直样式</h4>
+<ul class="Checkbox HoverLabel">
+    <li class="Dot Bold">防诈骗牢记“四个不”，包含：</li>
+    <li>
+        <input id="safe21" name="safe" type="checkbox" /><label for="safe21">A. 反正没有损失无所谓</label>
+    </li>
+    <li>
+        <input id="safe22" name="safe" type="checkbox" /><label for="safe22">B. 将诈骗电话、短信通过北京返诈微信公众号进行举报</label>
+    </li>
+    <li>
+        <input id="safe23" name="safe" type="checkbox" /><label for="safe23">C. 将诈骗电话、短信删除</label>
+    </li>
+    <li>
+        <input id="safe24" name="safe" type="checkbox" /><label for="safe24">D. 把骗子的信息在网上公开</label>
+    </li>
+</ul>
+
+</body>
+</html>
