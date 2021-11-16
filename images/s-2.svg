@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-s-2">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="s-2" clip-path="url(#clip-s-2)">
+    <rect width="200" height="200" fill="rgba(255,255,255,0)"/>
+    <g id="组_13312" data-name="组 13312" transform="translate(-151 -344)">
+      <g id="矩形_2779" data-name="矩形 2779" transform="translate(195 388)" fill="#fff" stroke="rgba(0,0,0,0.48)" stroke-width="1" stroke-dasharray="3">
+        <rect width="112" height="112" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="111" height="111" rx="3.5" fill="none"/>
+      </g>
+      <g id="组_13310" data-name="组 13310" transform="translate(-14 -717.5)">
+        <path id="联合_71" data-name="联合 71" d="M7319.5-404v-5h-5a1.5,1.5,0,0,1-1.5-1.5,1.5,1.5,0,0,1,1.5-1.5h5v-5a1.5,1.5,0,0,1,1.5-1.5,1.5,1.5,0,0,1,1.5,1.5v5h5a1.5,1.5,0,0,1,1.5,1.5,1.5,1.5,0,0,1-1.5,1.5h-5v5a1.5,1.5,0,0,1-1.5,1.5A1.5,1.5,0,0,1,7319.5-404Z" transform="translate(-7056 1572)" fill="rgba(0,0,0,0.48)"/>
+      </g>
+    </g>
+  </g>
+</svg>

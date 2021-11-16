@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="277" viewBox="0 0 980 277">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="252" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-j-7">
+      <rect width="980" height="277"/>
+    </clipPath>
+  </defs>
+  <g id="j-7" clip-path="url(#clip-j-7)">
+    <rect width="980" height="277" fill="#fff"/>
+    <g id="组件_443_44" data-name="组件 443 – 44">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="277" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="276" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="237" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="236" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="矩形_5185" data-name="矩形 5185" transform="translate(398 47)" fill="#fff" stroke="#377CFD" stroke-width="3.5">
+      <rect width="184" height="184" rx="8" stroke="none"/>
+      <rect x="-1.75" y="-1.75" width="187.5" height="187.5" rx="9.75" fill="none"/>
+    </g>
+    <g id="矩形_5204" data-name="矩形 5204" transform="translate(398 47)" fill="rgba(55,124,253,0.5)" stroke="#c2d7ff" stroke-width="16">
+      <rect width="184" height="184" rx="8" stroke="none"/>
+      <rect x="8" y="8" width="168" height="168" fill="none"/>
+    </g>
+    <rect id="矩形_5205" data-name="矩形 5205" width="90" height="90" transform="translate(445 94)" fill="#377CFD" opacity="0.5"/>
+    <text id="contents" transform="translate(490 145)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-29.015" y="0">contents</tspan></text>
+    <text id="padding" transform="translate(490 203)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-27.949" y="0">padding</tspan></text>
+    <text id="border" transform="translate(490 228)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-22.716" y="0">border</tspan></text>
+  </g>
+</svg>

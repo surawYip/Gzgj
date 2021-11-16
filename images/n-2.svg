@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="328" height="80" viewBox="0 0 328 80">
+  <defs>
+    <clipPath id="clip-n-2">
+      <rect width="328" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="n-2" clip-path="url(#clip-n-2)">
+    <rect width="328" height="80" fill="#fff"/>
+    <g id="组_13253" data-name="组 13253" transform="translate(-549 -390)">
+      <rect id="矩形_4230" data-name="矩形 4230" width="328" height="80" rx="4" transform="translate(549 390)" fill="#fff"/>
+      <path id="矩形_4230_-_轮廓" data-name="矩形 4230 - 轮廓" d="M4,1A3,3,0,0,0,1,4V76a3,3,0,0,0,3,3H324a3,3,0,0,0,3-3V4a3,3,0,0,0-3-3H4M4,0H324a4,4,0,0,1,4,4V76a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(549 390)" fill="rgba(0,0,0,0.24)"/>
+      <text id="请输入_" data-name="请输入…" transform="translate(561 414)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">请输入…</tspan></text>
+      <text id="_0_100" data-name="0/100" transform="translate(834 456)" fill="rgba(0,0,0,0.48)" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">0/100</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="480" viewBox="0 0 400 480">
+  <defs>
+    <filter id="矩形_4346" x="62" y="-12" width="280" height="504" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#3a485b" flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-t-1">
+      <rect width="400" height="480"/>
+    </clipPath>
+  </defs>
+  <g id="t-1" clip-path="url(#clip-t-1)">
+    <rect width="400" height="480" fill="#fff"/>
+    <g id="组_13609" data-name="组 13609" transform="translate(5530 2575)">
+      <g transform="matrix(1, 0, 0, 1, -5530, -2575)" filter="url(#矩形_4346)">
+        <rect id="矩形_4346-2" data-name="矩形 4346" width="256" height="480" transform="translate(72)" fill="#39485b"/>
+      </g>
+      <g id="组_13608" data-name="组 13608" transform="translate(-283 1002)">
+        <g id="组件_435_30" data-name="组件 435 – 30" transform="translate(-5175 -3145)">
+          <g id="组_13606" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#39485b"/>
+          </g>
+          <text id="失效子频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.32"><tspan x="0" y="0">失效子频道</tspan></text>
+        </g>
+        <g id="组件_435_31" data-name="组件 435 – 31" transform="translate(-5175 -3193)">
+          <g id="组_13606-2" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342-2" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#303c4c"/>
+            <path id="路径_8200" data-name="路径 8200" d="M0,0H5V48H0Z" transform="translate(-5283 -3377)" fill="#377CFD"/>
+          </g>
+          <text id="选中子频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">选中子频道</tspan></text>
+        </g>
+        <g id="组件_435_32" data-name="组件 435 – 32" transform="translate(-5175 -3241)">
+          <g id="组_13606-3" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342-3" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#39485b"/>
+          </g>
+          <text id="悬浮子频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">悬浮子频道</tspan></text>
+        </g>
+        <g id="组件_435_33" data-name="组件 435 – 33" transform="translate(-5175 -3289)">
+          <g id="组_13606-4" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342-4" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#39485b"/>
+          </g>
+          <text id="默认子频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.64"><tspan x="0" y="0">默认子频道</tspan></text>
+        </g>
+        <g id="组件_435_34" data-name="组件 435 – 34" transform="translate(-5175 -3337)">
+          <g id="组_13606-5" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342-5" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#39485b"/>
+            <g id="组件_434_18" data-name="组件 434 – 18" transform="translate(-5510.002 -3365)">
+              <rect id="矩形_3174" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+              <g id="组_10609" data-name="组 10609" transform="translate(2.606 2.408)">
+                <g id="组_13607" data-name="组 13607">
+                  <path id="路径_6399" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                  <path id="路径_6400" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <text id="默认父级频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">默认父级频道</tspan></text>
+          <g id="组件_424_5" data-name="组件 424 – 5" transform="translate(220 16)">
+            <rect id="矩形_4289" data-name="矩形 4289" width="16" height="16" fill="none"/>
+            <path id="路径_6390" data-name="路径 6390" d="M95.754,99.7l5.586-5.586-5.586-5.586" transform="translate(-85.803 106.699) rotate(-90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="组件_435_35" data-name="组件 435 – 35" transform="translate(-5175 -3385)">
+          <g id="组_13606-6" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342-6" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#39485b"/>
+            <g id="组件_434_18-2" data-name="组件 434 – 18" transform="translate(-5510.002 -3365)">
+              <rect id="矩形_3174-2" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+              <g id="组_10609-2" data-name="组 10609" transform="translate(2.606 2.408)">
+                <g id="组_13607-2" data-name="组 13607">
+                  <path id="路径_6399-2" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="rgba(255,255,255,0.64)"/>
+                  <path id="路径_6400-2" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="rgba(255,255,255,0.64)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <text id="默认父级频道-2" data-name="默认父级频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.64"><tspan x="0" y="0">默认父级频道</tspan></text>
+          <g id="组件_424_5-2" data-name="组件 424 – 5" transform="translate(220 16)">
+            <rect id="矩形_4289-2" data-name="矩形 4289" width="16" height="16" fill="none"/>
+            <path id="路径_6390-2" data-name="路径 6390" d="M95.754,99.7l5.586-5.586-5.586-5.586" transform="translate(102.414 -90.395) rotate(90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" opacity="0.64"/>
+          </g>
+        </g>
+        <g id="组件_435_36" data-name="组件 435 – 36" transform="translate(-5175 -3433)">
+          <g id="组_13606-7" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342-7" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#39485b"/>
+            <g id="组件_434_18-3" data-name="组件 434 – 18" transform="translate(-5510.002 -3365)">
+              <rect id="矩形_3174-3" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+              <g id="组_10609-3" data-name="组 10609" transform="translate(2.606 2.408)">
+                <g id="组_13607-3" data-name="组 13607">
+                  <path id="路径_6399-3" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="rgba(255,255,255,0.32)"/>
+                  <path id="路径_6400-3" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="rgba(255,255,255,0.32)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <text id="失效频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.32"><tspan x="0" y="0">失效频道</tspan></text>
+        </g>
+        <g id="组件_435_37" data-name="组件 435 – 37" transform="translate(-5175 -3481)">
+          <g id="组_13606-8" data-name="组 13606" transform="translate(5534 3377)">
+            <path id="路径_6401" data-name="路径 6401" d="M0,0H256V48H0Z" transform="translate(-5534 -3377)" fill="#303c4c"/>
+            <g id="组件_434_18-4" data-name="组件 434 – 18" transform="translate(-5510.002 -3365)">
+              <rect id="矩形_3174-4" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+              <g id="组_10609-4" data-name="组 10609" transform="translate(2.606 2.408)">
+                <g id="组_13607-4" data-name="组 13607">
+                  <path id="路径_6399-4" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                  <path id="路径_6400-4" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+            <rect id="矩形_4343" data-name="矩形 4343" width="5" height="48" transform="translate(-5283 -3377)" fill="#377CFD"/>
+          </g>
+          <text id="当前频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">当前频道</tspan></text>
+        </g>
+        <g id="组件_435_38" data-name="组件 435 – 38" transform="translate(-5175 -3529)">
+          <g id="组_13606-9" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342-8" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#39485b"/>
+            <g id="组件_434_18-5" data-name="组件 434 – 18" transform="translate(-5510.002 -3365)">
+              <rect id="矩形_3174-5" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+              <g id="组_10609-5" data-name="组 10609" transform="translate(2.606 2.408)">
+                <g id="组_13607-5" data-name="组 13607">
+                  <path id="路径_6399-5" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                  <path id="路径_6400-5" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <text id="选中频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">选中频道</tspan></text>
+        </g>
+        <g id="组件_435_39" data-name="组件 435 – 39" transform="translate(-5175 -3577)">
+          <g id="组_13606-10" data-name="组 13606" transform="translate(5534 3377)">
+            <rect id="矩形_4342-9" data-name="矩形 4342" width="256" height="48" transform="translate(-5534 -3377)" fill="#39485b"/>
+            <g id="组件_434_18-6" data-name="组件 434 – 18" transform="translate(-5510.002 -3365)">
+              <rect id="矩形_3174-6" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+              <g id="组_10609-6" data-name="组 10609" transform="translate(2.606 2.408)">
+                <g id="组_13607-6" data-name="组 13607">
+                  <path id="路径_6399-6" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="rgba(255,255,255,0.64)"/>
+                  <path id="路径_6400-6" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="rgba(255,255,255,0.64)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <text id="默认频道" transform="translate(64 30)" fill="#fff" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.64"><tspan x="0" y="0">默认频道</tspan></text>
+        </g>
+      </g>
+    </g>
+    <rect id="矩形_5259" data-name="矩形 5259" width="72" height="480" fill="#fff"/>
+  </g>
+</svg>

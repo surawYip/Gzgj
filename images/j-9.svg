@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="334" viewBox="0 0 980 334">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="309" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-j-9">
+      <rect width="980" height="334"/>
+    </clipPath>
+  </defs>
+  <g id="j-9" clip-path="url(#clip-j-9)">
+    <rect width="980" height="334" fill="#fff"/>
+    <g id="组件_443_46" data-name="组件 443 – 46">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="334" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="333" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="294" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="293" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="最多4根绳子固定" transform="translate(292 280)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-68.278" y="0">最多4根绳子固定</tspan></text>
+    <text id="最少两根绳子固定" transform="translate(688 280)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-72" y="0">最少两根绳子固定</tspan></text>
+    <g id="组_16030" data-name="组 16030">
+      <g id="矩形_5206" data-name="矩形 5206" transform="translate(200 52)" fill="#fff" stroke="#377CFD" stroke-width="3.5">
+        <rect width="184" height="184" rx="8" stroke="none"/>
+        <rect x="-1.75" y="-1.75" width="187.5" height="187.5" rx="9.75" fill="none"/>
+      </g>
+      <g id="矩形_5207" data-name="矩形 5207" transform="translate(200 52)" fill="#fff" stroke="rgba(55,124,253,0.3)" stroke-width="16">
+        <rect width="184" height="184" rx="8" stroke="none"/>
+        <rect x="8" y="8" width="168" height="168" fill="none"/>
+      </g>
+      <rect id="矩形_5209" data-name="矩形 5209" width="2" height="184" transform="translate(241 52)" fill="#ff4949"/>
+      <rect id="矩形_5215" data-name="矩形 5215" width="2" height="184" transform="translate(384 80) rotate(90)" fill="#ff4949"/>
+      <g id="矩形_5214" data-name="矩形 5214" transform="translate(216 68)" fill="#fff" stroke="#ff4949" stroke-width="2">
+        <rect width="51" height="26" stroke="none"/>
+        <rect x="1" y="1" width="49" height="24" fill="none"/>
+      </g>
+    </g>
+    <g id="组_16031" data-name="组 16031" transform="translate(396)">
+      <g id="矩形_5206-2" data-name="矩形 5206" transform="translate(200 52)" fill="#fff" stroke="#377CFD" stroke-width="3.5">
+        <rect width="184" height="184" rx="8" stroke="none"/>
+        <rect x="-1.75" y="-1.75" width="187.5" height="187.5" rx="9.75" fill="none"/>
+      </g>
+      <g id="矩形_5207-2" data-name="矩形 5207" transform="translate(200 52)" fill="#fff" stroke="rgba(55,124,253,0.3)" stroke-width="16">
+        <rect width="184" height="184" rx="8" stroke="none"/>
+        <rect x="8" y="8" width="168" height="168" fill="none"/>
+      </g>
+      <rect id="矩形_5209-2" data-name="矩形 5209" width="2" height="38" transform="translate(241 52)" fill="#ff4949"/>
+      <rect id="矩形_5215-2" data-name="矩形 5215" width="2" height="64" transform="translate(264 80) rotate(90)" fill="#ff4949"/>
+      <g id="矩形_5214-2" data-name="矩形 5214" transform="translate(216 68)" fill="#fff" stroke="#ff4949" stroke-width="2">
+        <rect width="51" height="26" stroke="none"/>
+        <rect x="1" y="1" width="49" height="24" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

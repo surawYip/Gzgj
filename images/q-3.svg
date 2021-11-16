@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="160" viewBox="0 0 300 160">
+  <defs>
+    <filter id="联合_73" x="39.001" y="22" width="222.001" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-q-3">
+      <rect width="300" height="160"/>
+    </clipPath>
+  </defs>
+  <g id="q-3" clip-path="url(#clip-q-3)">
+    <rect width="300" height="160" fill="rgba(255,255,255,0)"/>
+    <g id="组_16073" data-name="组 16073" transform="translate(-9795 12487)">
+      <g id="组_13857" data-name="组 13857" transform="translate(9671 -14244)">
+        <g id="组_13858" data-name="组 13858" transform="translate(16.001 208)">
+          <g transform="matrix(1, 0, 0, 1, 108, 1549)" filter="url(#联合_73)">
+            <path id="联合_73-2" data-name="联合 73" d="M3768,5192h10l-5,5Zm-127,0a4,4,0,0,1-4-4v-84a4,4,0,0,1,4-4h190a4,4,0,0,1,4,4v84a4,4,0,0,1-4,4Z" transform="translate(-3586 -5068)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="组_13861" data-name="组 13861" transform="translate(13 -1)">
+          <g id="组_13859" data-name="组 13859" transform="translate(-79)">
+            <rect id="矩形_4491" data-name="矩形 4491" width="56" height="28" rx="2" transform="translate(367 1838)" fill="#377CFD"/>
+            <text id="确定" transform="translate(383 1857)" fill="#fff" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">确定</tspan></text>
+          </g>
+          <g id="组_13860" data-name="组 13860" transform="translate(-143)">
+            <rect id="矩形_4491-2" data-name="矩形 4491" width="56" height="28" rx="2" transform="translate(367 1838)" fill="#fff"/>
+            <path id="矩形_4491_-_轮廓" data-name="矩形 4491 - 轮廓" d="M2,1A1,1,0,0,0,1,2V26a1,1,0,0,0,1,1H54a1,1,0,0,0,1-1V2a1,1,0,0,0-1-1H2M2,0H54a2,2,0,0,1,2,2V26a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(367 1838)" fill="rgba(0,0,0,0.16)"/>
+            <text id="取消" transform="translate(383 1857)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">取消</tspan></text>
+          </g>
+        </g>
+        <g id="组_13862" data-name="组 13862" transform="translate(0 -2)">
+          <text id="您确定要删除该项目吗_" data-name="您确定要删除该项目吗？" transform="translate(215 1821)" fill="rgba(0,0,0,0.8)" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">您确定要删除该项目吗？</tspan></text>
+          <g id="组_9666" data-name="组 9666" transform="translate(154 1694)">
+            <path id="路径_1422" data-name="路径 1422" d="M46,120H43v1h1v4h1.917l1-1H46Zm-2-1.01h2v-2H44Z" fill="rgba(0,0,0,0.24)"/>
+            <g id="组_9571" data-name="组 9571">
+              <path id="路径_1423" data-name="路径 1423" d="M45,115a6,6,0,1,1-6,6,6,6,0,0,1,6-6m0-2a8,8,0,1,0,8,8A8,8,0,0,0,45,113Z" fill="rgba(0,0,0,0.24)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

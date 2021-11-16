@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="334" viewBox="0 0 980 334">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="309" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-j-8">
+      <rect width="980" height="334"/>
+    </clipPath>
+  </defs>
+  <g id="j-8" clip-path="url(#clip-j-8)">
+    <rect width="980" height="334" fill="#fff"/>
+    <g id="组件_443_45" data-name="组件 443 – 45">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="334" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="333" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="294" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="293" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_16029" data-name="组 16029" transform="translate(0 -4)">
+      <text id="通过占比分布排列" transform="translate(288 284)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-72" y="0">通过占比分布排列</tspan></text>
+      <text id="根据排版规则排列" transform="translate(688 284)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-72" y="0">根据排版规则排列</tspan></text>
+      <g id="组_16028" data-name="组 16028" transform="translate(0 8)">
+        <g id="组_16027" data-name="组 16027" transform="translate(0 1)">
+          <g id="矩形_5185" data-name="矩形 5185" transform="translate(596 47)" fill="#fff" stroke="#377CFD" stroke-width="3.5">
+            <rect width="184" height="184" rx="8" stroke="none"/>
+            <rect x="-1.75" y="-1.75" width="187.5" height="187.5" rx="9.75" fill="none"/>
+          </g>
+          <g id="矩形_5189" data-name="矩形 5189" transform="translate(596 47)" fill="#fff" stroke="rgba(55,124,253,0.3)" stroke-width="16">
+            <rect width="184" height="184" rx="8" stroke="none"/>
+            <rect x="8" y="8" width="168" height="168" fill="none"/>
+          </g>
+        </g>
+        <g id="矩形_5206" data-name="矩形 5206" transform="translate(200 48)" fill="#fff" stroke="#377CFD" stroke-width="3.5">
+          <rect width="184" height="184" rx="8" stroke="none"/>
+          <rect x="-1.75" y="-1.75" width="187.5" height="187.5" rx="9.75" fill="none"/>
+        </g>
+        <g id="矩形_5207" data-name="矩形 5207" transform="translate(200 48)" fill="#fff" stroke="rgba(55,124,253,0.3)" stroke-width="16">
+          <rect width="184" height="184" rx="8" stroke="none"/>
+          <rect x="8" y="8" width="168" height="168" fill="none"/>
+        </g>
+        <g id="矩形_5208" data-name="矩形 5208" transform="translate(216 64)" fill="#fff" stroke="#ff4949" stroke-width="2">
+          <rect width="152" height="152" stroke="none"/>
+          <rect x="1" y="1" width="150" height="150" fill="none"/>
+        </g>
+        <rect id="矩形_5209" data-name="矩形 5209" width="2" height="152" transform="translate(325 64)" fill="#ff4949"/>
+        <g id="矩形_5210" data-name="矩形 5210" transform="translate(612 64)" fill="#fff" stroke="#ff4949" stroke-width="2">
+          <rect width="152" height="26" stroke="none"/>
+          <rect x="1" y="1" width="150" height="24" fill="none"/>
+        </g>
+        <g id="矩形_5213" data-name="矩形 5213" transform="translate(612 88)" fill="#fff" stroke="#ff4949" stroke-width="2">
+          <rect width="103" height="26" stroke="none"/>
+          <rect x="1" y="1" width="101" height="24" fill="none"/>
+        </g>
+        <rect id="矩形_5211" data-name="矩形 5211" width="2" height="50" transform="translate(661 64)" fill="#ff4949"/>
+        <rect id="矩形_5212" data-name="矩形 5212" width="2" height="43" transform="translate(713 64)" fill="#ff4949"/>
+      </g>
+    </g>
+  </g>
+</svg>

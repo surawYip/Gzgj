@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="160" viewBox="0 0 300 160">
+  <defs>
+    <filter id="联合_73" x="8.001" y="22" width="284.001" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-q-2">
+      <rect width="300" height="160"/>
+    </clipPath>
+  </defs>
+  <g id="q-2" clip-path="url(#clip-q-2)">
+    <rect width="300" height="160" fill="rgba(255,255,255,0)"/>
+    <g id="组_13848" data-name="组 13848" transform="translate(-144.999 -1549)">
+      <g transform="matrix(1, 0, 0, 1, 145, 1549)" filter="url(#联合_73)">
+        <path id="联合_73-2" data-name="联合 73" d="M3768,5192h10l-5,5Zm-121,0a4,4,0,0,1-4-4v-84a4,4,0,0,1,4-4h252a4,4,0,0,1,4,4v84a4,4,0,0,1-4,4Z" transform="translate(-3623 -5068)" fill="#fff"/>
+      </g>
+      <text id="标题" transform="translate(181 1611)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">标题</tspan></text>
+      <text id="UI设计是指对软件的人机交互_操作_逻辑_界面美观的整体设计_" data-name="UI设计是指对软件的人机交互、操作
+逻辑、界面美观的整体设计。" transform="translate(181 1636)" fill="rgba(0,0,0,0.8)" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">UI设计是指对软件的人机交互、操作</tspan><tspan x="0" y="19">逻辑、界面美观的整体设计。</tspan></text>
+      <g id="组_13849" data-name="组 13849" transform="translate(0 0.083)">
+        <path id="路径_6420" data-name="路径 6420" d="M-3242.584-3490.318l-1.414-1.414,9.058-9.058,1.414,1.414Z" transform="translate(3643 5100)" fill="#858585"/>
+        <g id="组_13849-2" data-name="组 13849">
+          <path id="路径_6421" data-name="路径 6421" d="M-3234.94-3490.318l-9.058-9.058,1.414-1.414,9.058,9.058Z" transform="translate(3643 5100)" fill="#858585"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

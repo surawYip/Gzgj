@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="160" viewBox="0 0 300 160">
+  <defs>
+    <filter id="矩形_2826" x="126" y="22" width="92" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="减去_29" x="158" y="64.001" width="28" height="22.999" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-q-1">
+      <rect width="300" height="160"/>
+    </clipPath>
+  </defs>
+  <g id="q-1" clip-path="url(#clip-q-1)">
+    <rect width="300" height="160" fill="rgba(255,255,255,0)"/>
+    <g id="组_16072" data-name="组 16072" transform="translate(-126 -408)">
+      <g id="组_12948" data-name="组 12948" transform="translate(8846 -12902)">
+        <text id="业务类型" transform="translate(-8616 13407)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">业务类型</tspan></text>
+        <text id="_" data-name="*" transform="translate(-8622 13407)" fill="#f5222d" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-6.371" y="0">*</tspan></text>
+        <g id="组_9669" data-name="组 9669" transform="translate(-8719 13210)">
+          <circle id="椭圆_220" data-name="椭圆 220" cx="7" cy="7" r="7" transform="translate(164 185)" fill="#c1c4cb"/>
+          <path id="椭圆_220_-_轮廓" data-name="椭圆 220 - 轮廓" d="M7-1A8,8,0,1,1-1,7,8.009,8.009,0,0,1,7-1ZM7,13A6,6,0,1,0,1,7,6.007,6.007,0,0,0,7,13Z" transform="translate(164 185)" fill="#c1c4cb"/>
+          <path id="路径_1428" data-name="路径 1428" d="M171,189a1,1,0,0,1,1,1,1.168,1.168,0,0,1-1,1.078v.014a1.5,1.5,0,0,0-1,1.408V194h2v-1.184A2.995,2.995,0,1,0,168,190h2A1,1,0,0,1,171,189Z" fill="#fff"/>
+          <path id="路径_1429" data-name="路径 1429" d="M171,195h0a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1h0a1,1,0,0,1-1-1h0A1,1,0,0,1,171,195Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="组_13839" data-name="组 13839" transform="translate(-13665 2590)">
+        <g id="组_10261" data-name="组 10261" transform="translate(2 -1)">
+          <g id="组_10320" data-name="组 10320">
+            <g transform="matrix(1, 0, 0, 1, 13789, -2181)" filter="url(#矩形_2826)">
+              <rect id="矩形_2826-2" data-name="矩形 2826" width="74" height="42" rx="4" transform="translate(135 28)" fill="#333b44"/>
+            </g>
+            <text id="小提示" transform="translate(13940 -2127)" fill="#fff" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">小提示</tspan></text>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 13791, -2182)" filter="url(#减去_29)">
+          <path id="减去_29-2" data-name="减去 29" d="M5,10l0,0L0,5,5,0V10Z" transform="translate(167 75) rotate(-90)" fill="#333b44"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

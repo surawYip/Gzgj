@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="200" viewBox="0 0 400 200">
+  <defs>
+    <clipPath id="clip-s-7">
+      <rect width="400" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="s-7" clip-path="url(#clip-s-7)">
+    <rect width="400" height="200" fill="rgba(255,255,255,0)"/>
+    <g id="组_16079" data-name="组 16079" transform="translate(-72 -1058)">
+      <g id="组_13335" data-name="组 13335" transform="translate(-27)">
+        <g id="组_13331" data-name="组 13331" transform="translate(126 1092)">
+          <g id="矩形_2638" data-name="矩形 2638" transform="translate(-8 1)" fill="#fff" stroke="#e4e5eb" stroke-width="1">
+            <rect width="114" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="113" height="31" rx="3.5" fill="none"/>
+          </g>
+          <text id="点击上传" transform="translate(34 22)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">点击上传</tspan></text>
+          <g id="组件_373_25" data-name="组件 373 – 25" transform="translate(8 7)">
+            <rect id="矩形_2639" data-name="矩形 2639" width="20" height="20" fill="none"/>
+            <g id="如何使用_Wiki_进行项目知识沉淀_-_示例项目" data-name="如何使用 Wiki 进行项目知识沉淀 - 示例项目" transform="translate(2 2)">
+              <rect id="矩形_2441" data-name="矩形 2441" width="12" height="2" rx="1" transform="translate(2 13)" fill="#333b44"/>
+              <path id="路径_1249" data-name="路径 1249" d="M8.707,1.293l4,4a1,1,0,1,1-1.414,1.414L9,4.414V10a1,1,0,0,1-2,0V4.414L4.707,6.707A1,1,0,1,1,3.293,5.293l4-4a1,1,0,0,1,1.414,0Z" fill="#333b44" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+        <text id="只能上传jpg_png_且不超过500kb" data-name="只能上传jpg/png，且不超过500kb" transform="translate(118 1144)" fill="rgba(0,0,0,0.48)" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">只能上传jpg/png，且不超过500kb</tspan></text>
+        <g id="组_13332" data-name="组 13332" transform="translate(38 230)">
+          <rect id="矩形_2783" data-name="矩形 2783" width="362" height="32" transform="translate(80 929)" fill="#fff"/>
+          <text id="附件名称.png" transform="translate(112 950)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">附件名称.png</tspan></text>
+          <path id="clip" d="M123.309,79.573a.8.8,0,0,0-1.127,0l-5.916,5.916a3.984,3.984,0,1,1-5.634-5.634l3.38-3.38h0l1.689-1.689a2.375,2.375,0,0,1,1.69-.7h0a2.39,2.39,0,0,1,1.69,4.081l-1.971,1.971h0l-3.38,3.38a.816.816,0,0,1-1.127,0,.8.8,0,0,1,0-1.127l5.352-5.352a.8.8,0,0,0-1.127-1.127l-5.352,5.352a2.39,2.39,0,1,0,3.38,3.38l1.971-1.971h0l3.38-3.38a3.984,3.984,0,1,0-5.634-5.634l-3.38,3.38h0l-1.689,1.689a5.577,5.577,0,1,0,7.887,7.887l5.915-5.916A.8.8,0,0,0,123.309,79.573Z" transform="translate(-19.875 864.508)" fill="#9699ac"/>
+        </g>
+        <g id="组_13333" data-name="组 13333" transform="translate(38 262)">
+          <rect id="矩形_2783-2" data-name="矩形 2783" width="362" height="32" transform="translate(80 929)" fill="rgba(0,0,0,0.04)"/>
+          <text id="附件名称.png-2" data-name="附件名称.png" transform="translate(112 950)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">附件名称.png</tspan></text>
+          <path id="clip-2" data-name="clip" d="M123.309,79.573a.8.8,0,0,0-1.127,0l-5.916,5.916a3.984,3.984,0,1,1-5.634-5.634l3.38-3.38h0l1.689-1.689a2.375,2.375,0,0,1,1.69-.7h0a2.39,2.39,0,0,1,1.69,4.081l-1.971,1.971h0l-3.38,3.38a.816.816,0,0,1-1.127,0,.8.8,0,0,1,0-1.127l5.352-5.352a.8.8,0,0,0-1.127-1.127l-5.352,5.352a2.39,2.39,0,1,0,3.38,3.38l1.971-1.971h0l3.38-3.38a3.984,3.984,0,1,0-5.634-5.634l-3.38,3.38h0l-1.689,1.689a5.577,5.577,0,1,0,7.887,7.887l5.915-5.916A.8.8,0,0,0,123.309,79.573Z" transform="translate(-19.875 864.508)" fill="#9699ac"/>
+          <g id="组_13334" data-name="组 13334" transform="translate(4020.945 3143.654)">
+            <rect id="矩形_3353" data-name="矩形 3353" width="18" height="18" transform="translate(-3608.946 -2207.654)" fill="rgba(0,0,0,0)"/>
+            <g id="组_10920" data-name="组 10920" transform="translate(-3606.878 -2205.154)">
+              <path id="路径_5431" data-name="路径 5431" d="M-3593.42-2201.138v10.645h-10.526v-10.645" transform="translate(3605.637 2203.537)" fill="none" stroke="#7e7e7e" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="直线_564" data-name="直线 564" x2="13.909" transform="translate(0 2.451)" fill="none" stroke="#7e7e7e" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="直线_565" data-name="直线 565" x2="5.64" transform="translate(4.134)" fill="none" stroke="#7e7e7e" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="直线_566" data-name="直线 566" y2="5.607" transform="translate(5.013 4.917)" fill="none" stroke="#7e7e7e" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="直线_567" data-name="直线 567" y2="5.607" transform="translate(8.895 4.917)" fill="none" stroke="#7e7e7e" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

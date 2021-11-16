@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="116" viewBox="0 0 192 116">
+  <defs>
+    <clipPath id="clip-o-1">
+      <rect width="192" height="116"/>
+    </clipPath>
+  </defs>
+  <g id="o-1" clip-path="url(#clip-o-1)">
+    <rect width="192" height="116" fill="#fff"/>
+    <g id="组_16070" data-name="组 16070" transform="translate(-7 -14)">
+      <g id="组_13700" data-name="组 13700" transform="translate(-406 -599)">
+        <g id="组件_437_21" data-name="组件 437 – 21" transform="translate(413 613)">
+          <g id="组_13699" data-name="组 13699" transform="translate(-413 -615)">
+            <rect id="矩形_4425" data-name="矩形 4425" width="52" height="36" transform="translate(413 613)" fill="#fff"/>
+            <rect id="矩形_4426" data-name="矩形 4426" width="52" height="0.97" transform="translate(413 648.03)" fill="#377CFD"/>
+          </g>
+          <text id="书签" transform="translate(12 21)" fill="#377CFD" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">书签</tspan></text>
+        </g>
+        <g id="组件_437_22" data-name="组件 437 – 22" transform="translate(465 613)">
+          <g id="组_13699-2" data-name="组 13699" transform="translate(-413 -615)">
+            <rect id="矩形_4425-2" data-name="矩形 4425" width="52" height="36" transform="translate(413 613)" fill="#fff"/>
+            <rect id="矩形_4426-2" data-name="矩形 4426" width="52" height="0.97" transform="translate(413 648.03)" fill="rgba(0,0,0,0.08)"/>
+          </g>
+          <text id="书签-2" data-name="书签" transform="translate(12 21)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">书签</tspan></text>
+        </g>
+        <g id="组件_437_23" data-name="组件 437 – 23" transform="translate(517 613)">
+          <g id="组_13699-3" data-name="组 13699" transform="translate(-413 -615)">
+            <rect id="矩形_4425-3" data-name="矩形 4425" width="52" height="36" transform="translate(413 613)" fill="#fff"/>
+            <rect id="矩形_4426-3" data-name="矩形 4426" width="52" height="0.97" transform="translate(413 648.03)" fill="rgba(0,0,0,0.08)"/>
+          </g>
+          <text id="书签-3" data-name="书签" transform="translate(12 21)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">书签</tspan></text>
+        </g>
+      </g>
+      <g id="组_16069" data-name="组 16069">
+        <rect id="矩形_4425-4" data-name="矩形 4425" width="64" height="48" transform="translate(7 82)" fill="#fff"/>
+        <rect id="矩形_4426-4" data-name="矩形 4426" width="64" height="2" transform="translate(7 128)" fill="#377CFD"/>
+        <text id="书签-4" data-name="书签" transform="translate(23 111.985)" fill="#377CFD" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">书签</tspan></text>
+        <rect id="矩形_4425-5" data-name="矩形 4425" width="64" height="48" transform="translate(71 82)" fill="#fff"/>
+        <rect id="矩形_4426-5" data-name="矩形 4426" width="64" height="1" transform="translate(71 129)" fill="rgba(0,0,0,0.08)"/>
+        <text id="书签-5" data-name="书签" transform="translate(87 111.985)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">书签</tspan></text>
+        <rect id="矩形_4425-6" data-name="矩形 4425" width="64" height="48" transform="translate(135 82)" fill="#fff"/>
+        <rect id="矩形_4426-6" data-name="矩形 4426" width="64" height="1" transform="translate(135 129)" fill="rgba(0,0,0,0.08)"/>
+        <text id="书签-6" data-name="书签" transform="translate(151 111.985)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">书签</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

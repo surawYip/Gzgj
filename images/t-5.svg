@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="60" viewBox="0 0 400 60">
+  <defs>
+    <clipPath id="clip-t-5">
+      <rect width="400" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="t-5" clip-path="url(#clip-t-5)">
+    <rect width="400" height="60" fill="rgba(255,255,255,0)"/>
+    <g id="组_13664" data-name="组 13664" transform="translate(-1 -3732)">
+      <text id="我的项目" transform="translate(237 3767)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">我的项目</tspan></text>
+      <text id="_" data-name="/" transform="translate(223 3767)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">/</tspan></text>
+      <text id="个人中心" transform="translate(159 3768)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">个人中心</tspan></text>
+      <text id="_2" data-name="/" transform="translate(145 3767)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">/</tspan></text>
+      <text id="首页" transform="translate(109 3768)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">首页</tspan></text>
+    </g>
+  </g>
+</svg>

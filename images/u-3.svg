@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="144" viewBox="0 0 144 144">
+  <defs>
+    <clipPath id="clip-u-3">
+      <rect width="144" height="144"/>
+    </clipPath>
+  </defs>
+  <g id="u-3" clip-path="url(#clip-u-3)">
+    <rect width="144" height="144" fill="#fff"/>
+    <g id="组_16100" data-name="组 16100" transform="translate(-128 -47)">
+      <g id="组_16096" data-name="组 16096" transform="translate(-810 -3)">
+        <g id="矩形_2499" data-name="矩形 2499" transform="translate(938 154)" fill="rgba(0,0,0,0.04)" stroke="rgba(0,0,0,0.12)" stroke-width="1">
+          <rect width="144" height="40" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="143" height="39" rx="3.5" fill="none"/>
+        </g>
+        <text id="已选择" transform="translate(950 180)" fill="rgba(0,0,0,0.24)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">已选择</tspan></text>
+        <path id="减去_22" data-name="减去 22" d="M3.95,4.45h0L0,0H7.9L3.95,4.449Z" transform="translate(1058 172)" fill="rgba(0,0,0,0.12)"/>
+      </g>
+      <g id="组_16095" data-name="组 16095" transform="translate(-583 -51)">
+        <g id="矩形_2499-2" data-name="矩形 2499" transform="translate(711 146)" fill="rgba(0,0,0,0.04)" stroke="rgba(0,0,0,0.12)" stroke-width="1">
+          <rect width="144" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="143" height="31" rx="3.5" fill="none"/>
+        </g>
+        <text id="已选择-2" data-name="已选择" transform="translate(719 167)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">已选择</tspan></text>
+        <path id="减去_22-2" data-name="减去 22" d="M3.95,4.45h0L0,0H7.9L3.95,4.449Z" transform="translate(835 160)" fill="rgba(0,0,0,0.12)"/>
+      </g>
+      <g id="组_9912" data-name="组 9912" transform="translate(-139 -834)">
+        <g id="矩形_2499-3" data-name="矩形 2499" transform="translate(267 881)" fill="rgba(0,0,0,0.04)" stroke="rgba(0,0,0,0.12)" stroke-width="1">
+          <rect width="144" height="24" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="143" height="23" rx="3.5" fill="none"/>
+        </g>
+        <text id="已选择-3" data-name="已选择" transform="translate(271 898)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">已选择</tspan></text>
+        <path id="减去_22-3" data-name="减去 22" d="M3.95,4.45h0L0,0H7.9L3.95,4.449Z" transform="translate(395 891)" fill="rgba(0,0,0,0.12)"/>
+      </g>
+    </g>
+  </g>
+</svg>

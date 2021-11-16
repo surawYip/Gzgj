@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="480" viewBox="0 0 400 480">
+  <defs>
+    <filter id="矩形_4346" x="85" y="-12" width="88" height="504" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#3a485b" flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_4357" x="153" y="52" width="167" height="136" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-2"/>
+      <feFlood flood-color="#3a485b" flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-t-2">
+      <rect width="400" height="480"/>
+    </clipPath>
+  </defs>
+  <g id="t-2" clip-path="url(#clip-t-2)">
+    <rect width="400" height="480" fill="#fff"/>
+    <g id="组_13624" data-name="组 13624" transform="translate(-229 -1481)">
+      <g transform="matrix(1, 0, 0, 1, 229, 1481)" filter="url(#矩形_4346)">
+        <rect id="矩形_4346-2" data-name="矩形 4346" width="64" height="480" transform="translate(95)" fill="#39485b"/>
+      </g>
+      <g id="组_13618" data-name="组 13618">
+        <g id="组件_436_24" data-name="组件 436 – 24" transform="translate(324 1625)">
+          <rect id="矩形_4342" data-name="矩形 4342" width="64" height="48" fill="none"/>
+          <g id="组件_434_18" data-name="组件 434 – 18" transform="translate(20 12)">
+            <rect id="矩形_3174" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+            <g id="组_10609" data-name="组 10609" transform="translate(2.606 2.408)" opacity="0.32">
+              <g id="组_13607" data-name="组 13607">
+                <path id="路径_6399" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                <path id="路径_6400" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <rect id="矩形_4356" data-name="矩形 4356" width="4" height="48" transform="translate(60)" fill="none"/>
+        </g>
+        <g id="组件_436_25" data-name="组件 436 – 25" transform="translate(324 1577)">
+          <rect id="矩形_4342-2" data-name="矩形 4342" width="64" height="48" fill="#303c4c"/>
+          <g id="组件_434_18-2" data-name="组件 434 – 18" transform="translate(20 12)">
+            <rect id="矩形_3174-2" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+            <g id="组_10609-2" data-name="组 10609" transform="translate(2.606 2.408)">
+              <g id="组_13607-2" data-name="组 13607">
+                <path id="路径_6399-2" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                <path id="路径_6400-2" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <rect id="矩形_4356-2" data-name="矩形 4356" width="4" height="48" transform="translate(60)" fill="#377CFD"/>
+        </g>
+        <g id="组件_436_26" data-name="组件 436 – 26" transform="translate(324 1529)">
+          <rect id="矩形_4342-3" data-name="矩形 4342" width="64" height="48" fill="#39485b"/>
+          <g id="组件_434_18-3" data-name="组件 434 – 18" transform="translate(20 12)">
+            <rect id="矩形_3174-3" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+            <g id="组_10609-3" data-name="组 10609" transform="translate(2.606 2.408)">
+              <g id="组_13607-3" data-name="组 13607">
+                <path id="路径_6399-3" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+                <path id="路径_6400-3" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="组件_436_27" data-name="组件 436 – 27" transform="translate(324 1481)">
+          <rect id="矩形_4342-4" data-name="矩形 4342" width="64" height="48" fill="#39485b"/>
+          <g id="组件_434_18-4" data-name="组件 434 – 18" transform="translate(20 12)">
+            <rect id="矩形_3174-4" data-name="矩形 3174" width="24" height="24" fill="rgba(0,0,0,0)"/>
+            <g id="组_10609-4" data-name="组 10609" transform="translate(2.606 2.408)">
+              <g id="组_13607-4" data-name="组 13607">
+                <path id="路径_6399-4" data-name="路径 6399" d="M998.176,364.138l-5.283-5.3a.4.4,0,0,0-.567,0l-12.8,12.84a.4.4,0,0,0-.117.283v4.846a.8.8,0,0,0,.8.8h4.833a.4.4,0,0,0,.282-.117L998.175,364.7A.4.4,0,0,0,998.176,364.138ZM984.5,375.907h-3.4V372.5l7.795-7.817,3.429,3.439Zm9.032-8.987-3.434-3.444,2.508-2.515,3.444,3.454Z" transform="translate(-979.406 -358.72)" fill="rgba(255,255,255,0.64)"/>
+                <path id="路径_6400-4" data-name="路径 6400" d="M996.406,375.907H989.43a.4.4,0,0,0-.4.4v1.3h7.776v-1.3A.4.4,0,0,0,996.406,375.907Z" transform="translate(-979.406 -358.72)" fill="rgba(255,255,255,0.64)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 229, 1481)" filter="url(#矩形_4357)">
+        <rect id="矩形_4357-2" data-name="矩形 4357" width="143" height="112" rx="4" transform="translate(163 64)" fill="#39485b"/>
+      </g>
+      <g id="组_13619" data-name="组 13619">
+        <g id="组件_437_30" data-name="组件 437 – 30" transform="translate(392 1617)">
+          <rect id="矩形_4359" data-name="矩形 4359" width="143" height="32" fill="#39485b"/>
+          <text id="菜单" transform="translate(12 21)" fill="#fff" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.32"><tspan x="0" y="0">菜单</tspan></text>
+        </g>
+        <g id="组件_437_31" data-name="组件 437 – 31" transform="translate(392 1585)">
+          <rect id="矩形_4361" data-name="矩形 4361" width="143" height="32" fill="#39485b"/>
+          <rect id="矩形_4359-2" data-name="矩形 4359" width="143" height="32" fill="rgba(0,0,0,0.16)"/>
+          <text id="菜单-2" data-name="菜单" transform="translate(12 21)" fill="#fff" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">菜单</tspan></text>
+        </g>
+        <g id="组件_437_32" data-name="组件 437 – 32" transform="translate(392 1553)">
+          <rect id="矩形_4359-3" data-name="矩形 4359" width="143" height="32" fill="#39485b"/>
+          <text id="菜单-3" data-name="菜单" transform="translate(12 21)" fill="#fff" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">菜单</tspan></text>
+        </g>
+      </g>
+    </g>
+    <rect id="矩形_5259" data-name="矩形 5259" width="95" height="480" fill="#fff"/>
+  </g>
+</svg>

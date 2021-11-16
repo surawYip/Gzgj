@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204" height="62" viewBox="0 0 204 62">
+  <defs>
+    <clipPath id="clip-m-1">
+      <rect width="204" height="62"/>
+    </clipPath>
+  </defs>
+  <g id="m-1" clip-path="url(#clip-m-1)">
+    <rect width="204" height="62" fill="#fff"/>
+    <g id="组_16057" data-name="组 16057" transform="translate(-166 -793)">
+      <g id="组_13814" data-name="组 13814" transform="translate(-17 48)">
+        <g id="组_13808" data-name="组 13808" transform="translate(0 -1)">
+          <rect id="矩形_4458" data-name="矩形 4458" width="168" height="8" rx="4" transform="translate(183 797)" fill="rgba(0,0,0,0.08)"/>
+          <rect id="矩形_4459" data-name="矩形 4459" width="84" height="8" rx="4" transform="translate(183 797)" fill="#377CFD"/>
+        </g>
+        <text id="_50_" data-name="50%" transform="translate(359 805)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">50%</tspan></text>
+      </g>
+      <g id="组_13812" data-name="组 13812" transform="translate(-6 700)">
+        <g id="组_13811" data-name="组 13811" transform="translate(-37 -138)">
+          <rect id="矩形_4461" data-name="矩形 4461" width="120" height="4" rx="2" transform="translate(209 235)" fill="rgba(0,0,0,0.08)"/>
+          <rect id="矩形_4462" data-name="矩形 4462" width="60" height="4" rx="2" transform="translate(209 235)" fill="#377CFD"/>
+        </g>
+        <text id="_50_2" data-name="50%" transform="translate(300 104)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">50%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
