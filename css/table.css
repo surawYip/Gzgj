@@ -1,0 +1,149 @@
+
+
+.table-hover td{
+	border-right: 1px solid #f5f5f5;	
+	line-height: 20px;
+	padding: 20px;text-indent: 0px;
+}
+
+
+/*** Table Styles **/
+
+.table-fill {
+  background: #fff;
+  border-radius:3px;
+  border-collapse: collapse;
+  margin: auto;
+  width: 1240px;
+  padding:5px;
+  width: 100%;
+  animation: float 5s infinite;
+	text-align: left;
+	
+}
+ 
+th {
+  color:rgba(0,0,0,0.80);
+	border-right: 1px solid #f5f5f5;
+	border-top:1px solid #f5f5f5;
+	border-bottom: none;
+  background-color: #fafafa;
+  font-size:14px;
+  font-weight: 600;
+	height: 48px;
+	line-height: 48px;
+	text-indent: 20px;
+  text-align:left;
+  vertical-align:middle;
+}
+
+th:first-child {
+  border-top-left-radius:3px;
+}
+ 
+th:last-child {
+  border-top-right-radius:3px;
+}
+  
+tr {
+  border-left: 1px solid #f5f5f5;
+	border-bottom: 1px solid #f5f5f5;
+	
+  color:rgba(0,0,0,0.80);
+	  font-size:14px;
+	text-align: left;
+  font-weight: 400;
+	height: 48px;
+	line-height: 48px;
+	text-indent: 20px;
+}
+ 
+tr:hover td {
+  background-color: #f5f5f5;
+  color:rgba(0,0,0,0.80);
+  border-top: 1px solid #f5f5f5;
+	border-left: 1px solid #f5f5f5;
+	
+}
+ 
+tr:first-child {
+  border-top: 1px solid #f5f5f5 ;
+	  
+	  
+tr:last-child {
+  border-right: 1px solid #f5f5f5 ;
+1px solid #f5f5f5;
+}
+ 
+tr:nth-child(odd) td {
+  background:#EBEBEB;
+}
+ 
+tr:nth-child(odd):hover td {
+  background-color: #f5f5f5;
+}
+
+tr:last-child td:first-child {
+  border-bottom-left-radius:3px;
+}
+ 
+tr:last-child td:last-child {
+  border-bottom-right-radius:3px;
+}
+ 
+td {
+  background:#FFFFFF;
+  text-align:left;
+  vertical-align:middle;
+  font-weight:400;
+  font-size:14px;
+line-height: 20px;
+}
+
+td:last-child {
+	border-top: none ;
+}
+
+th.text-left {
+  text-align: left;
+	border-bottom: 1px solid #f5f5f5 ;
+}
+
+th.text-center {
+  text-align: center;
+}
+
+th.text-right {
+  text-align: right;
+}
+
+td.text-left {
+  text-align: left;
+}
+
+td.text-center {
+  text-align: center;
+}
+
+td.text-right {
+  text-align: right;
+}
+
+
+
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
