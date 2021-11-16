@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="645" viewBox="0 0 980 645">
+  <defs>
+    <clipPath id="clip-c-3">
+      <rect width="980" height="645"/>
+    </clipPath>
+  </defs>
+  <g id="c-3" clip-path="url(#clip-c-3)">
+    <rect width="980" height="645" fill="#fff"/>
+    <g id="组件_443_16" data-name="组件 443 – 16">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="645" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="644" rx="3.5" fill="none"/>
+      </g>
+    </g>
+    <g id="组_15864" data-name="组 15864" transform="translate(0 55)">
+      <g id="矩形_4929" data-name="矩形 4929" transform="translate(28 28)" fill="#fff" stroke="#e9eaed" stroke-width="1">
+        <rect width="925" height="538" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="926" height="539" fill="none"/>
+      </g>
+      <rect id="矩形_4950" data-name="矩形 4950" width="925" height="75" transform="translate(28 28)" fill="#f3f3f3"/>
+      <rect id="矩形_4914" data-name="矩形 4914" width="925" height="1" transform="translate(28 102)" fill="#e9eaed"/>
+      <rect id="矩形_4915" data-name="矩形 4915" width="106" height="463" transform="translate(28 103)" fill="#f8f8f8" opacity="0.9" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="矩形_4916" data-name="矩形 4916" width="53" height="463" transform="translate(148 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4923" data-name="矩形 4923" width="53" height="463" transform="translate(416 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4927" data-name="矩形 4927" width="53" height="463" transform="translate(684 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4919" data-name="矩形 4919" width="53" height="463" transform="translate(282 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4921" data-name="矩形 4921" width="53" height="463" transform="translate(550 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4925" data-name="矩形 4925" width="53" height="463" transform="translate(818 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4928" data-name="矩形 4928" width="53" height="463" transform="translate(885 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4917" data-name="矩形 4917" width="53" height="463" transform="translate(215 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4922" data-name="矩形 4922" width="53" height="463" transform="translate(483 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4926" data-name="矩形 4926" width="53" height="463" transform="translate(751 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4918" data-name="矩形 4918" width="53" height="463" transform="translate(349 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4920" data-name="矩形 4920" width="53" height="463" transform="translate(617 103)" fill="#377CFD" opacity="0.07"/>
+      <rect id="矩形_4930" data-name="矩形 4930" width="254" height="140" transform="translate(148 117)" fill="#377CFD" opacity="0.2"/>
+      <rect id="矩形_4934" data-name="矩形 4934" width="254" height="140" transform="translate(416 117)" fill="#377CFD" opacity="0.2"/>
+      <rect id="矩形_4935" data-name="矩形 4935" width="254" height="140" transform="translate(684 117)" fill="#377CFD" opacity="0.2"/>
+      <rect id="矩形_4931" data-name="矩形 4931" width="388" height="140" transform="translate(148 271)" fill="#377CFD" opacity="0.2"/>
+      <rect id="矩形_4937" data-name="矩形 4937" width="388" height="140" transform="translate(550 271)" fill="#377CFD" opacity="0.2"/>
+      <rect id="矩形_4932" data-name="矩形 4932" width="790" height="140" transform="translate(148 426)" fill="#377CFD" opacity="0.2"/>
+      <rect id="矩形_4936" data-name="矩形 4936" width="14" height="55" transform="translate(402 160)" fill="#377CFD"/>
+      <rect id="矩形_4938" data-name="矩形 4938" width="14" height="55" transform="translate(134 314)" fill="#377CFD"/>
+      <text id="Gutter_24" data-name="Gutter=24" transform="translate(465 193)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-39.75" y="0">Gutter=24</tspan></text>
+      <text id="Margin_24" data-name="Margin=24" transform="translate(201 347)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-42.785" y="0">Margin=24</tspan></text>
+      <text id="顶部导航_页签" data-name="顶部导航、页签" transform="translate(490 72)" fill="#333b44" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-56" y="0">顶部导航、页签</tspan></text>
+      <text id="左侧导航" transform="translate(81 341)" fill="#333b44" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-32" y="0">左侧导航</tspan></text>
+    </g>
+    <g id="组_15850" data-name="组 15850" transform="translate(438 14)">
+      <text id="宽度大于1280px" transform="translate(51 30)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-59.93" y="0">宽度大于1280px</tspan></text>
+    </g>
+    <g id="组件_450_2" data-name="组件 450 – 2" transform="translate(27 62)" opacity="0.4">
+      <path id="联合_75" data-name="联合 75" d="M6,10.5,13,7v3H923V7l7,3.5L923,14V11H13v3Z" transform="translate(-6 -7.001)" fill="rgba(0,0,0,0.8)"/>
+    </g>
+    <rect id="矩形_4951" data-name="矩形 4951" width="1" height="463" transform="translate(133 158)" fill="#e9eaed"/>
+  </g>
+</svg>

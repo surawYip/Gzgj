@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <clipPath id="clip-f-5">
+      <rect width="400" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="f-5" clip-path="url(#clip-f-5)">
+    <rect width="400" height="400" fill="#fff"/>
+    <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="400" height="400" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="399" height="399" rx="3.5" fill="none"/>
+    </g>
+    <rect id="矩形_5024" data-name="矩形 5024" width="367.019" height="367.019" transform="translate(16.5 16.5)" fill="#fff" stroke="#e5ebfc" stroke-width="1"/>
+    <path id="路径_6688" data-name="路径 6688" d="M1438.574-12214H1805.4" transform="translate(-12013.5 -1422.074) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+    <path id="路径_6689" data-name="路径 6689" d="M1438.574-12214h367.019" transform="translate(-1422.074 12414.5)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+    <path id="路径_6684" data-name="路径 6684" d="M1439.392-12381l367.019,367.018" transform="translate(-1422.892 12397.312)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+    <path id="路径_6685" data-name="路径 6685" d="M1806.41-12381l-367.019,367.018" transform="translate(-1422.892 12397.312)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+    <g id="椭圆_497" data-name="椭圆 497" transform="translate(46 46)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <circle cx="154" cy="154" r="154" stroke="none"/>
+      <circle cx="154" cy="154" r="153.5" fill="none"/>
+    </g>
+    <g id="矩形_5032" data-name="矩形 5032" transform="translate(60 60)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="280" height="280" stroke="none"/>
+      <rect x="0.5" y="0.5" width="279" height="279" fill="none"/>
+    </g>
+    <g id="矩形_5033" data-name="矩形 5033" transform="translate(354 76) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="248" height="308" stroke="none"/>
+      <rect x="0.5" y="0.5" width="247" height="307" fill="none"/>
+    </g>
+    <g id="矩形_5034" data-name="矩形 5034" transform="translate(76 46)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="248" height="308" stroke="none"/>
+      <rect x="0.5" y="0.5" width="247" height="307" fill="none"/>
+    </g>
+    <g id="矩形_5035" data-name="矩形 5035" transform="translate(107 107)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="186" height="186" stroke="none"/>
+      <rect x="0.5" y="0.5" width="185" height="185" fill="none"/>
+    </g>
+    <g id="矩形_5036" data-name="矩形 5036" transform="translate(123 123)" fill="rgba(0,0,0,0)" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="155" height="155" stroke="none"/>
+      <rect x="0.5" y="0.5" width="154" height="154" fill="none"/>
+    </g>
+    <g id="椭圆_498" data-name="椭圆 498" transform="translate(46 46)" fill="none" stroke="#333b44" stroke-width="32">
+      <circle cx="154" cy="154" r="154" stroke="none"/>
+      <circle cx="154" cy="154" r="138" fill="none"/>
+    </g>
+    <circle id="椭圆_499" data-name="椭圆 499" cx="23" cy="23" r="23" transform="translate(177 108)" fill="#333b44"/>
+    <rect id="矩形_5047" data-name="矩形 5047" width="47" height="24" transform="translate(169 169)" fill="#333b44"/>
+    <rect id="矩形_5048" data-name="矩形 5048" width="62" height="24" transform="translate(169 254)" fill="#333b44"/>
+    <rect id="矩形_5049" data-name="矩形 5049" width="92" height="32" transform="translate(216 169) rotate(90)" fill="#333b44"/>
+    <rect id="矩形_5050" data-name="矩形 5050" width="31" height="24" transform="translate(203 169)" fill="#377CFD" opacity="0.8"/>
+    <text id="_1.5" data-name="1.5" transform="translate(257 190)" fill="#377CFD" font-size="26" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">1.5</tspan></text>
+    <g id="组件_460_1" data-name="组件 460 – 1" transform="translate(243 169.001)">
+      <rect id="矩形_5051" data-name="矩形 5051" width="11.001" height="1.641" fill="#377CFD"/>
+      <rect id="矩形_5052" data-name="矩形 5052" width="11.001" height="1.641" transform="translate(0 22.358)" fill="#377CFD"/>
+      <rect id="矩形_5053" data-name="矩形 5053" width="23.026" height="1.572" transform="translate(6.286 0.41) rotate(90)" fill="#377CFD"/>
+    </g>
+  </g>
+</svg>

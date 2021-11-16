@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="494" viewBox="0 0 980 494">
+  <defs>
+    <clipPath id="clip-c-6">
+      <rect width="980" height="494"/>
+    </clipPath>
+  </defs>
+  <g id="c-6" clip-path="url(#clip-c-6)">
+    <rect width="980" height="494" fill="#fff"/>
+    <g id="组件_443_19" data-name="组件 443 – 19">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="494" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="493" rx="3.5" fill="none"/>
+      </g>
+    </g>
+    <rect id="矩形_4992" data-name="矩形 4992" width="289" height="88" transform="translate(651 365)" fill="#377CFD" opacity="0.07"/>
+    <rect id="矩形_4991" data-name="矩形 4991" width="91" height="89" transform="translate(560 275)" fill="#377CFD" opacity="0.07"/>
+    <text id="Viewport_Min-width" data-name="Viewport Min-width" transform="translate(40 61)" fill="#333b44" font-size="24" font-family="SourceHanSansCN-Bold, Source Han Sans CN" font-weight="700"><tspan x="0" y="0">Viewport Min-width</tspan></text>
+    <text id="_8" data-name="8" transform="translate(246 239)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">8</tspan></text>
+    <text id="_8-2" data-name="8" transform="translate(439 239)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">8</tspan></text>
+    <text id="_964" data-name="964" transform="translate(529 212)" fill="#377CFD" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">964</tspan></text>
+    <text id="_1040" data-name="1040" transform="translate(641 303)" fill="#377CFD" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-30.494" y="0">1040</tspan></text>
+    <text id="_" data-name="~~" transform="translate(930 394)" fill="#377CFD" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-19.284" y="0">~~</tspan></text>
+    <text id="_Min_Fiexed_" data-name="(Min&amp;Fiexed)" transform="translate(567 212)" fill="#377CFD" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">(Min&amp;Fiexed)</tspan></text>
+    <text id="_16" data-name="16" transform="translate(439 329)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">16</tspan></text>
+    <text id="_24" data-name="24" transform="translate(439 418)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">24</tspan></text>
+    <text id="Margin" transform="translate(439 162)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">Margin</tspan></text>
+    <text id="_16-2" data-name="16" transform="translate(246 329)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">16</tspan></text>
+    <text id="_24-2" data-name="24" transform="translate(246 418)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">24</tspan></text>
+    <text id="Gutter" transform="translate(246 162)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">Gutter</tspan></text>
+    <text id="Column" transform="translate(40 162)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">Column</tspan></text>
+    <text id="视窗最小宽度" transform="translate(40 93)" fill="rgba(0,0,0,0.48)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.5"><tspan x="0" y="0">视窗最小宽度</tspan></text>
+    <g id="组_15869" data-name="组 15869" transform="translate(-32 -14.928)">
+      <rect id="矩形_4981" data-name="矩形 4981" width="1" height="7" transform="translate(321 63)" fill="#377CFD"/>
+      <rect id="矩形_4985" data-name="矩形 4985" width="1" height="7" transform="translate(379 63)" fill="#377CFD"/>
+      <rect id="矩形_4982" data-name="矩形 4982" width="1" height="52" transform="translate(374 66) rotate(90)" fill="#377CFD"/>
+      <path id="减去_81" data-name="减去 81" d="M1259,10544.928h0v-9l7,4.5-7,4.5Z" transform="translate(-887 -10474)" fill="#377CFD"/>
+    </g>
+    <rect id="矩形_4987" data-name="矩形 4987" width="900" height="1" transform="translate(40 187)" fill="#e9eaed"/>
+    <rect id="矩形_4988" data-name="矩形 4988" width="900" height="1" transform="translate(40 275)" fill="#e9eaed"/>
+    <rect id="矩形_4993" data-name="矩形 4993" width="900" height="1" transform="translate(40 453)" fill="#e9eaed"/>
+    <rect id="矩形_4990" data-name="矩形 4990" width="900" height="1" transform="translate(40 364)" fill="#e9eaed"/>
+    <text id="_24-3" data-name="24" transform="translate(40 239)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">24</tspan></text>
+    <text id="_18" data-name="18" transform="translate(40 329)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">18</tspan></text>
+    <text id="_12" data-name="12" transform="translate(40 419)" fill="rgba(0,0,0,0.8)" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">12</tspan></text>
+    <g id="组件_453_1" data-name="组件 453 – 1" transform="translate(40 182)">
+      <rect id="矩形_4981-2" data-name="矩形 4981" width="2" height="10" fill="#377CFD"/>
+      <rect id="矩形_4985-2" data-name="矩形 4985" width="1" height="6" transform="translate(519 2.072)" fill="#377CFD"/>
+      <rect id="矩形_4982-2" data-name="矩形 4982" width="2" height="514" transform="translate(516 4) rotate(90)" fill="#377CFD"/>
+      <path id="减去_81-2" data-name="减去 81" d="M0,10H0V0L10,5,0,10Z" transform="translate(510.001 0.072)" fill="#377CFD"/>
+    </g>
+    <g id="组件_453_2" data-name="组件 453 – 2" transform="translate(40 270.964)">
+      <rect id="矩形_4981-3" data-name="矩形 4981" width="2" height="10" fill="#377CFD"/>
+      <rect id="矩形_4985-3" data-name="矩形 4985" width="1" height="6" transform="translate(609.999 2.072)" fill="#377CFD"/>
+      <rect id="矩形_4982-3" data-name="矩形 4982" width="2" height="605" transform="translate(607 4) rotate(90)" fill="#377CFD"/>
+      <path id="减去_81-3" data-name="减去 81" d="M0,10H0V0L10,5,0,10Z" transform="translate(601 0.072)" fill="#377CFD"/>
+    </g>
+    <g id="组件_453_3" data-name="组件 453 – 3" transform="translate(40 358.964)">
+      <rect id="矩形_4981-4" data-name="矩形 4981" width="2" height="10" fill="#377CFD"/>
+      <rect id="矩形_4985-4" data-name="矩形 4985" width="1" height="6" transform="translate(899 2.072)" fill="#377CFD"/>
+      <rect id="矩形_4982-4" data-name="矩形 4982" width="2" height="893.999" transform="translate(895.999 4) rotate(90)" fill="#377CFD"/>
+      <path id="减去_81-4" data-name="减去 81" d="M0,10H0V0L10,5,0,10Z" transform="translate(890 0.072)" fill="#377CFD"/>
+    </g>
+  </g>
+</svg>

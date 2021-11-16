@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="422" viewBox="0 0 980 422">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="397" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-image-11">
+      <rect width="980" height="422"/>
+    </clipPath>
+  </defs>
+  <g id="image-11" clip-path="url(#clip-image-11)">
+    <rect width="980" height="422" fill="#fff"/>
+    <g id="组件_443_7" data-name="组件 443 – 7">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="422" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="421" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="382" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="381" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_13997" data-name="组 13997" transform="translate(-27 -19)">
+      <g id="矩形_4609" data-name="矩形 4609" transform="translate(87 79)" fill="#fff" stroke="#e9eaed" stroke-width="1">
+        <rect width="400" height="302" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="401" height="303" fill="none"/>
+      </g>
+      <g id="组_13996" data-name="组 13996" transform="translate(87 79)">
+        <rect id="矩形_4604" data-name="矩形 4604" width="400" height="21" fill="#377CFD"/>
+        <rect id="矩形_4605" data-name="矩形 4605" width="50" height="281" transform="translate(0 21)" fill="#ccc"/>
+        <rect id="矩形_4606" data-name="矩形 4606" width="66" height="281" transform="translate(50 21)" fill="#f2f2f2"/>
+        <rect id="矩形_4607" data-name="矩形 4607" width="284" height="14" transform="translate(116 21)" fill="#e1f0ff"/>
+        <rect id="矩形_4608" data-name="矩形 4608" width="284" height="267" transform="translate(116 35)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="组_13998" data-name="组 13998" transform="translate(433 -19)">
+      <g id="矩形_4609-2" data-name="矩形 4609" transform="translate(87 79)" fill="#fff" stroke="#e4e5eb" stroke-width="1">
+        <rect width="400" height="302" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="401" height="303" fill="none"/>
+      </g>
+      <g id="组_13996-2" data-name="组 13996" transform="translate(87 79)">
+        <rect id="矩形_4608-2" data-name="矩形 4608" width="400" height="267" transform="translate(0 35)" fill="#fff"/>
+        <rect id="矩形_4604-2" data-name="矩形 4604" width="400" height="21" fill="#377CFD"/>
+        <rect id="矩形_4605-2" data-name="矩形 4605" width="50" height="267" transform="translate(0 35)" fill="#ccc"/>
+        <rect id="矩形_4606-2" data-name="矩形 4606" width="61" height="267" transform="translate(64 35)" fill="#f2f2f2"/>
+        <rect id="矩形_4607-2" data-name="矩形 4607" width="261" height="14" transform="translate(139 35)" fill="#e1f0ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

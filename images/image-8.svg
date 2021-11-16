@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="433" viewBox="0 0 980 433">
+  <defs>
+    <filter id="矩形_4590" x="242.5" y="37.5" width="225" height="296" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-image-8">
+      <rect width="980" height="433"/>
+    </clipPath>
+  </defs>
+  <g id="image-8" clip-path="url(#clip-image-8)">
+    <rect width="980" height="433" fill="#fff"/>
+    <g id="矩形_4556" data-name="矩形 4556" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="480" height="433" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="432" rx="3.5" fill="none"/>
+    </g>
+    <path id="矩形_4567" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 429)" fill="#44c261"/>
+    <g id="组件_448_1" data-name="组件 448 – 1" transform="translate(20 389)">
+      <circle id="椭圆_479" data-name="椭圆 479" cx="12" cy="12" r="12" fill="#44c261"/>
+      <path id="路径_6439" data-name="路径 6439" d="M-13404.822-12343.829l3.727,3.408,6.229-7.4" transform="translate(13411.515 12356.083)" fill="none" stroke="#fff" stroke-width="2.5"/>
+    </g>
+    <text id="正确示范" transform="translate(54 407)" fill="#13ce66" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">正确示范</tspan></text>
+    <g id="组_13974" data-name="组 13974" transform="translate(10549 12467)">
+      <rect id="矩形_4590-2" data-name="矩形 4590" width="210" height="281" rx="4" transform="translate(-10529 -12423)" fill="#bcbcbc"/>
+      <rect id="矩形_4585" data-name="矩形 4585" width="178" height="9" transform="translate(-10513 -12401)" fill="#a7abb4"/>
+      <rect id="矩形_4586" data-name="矩形 4586" width="178" height="9" transform="translate(-10513 -12384)" fill="#a7abb4"/>
+      <rect id="矩形_4588" data-name="矩形 4588" width="178" height="61" transform="translate(-10513 -12350)" fill="#fff"/>
+      <rect id="矩形_4587" data-name="矩形 4587" width="61" height="9" transform="translate(-10513 -12367)" fill="#a7abb4"/>
+      <text id="步骤一" transform="translate(-10445 -12314)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">步骤一</tspan></text>
+      <g id="组_13973" data-name="组 13973" transform="translate(-10513 -12256)">
+        <rect id="矩形_4591" data-name="矩形 4591" width="178" height="23" fill="#a7abb4"/>
+        <rect id="矩形_4592" data-name="矩形 4592" width="67" height="31" rx="4" transform="translate(56 31)" fill="#377CFD"/>
+        <text id="跳过" transform="translate(75 52)" fill="#fff" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">跳过</tspan></text>
+      </g>
+    </g>
+    <g id="组_13977" data-name="组 13977" transform="translate(10420 12467)">
+      <g transform="matrix(1, 0, 0, 1, -10420, -12467)" filter="url(#矩形_4590)">
+        <g id="矩形_4590-3" data-name="矩形 4590" transform="translate(250 44)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="210" height="281" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="209" height="280" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <rect id="矩形_4585-2" data-name="矩形 4585" width="178" height="9" transform="translate(-10154 -12401)" fill="#e2e7f4"/>
+      <rect id="矩形_4586-2" data-name="矩形 4586" width="178" height="9" transform="translate(-10154 -12384)" fill="#e2e7f4"/>
+      <rect id="矩形_4588-2" data-name="矩形 4588" width="178" height="61" transform="translate(-10154 -12350)" fill="#e2e7f4"/>
+      <rect id="矩形_4589" data-name="矩形 4589" width="178" height="61" transform="translate(-10154 -12281)" fill="#fff"/>
+      <rect id="矩形_4587-2" data-name="矩形 4587" width="61" height="9" transform="translate(-10154 -12367)" fill="#e2e7f4"/>
+      <rect id="矩形_4593" data-name="矩形 4593" width="178" height="23" transform="translate(-10154 -12221)" fill="#e2e7f4"/>
+      <g id="组件_452_1" data-name="组件 452 – 1" transform="translate(-10154 -12265)">
+        <g id="组_13975" data-name="组 13975">
+          <rect id="矩形_4594" data-name="矩形 4594" width="79" height="30" rx="4" transform="translate(0 -2)" fill="#333"/>
+          <text id="新功能提示" transform="translate(7 18)" fill="#fff" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">新功能提示</tspan></text>
+        </g>
+        <path id="减去_78" data-name="减去 78" d="M5,4.692H5L0,0H10L5,4.691Z" transform="translate(35 27)" fill="#333"/>
+      </g>
+    </g>
+    <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(500)" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="480" height="433" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="432" rx="3.5" fill="none"/>
+    </g>
+    <path id="矩形_4567-2" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(500 429)" fill="#ff4949"/>
+    <g id="组件_448_1-2" data-name="组件 448 – 1" transform="translate(520 389)">
+      <g id="组_13960" data-name="组 13960">
+        <g id="组_13956" data-name="组 13956">
+          <circle id="椭圆_479-2" data-name="椭圆 479" cx="12" cy="12" r="12" transform="translate(0 0)" fill="#ff4949"/>
+        </g>
+        <g id="组_13957" data-name="组 13957" transform="translate(7.906 7.812)">
+          <g id="组_13959" data-name="组 13959">
+            <path id="路径_6440" data-name="路径 6440" d="M-13395.8-12073.376l-8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+            <path id="路径_6441" data-name="路径 6441" d="M-13404-12073.376l8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="错误示范" transform="translate(554 407)" fill="#ff4949" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">错误示范</tspan></text>
+    <g id="组_13971" data-name="组 13971" transform="translate(520 44)">
+      <rect id="矩形_4590-4" data-name="矩形 4590" width="210" height="281" rx="4" fill="#bcbcbc"/>
+      <g id="组_13970" data-name="组 13970" transform="translate(16 22)">
+        <rect id="矩形_4585-3" data-name="矩形 4585" width="178" height="9" fill="#a7abb4"/>
+        <rect id="矩形_4586-3" data-name="矩形 4586" width="178" height="9" transform="translate(0 17)" fill="#a7abb4"/>
+        <rect id="矩形_4588-3" data-name="矩形 4588" width="178" height="61" transform="translate(0 51)" fill="#fff"/>
+        <rect id="矩形_4589-2" data-name="矩形 4589" width="178" height="61" transform="translate(0 120)" fill="#fff"/>
+        <rect id="矩形_4587-3" data-name="矩形 4587" width="61" height="9" transform="translate(0 34)" fill="#a7abb4"/>
+        <text id="步骤一-2" data-name="步骤一" transform="translate(68 87)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">步骤一</tspan></text>
+        <text id="步骤二" transform="translate(68 156)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">步骤二</tspan></text>
+      </g>
+    </g>
+    <g id="组_13972" data-name="组 13972" transform="translate(750 44)">
+      <rect id="矩形_4590-5" data-name="矩形 4590" width="210" height="281" fill="#bcbcbc"/>
+      <g id="组_13970-2" data-name="组 13970" transform="translate(16 22)">
+        <rect id="矩形_4585-4" data-name="矩形 4585" width="178" height="9" fill="#a7abb4"/>
+        <rect id="矩形_4586-4" data-name="矩形 4586" width="178" height="9" transform="translate(0 17)" fill="#a7abb4"/>
+        <rect id="矩形_4588-4" data-name="矩形 4588" width="178" height="61" transform="translate(0 51)" fill="#a7abb4"/>
+        <rect id="矩形_4589-3" data-name="矩形 4589" width="178" height="61" transform="translate(0 120)" fill="#fff"/>
+        <rect id="矩形_4587-4" data-name="矩形 4587" width="61" height="9" transform="translate(0 34)" fill="#a7abb4"/>
+        <text id="步骤三" transform="translate(68 156)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">步骤三</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

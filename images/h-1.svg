@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="168" viewBox="0 0 980 168">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="143" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-h-1">
+      <rect width="980" height="168"/>
+    </clipPath>
+  </defs>
+  <g id="h-1" clip-path="url(#clip-h-1)">
+    <rect width="980" height="168" fill="#fff"/>
+    <g id="组件_443_31" data-name="组件 443 – 31">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="168" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="167" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="128" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="127" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_16005" data-name="组 16005" transform="translate(-2 -12)">
+      <text id="_" data-name="…" transform="translate(890 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-12" y="21">…</tspan></text>
+      <text id="_56" data-name="56" transform="translate(798 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">56</tspan></text>
+      <text id="_48" data-name="48" transform="translate(706 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">48</tspan></text>
+      <text id="_40" data-name="40" transform="translate(614 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">40</tspan></text>
+      <text id="_32" data-name="32" transform="translate(522 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">32</tspan></text>
+      <text id="_24" data-name="24" transform="translate(430 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">24</tspan></text>
+      <text id="_16" data-name="16" transform="translate(338 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">16</tspan></text>
+      <text id="_8" data-name="8" transform="translate(246 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-6.588" y="21">8</tspan></text>
+      <text id="_4" data-name="4" transform="translate(154 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-6.588" y="21">4</tspan></text>
+      <text id="_0" data-name="0" transform="translate(62 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-6.588" y="21">0</tspan></text>
+    </g>
+  </g>
+</svg>

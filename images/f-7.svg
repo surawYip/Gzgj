@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="444" viewBox="0 0 980 444">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="419" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-f-7">
+      <rect width="980" height="444"/>
+    </clipPath>
+  </defs>
+  <g id="f-7" clip-path="url(#clip-f-7)">
+    <rect width="980" height="444" fill="#fff"/>
+    <g id="组件_443_29" data-name="组件 443 – 29">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="444" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="443" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="404" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="403" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <path id="路径_6695" data-name="路径 6695" d="M0,0H347.641" transform="translate(238.465 48.179) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+    <path id="路径_6699" data-name="路径 6699" d="M1438.574-12214h348" transform="translate(-1374.574 12436.554)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+    <g id="矩形_5062" data-name="矩形 5062" transform="translate(150.077 134.261)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="175.827" height="175.648" stroke="none"/>
+      <rect x="0.5" y="0.5" width="174.827" height="174.648" fill="none"/>
+    </g>
+    <g id="矩形_5063" data-name="矩形 5063" transform="translate(164.99 149.084)" fill="rgba(0,0,0,0)" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="147" height="147" stroke="none"/>
+      <rect x="0.5" y="0.5" width="146" height="146" fill="none"/>
+    </g>
+    <rect id="矩形_5058" data-name="矩形 5058" width="348" height="347.821" transform="translate(64 48.179)" fill="#fff" stroke="#e5ebfc" stroke-width="1"/>
+    <path id="路径_6696" data-name="路径 6696" d="M1439.392-12381l348,347.82" transform="translate(-1375.392 12429)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+    <path id="路径_6697" data-name="路径 6697" d="M1787.392-12381l-348,347.82" transform="translate(-1375.392 12429)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+    <g id="椭圆_500" data-name="椭圆 500" transform="translate(92.077 76.261)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <ellipse cx="145.914" cy="145.824" rx="145.914" ry="145.824" stroke="none"/>
+      <ellipse cx="145.914" cy="145.824" rx="145.414" ry="145.324" fill="none"/>
+    </g>
+    <g id="矩形_5059" data-name="矩形 5059" transform="translate(105.077 89.261)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="265.827" height="265.648" stroke="none"/>
+      <rect x="0.5" y="0.5" width="264.827" height="264.648" fill="none"/>
+    </g>
+    <g id="矩形_5060" data-name="矩形 5060" transform="translate(383.904 104.261) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="235.648" height="291.827" stroke="none"/>
+      <rect x="0.5" y="0.5" width="234.648" height="290.827" fill="none"/>
+    </g>
+    <g id="矩形_5061" data-name="矩形 5061" transform="translate(120.077 76.261)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+      <rect width="235.827" height="291.648" stroke="none"/>
+      <rect x="0.5" y="0.5" width="234.827" height="290.648" fill="none"/>
+    </g>
+    <g id="联合_109" data-name="联合 109" transform="translate(93.078 102.909)" fill="none" stroke-miterlimit="10">
+      <path d="M131.432,247.1,91.332,207H14A14,14,0,0,1,0,193V14A14,14,0,0,1,14,0H268.827a14,14,0,0,1,14,14V193a14,14,0,0,1-14,14h-77.5l-40.1,40.1a14,14,0,0,1-19.8,0Z" stroke="none"/>
+      <path d="M 141.3311614990234 211.7450256347656 L 178.0762329101562 175.0000457763672 L 250.8268127441406 175.0000457763672 L 250.8268127441406 32.00004577636719 L 31.9999942779541 32.00004577636719 L 31.9999942779541 175.0000457763672 L 104.5867004394531 175.0000457763672 L 141.3311614990234 211.7450256347656 M 141.3310546875 251.2009887695312 C 137.7481079101562 251.2009887695312 134.165283203125 249.8341674804688 131.4315185546875 247.1004028320312 L 91.33175659179688 207.0000457763672 L 14.00034713745117 207.0000457763672 C 6.268465042114258 207.0000457763672 -5.392635557655012e-06 200.7324066162109 -5.392635557655012e-06 192.9995727539062 L -5.392635557655012e-06 14.00039958953857 C -5.392635557655012e-06 6.267576217651367 6.268465042114258 4.668471228796989e-05 14.00034713745117 4.668471228796989e-05 L 268.8273010253906 4.668471228796989e-05 C 276.5591735839844 4.668471228796989e-05 282.8268127441406 6.267576217651367 282.8268127441406 14.00039958953857 L 282.8268127441406 192.9995727539062 C 282.8268127441406 200.7324066162109 276.5591735839844 207.0000457763672 268.8273010253906 207.0000457763672 L 191.3310546875 207.0000457763672 L 151.2305755615234 247.1004028320312 C 148.4968109130859 249.8341674804688 144.9140014648438 251.2009887695312 141.3310546875 251.2009887695312 Z" stroke="none" fill="#333b44"/>
+    </g>
+    <g id="组_15917" data-name="组 15917" transform="translate(151.994 191.101)">
+      <circle id="椭圆_502" data-name="椭圆 502" cx="17" cy="17" r="17" fill="#333b44"/>
+      <circle id="椭圆_503" data-name="椭圆 503" cx="17" cy="17" r="17" transform="translate(66)" fill="#333b44"/>
+      <circle id="椭圆_504" data-name="椭圆 504" cx="17" cy="17" r="17" transform="translate(132)" fill="#333b44"/>
+    </g>
+    <g id="组_15920" data-name="组 15920" transform="translate(503.077 -0.739)">
+      <g id="组_15918" data-name="组 15918" transform="translate(64.923 48.739)">
+        <rect id="矩形_5058-2" data-name="矩形 5058" width="348" height="347.821" transform="translate(0 0.179)" fill="#fff" stroke="#e5ebfc" stroke-width="1"/>
+        <path id="路径_6695-2" data-name="路径 6695" d="M0,0H347.641" transform="translate(174.465 0.179) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6699-2" data-name="路径 6699" d="M1438.574-12214h348" transform="translate(-1438.574 12388.554)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6696-2" data-name="路径 6696" d="M1439.392-12381l348,347.82" transform="translate(-1439.392 12381)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6697-2" data-name="路径 6697" d="M1787.392-12381l-348,347.82" transform="translate(-1439.392 12381)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <g id="椭圆_500-2" data-name="椭圆 500" transform="translate(28.077 28.261)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <ellipse cx="145.914" cy="145.824" rx="145.914" ry="145.824" stroke="none"/>
+          <ellipse cx="145.914" cy="145.824" rx="145.414" ry="145.324" fill="none"/>
+        </g>
+        <g id="矩形_5059-2" data-name="矩形 5059" transform="translate(41.077 41.261)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="265.827" height="265.648" stroke="none"/>
+          <rect x="0.5" y="0.5" width="264.827" height="264.648" fill="none"/>
+        </g>
+        <g id="矩形_5060-2" data-name="矩形 5060" transform="translate(319.904 56.261) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="235.648" height="291.827" stroke="none"/>
+          <rect x="0.5" y="0.5" width="234.648" height="290.827" fill="none"/>
+        </g>
+        <g id="矩形_5061-2" data-name="矩形 5061" transform="translate(56.077 28.261)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="235.827" height="291.648" stroke="none"/>
+          <rect x="0.5" y="0.5" width="234.827" height="290.648" fill="none"/>
+        </g>
+        <g id="矩形_5062-2" data-name="矩形 5062" transform="translate(86.077 86.261)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="175.827" height="175.648" stroke="none"/>
+          <rect x="0.5" y="0.5" width="174.827" height="174.648" fill="none"/>
+        </g>
+        <g id="矩形_5063-2" data-name="矩形 5063" transform="translate(100.99 101.084)" fill="rgba(0,0,0,0)" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="147" height="147" stroke="none"/>
+          <rect x="0.5" y="0.5" width="146" height="146" fill="none"/>
+        </g>
+        <path id="联合_109-2" data-name="联合 109" d="M131.432,247.1,91.332,207H14A14,14,0,0,1,0,193V14A14,14,0,0,1,14,0H268.827a14,14,0,0,1,14,14V193a14,14,0,0,1-14,14h-77.5l-40.1,40.1a14,14,0,0,1-19.8,0Z" transform="translate(29.078 54.909)" fill="#333b44"/>
+        <g id="组_15917-2" data-name="组 15917" transform="translate(87.994 143.101)">
+          <circle id="椭圆_502-2" data-name="椭圆 502" cx="17" cy="17" r="17" fill="#fff"/>
+          <circle id="椭圆_503-2" data-name="椭圆 503" cx="17" cy="17" r="17" transform="translate(66)" fill="#fff"/>
+          <circle id="椭圆_504-2" data-name="椭圆 504" cx="17" cy="17" r="17" transform="translate(132)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="组件_459_2" data-name="组件 459 – 2" transform="translate(435.986 215.589)">
+      <g id="减去_82" data-name="减去 82" transform="translate(102.623 14) rotate(180)" fill="none">
+        <path d="M13,0h0L0,7l13,7V0Z" stroke="none"/>
+        <path d="M 13 0 L 13 14 L 0 7 L 13 0 Z" stroke="none" fill="#333b44"/>
+      </g>
+      <path id="路径_6682" data-name="路径 6682" d="M-2068.909-12402.457h-86.763" transform="translate(2155.672 12409.368)" fill="none" stroke="#333b44" stroke-width="2" stroke-dasharray="3"/>
+    </g>
+  </g>
+</svg>

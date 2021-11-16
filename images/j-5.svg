@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="277" viewBox="0 0 980 277">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="252" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-j-5">
+      <rect width="980" height="277"/>
+    </clipPath>
+  </defs>
+  <g id="j-5" clip-path="url(#clip-j-5)">
+    <rect width="980" height="277" fill="#fff"/>
+    <g id="组件_443_42" data-name="组件 443 – 42">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="277" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="276" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="237" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="236" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <rect id="矩形_5183" data-name="矩形 5183" width="184" height="184" rx="4" transform="translate(200 47)" fill="none" stroke="#377CFD" stroke-width="7"/>
+    <g id="路径_6711" data-name="路径 6711" transform="translate(200 47)" fill="rgba(55,124,253,0.5)">
+      <path d="M 176 176 L 8 176 L 8 8 L 176 8 L 176 176 Z" stroke="none"/>
+      <path d="M 16 16 L 16 168 L 168 168 L 168 16 L 16 16 M 0 0 L 184 0 L 184 184 L 0 184 L 0 0 Z" stroke="none" fill="#c2d7ff"/>
+    </g>
+    <g id="组_16027" data-name="组 16027">
+      <g id="矩形_5185" data-name="矩形 5185" transform="translate(596 47)" fill="#fff" stroke="#377CFD" stroke-width="3.5">
+        <rect width="184" height="184" rx="8" stroke="none"/>
+        <rect x="-1.75" y="-1.75" width="187.5" height="187.5" rx="9.75" fill="none"/>
+      </g>
+      <g id="矩形_5189" data-name="矩形 5189" transform="translate(596 47)" fill="#fff" stroke="rgba(55,124,253,0.3)" stroke-width="16">
+        <rect width="184" height="184" rx="8" stroke="none"/>
+        <rect x="8" y="8" width="168" height="168" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

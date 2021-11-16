@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="188" viewBox="0 0 980 188">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="163" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-j-4">
+      <rect width="980" height="188"/>
+    </clipPath>
+  </defs>
+  <g id="j-4" clip-path="url(#clip-j-4)">
+    <rect width="980" height="188" fill="#fff"/>
+    <g id="组件_443_41" data-name="组件 443 – 41">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="188" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="187" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="148" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="147" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <rect id="矩形_5195" data-name="矩形 5195" width="92" height="92" transform="translate(840 48)" fill="#c2d7ff" stroke="#377CFD" stroke-width="2.5"/>
+    <rect id="矩形_5194" data-name="矩形 5194" width="92" height="92" transform="translate(708 48)" fill="#c2d7ff" stroke="#377CFD" stroke-width="2.5"/>
+    <rect id="矩形_5193" data-name="矩形 5193" width="92" height="92" transform="translate(576 48)" fill="#c2d7ff" stroke="#377CFD" stroke-width="2.5"/>
+    <rect id="矩形_5192" data-name="矩形 5192" width="92" height="92" transform="translate(444 48)" fill="#c2d7ff" stroke="#377CFD" stroke-width="2.5"/>
+    <rect id="矩形_5191" data-name="矩形 5191" width="92" height="92" transform="translate(312 48)" fill="#c2d7ff" stroke="#377CFD" stroke-width="2.5"/>
+    <rect id="矩形_5190" data-name="矩形 5190" width="92" height="92" transform="translate(180 48)" fill="#c2d7ff" stroke="#377CFD" stroke-width="2.5"/>
+    <rect id="矩形_5185" data-name="矩形 5185" width="92" height="92" transform="translate(48 48)" fill="#c2d7ff" stroke="#377CFD" stroke-width="2.5"/>
+    <rect id="矩形_5196" data-name="矩形 5196" width="72" height="72" transform="translate(58 58)" fill="#fff"/>
+    <rect id="矩形_5201" data-name="矩形 5201" width="90" height="72" transform="translate(709 58)" fill="#fff"/>
+    <rect id="矩形_5199" data-name="矩形 5199" width="72" height="72" transform="translate(463 58)" fill="#fff"/>
+    <rect id="矩形_5200" data-name="矩形 5200" width="90" height="81" transform="translate(577 58)" fill="#fff"/>
+    <rect id="矩形_5197" data-name="矩形 5197" width="72" height="52" transform="translate(190 68)" fill="#fff"/>
+    <rect id="矩形_5198" data-name="矩形 5198" width="72" height="52" transform="translate(384 58) rotate(90)" fill="#fff"/>
+    <rect id="矩形_5202" data-name="矩形 5202" width="90" height="90" transform="translate(841 49)" fill="#fff"/>
+    <text id="内容" transform="translate(94 100)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-16" y="0">内容</tspan></text>
+    <text id="内容-2" data-name="内容" transform="translate(226 100)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-16" y="0">内容</tspan></text>
+    <text id="内容-3" data-name="内容" transform="translate(358 100)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-16" y="0">内容</tspan></text>
+    <text id="内容-4" data-name="内容" transform="translate(499 100)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-16" y="0">内容</tspan></text>
+    <text id="内容-5" data-name="内容" transform="translate(622 100)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-16" y="0">内容</tspan></text>
+    <text id="内容-6" data-name="内容" transform="translate(754 100)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-16" y="0">内容</tspan></text>
+    <text id="内容-7" data-name="内容" transform="translate(886 100)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-16" y="0">内容</tspan></text>
+  </g>
+</svg>

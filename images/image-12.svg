@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="259" viewBox="0 0 980 259">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="234" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-image-12">
+      <rect width="980" height="259"/>
+    </clipPath>
+  </defs>
+  <g id="image-12" clip-path="url(#clip-image-12)">
+    <rect width="980" height="259" fill="#fff"/>
+    <g id="组件_443_8" data-name="组件 443 – 8">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="259" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="258" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="219" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="218" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="矩形_4610" data-name="矩形 4610" transform="translate(60 60)" fill="#eefcef" stroke="rgba(67,160,71,0.5)" stroke-width="1">
+      <rect width="860" height="51" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="859" height="50" rx="3.5" fill="none"/>
+    </g>
+    <text id="成功样式" transform="translate(109 92)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">成功样式</tspan></text>
+    <g id="组件_448_2" data-name="组件 448 – 2" transform="translate(80 77)">
+      <circle id="椭圆_479" data-name="椭圆 479" cx="9" cy="9" r="9" fill="#44c261"/>
+      <path id="路径_6439" data-name="路径 6439" d="M-13404.822-12343.829l3.727,3.408,6.229-7.4" transform="translate(13408.655 12353.097)" fill="none" stroke="#fff" stroke-width="1.5"/>
+    </g>
+    <g id="矩形_4610-2" data-name="矩形 4610" transform="translate(60 148)" fill="#fbe9e7" stroke="rgba(255,112,67,0.5)" stroke-width="1">
+      <rect width="860" height="51" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="859" height="50" rx="3.5" fill="none"/>
+    </g>
+    <text id="错误样式" transform="translate(109 180)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">错误样式</tspan></text>
+    <g id="组_13960" data-name="组 13960" transform="translate(79.854 164.761)">
+      <g id="组_13956" data-name="组 13956" transform="translate(0.146 0.239)">
+        <circle id="椭圆_479-2" data-name="椭圆 479" cx="9" cy="9" r="9" transform="translate(0 0)" fill="#ff4949"/>
+      </g>
+      <g id="组_13957" data-name="组 13957" transform="translate(6.159 6.18)">
+        <g id="组_13959" data-name="组 13959" transform="translate(0)">
+          <path id="路径_6440" data-name="路径 6440" d="M-13397.763-12073.375l-6.242,6.242" transform="translate(13404.005 12073.375)" fill="none" stroke="#fff" stroke-width="1.5"/>
+          <path id="路径_6441" data-name="路径 6441" d="M-13404-12073.375l6.242,6.242" transform="translate(13404.005 12073.375)" fill="none" stroke="#fff" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_13999" data-name="组 13999" transform="translate(889.73 81)" opacity="0.76">
+      <g id="组_13959-2" data-name="组 13959" transform="translate(0)">
+        <path id="路径_6440-2" data-name="路径 6440" d="M-13394.006-12073.377l-10,10" transform="translate(13404.006 12073.377)" fill="none" stroke="#707070" stroke-width="1.5"/>
+        <path id="路径_6441-2" data-name="路径 6441" d="M-13404.006-12073.377l10,10" transform="translate(13404.006 12073.377)" fill="none" stroke="#707070" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="组_14000" data-name="组 14000" transform="translate(889.73 169)" opacity="0.76">
+      <g id="组_13959-3" data-name="组 13959" transform="translate(0)">
+        <path id="路径_6440-3" data-name="路径 6440" d="M-13394.006-12073.377l-10,10" transform="translate(13404.006 12073.377)" fill="none" stroke="#707070" stroke-width="1.5"/>
+        <path id="路径_6441-3" data-name="路径 6441" d="M-13404.006-12073.377l10,10" transform="translate(13404.006 12073.377)" fill="none" stroke="#707070" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

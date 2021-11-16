@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="247" viewBox="0 0 980 247">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="222" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-a-1">
+      <rect width="980" height="247"/>
+    </clipPath>
+  </defs>
+  <g id="a-1" clip-path="url(#clip-a-1)">
+    <rect width="980" height="247" fill="#fff"/>
+    <g id="组件_443_9" data-name="组件 443 – 9">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="247" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="246" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="207" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="206" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_15847" data-name="组 15847" transform="translate(10 3)">
+      <g id="组_15844" data-name="组 15844">
+        <g id="组_14933" data-name="组 14933" transform="translate(46 47)">
+          <g id="矩形_2893" data-name="矩形 2893" transform="translate(18 7)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="229" height="123" stroke="none"/>
+            <rect x="0.5" y="0.5" width="228" height="122" fill="none"/>
+          </g>
+          <g id="矩形_2894" data-name="矩形 2894" transform="translate(11)" fill="#fff" stroke="#707070" stroke-width="1">
+            <path d="M8,0H235a8,8,0,0,1,8,8V137a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" stroke="none"/>
+            <path d="M8,.5H235A7.5,7.5,0,0,1,242.5,8V136a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V8A7.5,7.5,0,0,1,8,.5Z" fill="none"/>
+          </g>
+          <g id="矩形_2895" data-name="矩形 2895" transform="translate(0 136)" fill="#fff" stroke="#707070" stroke-width="1">
+            <path d="M0,0H265a0,0,0,0,1,0,0V0a11,11,0,0,1-11,11H11A11,11,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M.557.5H264.443a.057.057,0,0,1,.057.057v0a9.943,9.943,0,0,1-9.943,9.943H10.443A9.943,9.943,0,0,1,.5.557v0A.057.057,0,0,1,.557.5Z" fill="none"/>
+          </g>
+          <g id="矩形_2896" data-name="矩形 2896" transform="translate(18 7)" fill="#fff" stroke="#707070" stroke-width="1">
+            <rect width="229" height="122" stroke="none"/>
+            <rect x="0.5" y="0.5" width="228" height="121" fill="none"/>
+          </g>
+        </g>
+        <text id="_1920_1080" data-name="1920 × 1080" transform="translate(179 112)" fill="#282f39" font-size="20" font-family="SourceHanSansCN-Bold, Source Han Sans CN" font-weight="700"><tspan x="-61.66" y="0">1920 × 1080</tspan></text>
+        <text id="主流屏幕分辨率" transform="translate(130 138)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">主流屏幕分辨率</tspan></text>
+      </g>
+      <g id="组_15846" data-name="组 15846">
+        <g id="组_15843" data-name="组 15843">
+          <g id="组_14933-2" data-name="组 14933" transform="translate(647.5 47)">
+            <g id="矩形_2893-2" data-name="矩形 2893" transform="translate(18.5 7)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="229" height="123" stroke="none"/>
+              <rect x="0.5" y="0.5" width="228" height="122" fill="none"/>
+            </g>
+            <g id="矩形_2894-2" data-name="矩形 2894" transform="translate(12.5)" fill="#fff" stroke="#707070" stroke-width="1">
+              <path d="M8,0H234a8,8,0,0,1,8,8V137a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" stroke="none"/>
+              <path d="M8,.5H234A7.5,7.5,0,0,1,241.5,8V136a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V8A7.5,7.5,0,0,1,8,.5Z" fill="none"/>
+            </g>
+            <g id="矩形_2895-2" data-name="矩形 2895" transform="translate(0.5 136)" fill="#fff" stroke="#707070" stroke-width="1">
+              <path d="M0,0H266a0,0,0,0,1,0,0V0a11,11,0,0,1-11,11H11A11,11,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+              <path d="M.557.5H265.443a.057.057,0,0,1,.057.057v0a9.943,9.943,0,0,1-9.943,9.943H10.443A9.943,9.943,0,0,1,.5.557v0A.057.057,0,0,1,.557.5Z" fill="none"/>
+            </g>
+            <g id="矩形_2896-2" data-name="矩形 2896" transform="translate(18.5 7)" fill="#fff" stroke="#707070" stroke-width="1">
+              <rect width="229" height="122" stroke="none"/>
+              <rect x="0.5" y="0.5" width="228" height="121" fill="none"/>
+            </g>
+          </g>
+          <text id="_1366_768" data-name="1366×768" transform="translate(781 112)" fill="#282f39" font-size="20" font-family="SourceHanSansCN-Bold, Source Han Sans CN" font-weight="700"><tspan x="-51.23" y="0">1366×768</tspan></text>
+          <text id="笔记本常用分辨率" transform="translate(781 138)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-56" y="0">笔记本常用分辨率</tspan></text>
+        </g>
+      </g>
+      <g id="组_15845" data-name="组 15845" transform="translate(-10)">
+        <g id="组_14933-3" data-name="组 14933" transform="translate(357 47)">
+          <g id="矩形_2893-3" data-name="矩形 2893" transform="translate(18 7)" fill="#fff" stroke="#377CFD" stroke-width="1">
+            <rect width="230" height="123" stroke="none"/>
+            <rect x="0.5" y="0.5" width="229" height="122" fill="none"/>
+          </g>
+          <g id="矩形_2894-3" data-name="矩形 2894" transform="translate(11)" fill="#fff" stroke="#377CFD" stroke-width="1">
+            <path d="M8,0H235a8,8,0,0,1,8,8V137a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" stroke="none"/>
+            <path d="M8,.5H235A7.5,7.5,0,0,1,242.5,8V136a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V8A7.5,7.5,0,0,1,8,.5Z" fill="none"/>
+          </g>
+          <g id="矩形_2895-3" data-name="矩形 2895" transform="translate(0 136)" fill="#fff" stroke="#377CFD" stroke-width="1">
+            <path d="M0,0H266a0,0,0,0,1,0,0V0a11,11,0,0,1-11,11H11A11,11,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M.557.5H265.443a.057.057,0,0,1,.057.057v0a9.943,9.943,0,0,1-9.943,9.943H10.443A9.943,9.943,0,0,1,.5.557v0A.057.057,0,0,1,.557.5Z" fill="none"/>
+          </g>
+          <g id="矩形_2896-3" data-name="矩形 2896" transform="translate(18 7)" fill="rgba(55,124,253,0.05)" stroke="#377CFD" stroke-width="1">
+            <rect width="230" height="122" stroke="none"/>
+            <rect x="0.5" y="0.5" width="229" height="121" fill="none"/>
+          </g>
+        </g>
+        <text id="_1440_900" data-name="1440×900" transform="translate(490 112)" fill="#377CFD" font-size="20" font-family="SourceHanSansCN-Bold, Source Han Sans CN" font-weight="700"><tspan x="-51.23" y="0">1440×900</tspan></text>
+        <text id="设计稿使用分辨率" transform="translate(490 138)" fill="#377CFD" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-56" y="0">设计稿使用分辨率</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

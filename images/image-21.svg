@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="219" viewBox="0 0 980 219">
+  <defs>
+    <clipPath id="clip-image-21">
+      <rect width="980" height="219"/>
+    </clipPath>
+  </defs>
+  <g id="image-21" clip-path="url(#clip-image-21)">
+    <rect width="980" height="219" fill="#fff"/>
+    <g id="矩形_4556" data-name="矩形 4556" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="480" height="220" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="219" rx="3.5" fill="none"/>
+    </g>
+    <g id="组_14009" data-name="组 14009" transform="translate(0 -136)">
+      <path id="矩形_4567" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 352)" fill="#44c261"/>
+      <g id="组_14008" data-name="组 14008">
+        <g id="组件_448_13" data-name="组件 448 – 13" transform="translate(20 312)">
+          <circle id="椭圆_479" data-name="椭圆 479" cx="12" cy="12" r="12" fill="#44c261"/>
+          <path id="路径_6439" data-name="路径 6439" d="M-13404.822-12343.829l3.727,3.408,6.229-7.4" transform="translate(13411.515 12356.083)" fill="none" stroke="#fff" stroke-width="2.5"/>
+        </g>
+        <text id="使用" transform="translate(53 330)" fill="#13ce66" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">使用</tspan></text>
+      </g>
+    </g>
+    <g id="组件_447_25" data-name="组件 447 – 25" transform="translate(500)">
+      <g id="矩形_4556-2" data-name="矩形 4556" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="480" height="220" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="479" height="219" rx="3.5" fill="none"/>
+      </g>
+      <path id="矩形_4567-2" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 216)" fill="#ff4949"/>
+      <g id="组件_448_1" data-name="组件 448 – 1" transform="translate(20 176)">
+        <g id="组_13960" data-name="组 13960" transform="translate(0 -0.001)">
+          <g id="组_13956" data-name="组 13956">
+            <circle id="椭圆_479-2" data-name="椭圆 479" cx="12" cy="12" r="12" transform="translate(0 0)" fill="#ff4949"/>
+          </g>
+          <g id="组_13957" data-name="组 13957" transform="translate(7.906 7.813)">
+            <g id="组_13959" data-name="组 13959">
+              <path id="路径_6440" data-name="路径 6440" d="M-13395.8-12073.376l-8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+              <path id="路径_6441" data-name="路径 6441" d="M-13404-12073.376l8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="不使用" transform="translate(54 194)" fill="#ff4949" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">不使用</tspan></text>
+    </g>
+    <g id="组_14027" data-name="组 14027" transform="translate(0 -48)">
+      <g id="组_14025" data-name="组 14025" transform="translate(-28 -107)">
+        <g id="组_13982" data-name="组 13982" transform="translate(48 195)">
+          <g id="矩形_4442" data-name="矩形 4442" fill="#fff" stroke="rgba(0,0,0,0.04)" stroke-width="1">
+            <rect width="440" height="48" stroke="none"/>
+            <rect x="0.5" y="0.5" width="439" height="47" fill="none"/>
+          </g>
+          <text id="_2021-01-01" data-name="2021-01-01" transform="translate(12 29)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">2021-01-01</tspan></text>
+        </g>
+      </g>
+      <g id="组_14026" data-name="组 14026" transform="translate(-28 -59)">
+        <g id="组_13982-2" data-name="组 13982" transform="translate(48 195)">
+          <g id="矩形_4442-2" data-name="矩形 4442" fill="#fff" stroke="rgba(0,0,0,0.04)" stroke-width="1">
+            <rect width="440" height="48" stroke="none"/>
+            <rect x="0.5" y="0.5" width="439" height="47" fill="none"/>
+          </g>
+          <rect id="矩形_4443" data-name="矩形 4443" width="438" height="1" transform="translate(1)" fill="#fff"/>
+          <text id="_13:01:20" data-name="13:01:20" transform="translate(12 29)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">13:01:20</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="组_14028" data-name="组 14028" transform="translate(500 -48)">
+      <g id="组_14025-2" data-name="组 14025" transform="translate(-28 -107)">
+        <g id="组_13982-3" data-name="组 13982" transform="translate(48 195)">
+          <g id="矩形_4442-3" data-name="矩形 4442" fill="#fff" stroke="rgba(0,0,0,0.04)" stroke-width="1">
+            <rect width="440" height="48" stroke="none"/>
+            <rect x="0.5" y="0.5" width="439" height="47" fill="none"/>
+          </g>
+          <text id="_2021-1-01_2021年1月1日" data-name="2021-1-01、2021年1月1日" transform="translate(12 29)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">2021-1-01、2021年1月1日</tspan></text>
+        </g>
+      </g>
+      <g id="组_14026-2" data-name="组 14026" transform="translate(-28 -59)">
+        <g id="组_13982-4" data-name="组 13982" transform="translate(48 195)">
+          <g id="矩形_4442-4" data-name="矩形 4442" fill="#fff" stroke="rgba(0,0,0,0.04)" stroke-width="1">
+            <rect width="440" height="48" stroke="none"/>
+            <rect x="0.5" y="0.5" width="439" height="47" fill="none"/>
+          </g>
+          <rect id="矩形_4443-2" data-name="矩形 4443" width="438" height="1" transform="translate(1)" fill="#fff"/>
+          <text id="下午_01:01:20" data-name="下午 01:01:20" transform="translate(12 29)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">下午 01:01:20</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="300" viewBox="0 0 980 300">
+  <defs>
+    <filter id="矩形_4573" x="22.5" y="70.5" width="455" height="198" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_4573-2" x="502.5" y="70.5" width="455" height="198" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-image-5">
+      <rect width="980" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="image-5" clip-path="url(#clip-image-5)">
+    <rect width="980" height="300" fill="#fff"/>
+    <g id="组件_443_3" data-name="组件 443 – 3">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="300" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="299" rx="3.5" fill="none"/>
+      </g>
+    </g>
+    <text id="页面A卡片样式" transform="translate(197 54)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">页面A卡片样式</tspan></text>
+    <g id="组_13961" data-name="组 13961" transform="translate(30 77)">
+      <g transform="matrix(1, 0, 0, 1, -30, -77)" filter="url(#矩形_4573)">
+        <g id="矩形_4573-3" data-name="矩形 4573" transform="translate(30 77)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="440" height="183" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="439" height="182" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <text id="标题" transform="translate(16 32)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">标题</tspan></text>
+      <text id="内容1_内容2_内容3" data-name="内容1
+内容2
+内容3" transform="translate(16 83)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">内容1</tspan><tspan x="0" y="40">内容2</tspan><tspan x="0" y="80">内容3</tspan></text>
+      <rect id="矩形_4574" data-name="矩形 4574" width="408" height="1" transform="translate(16 52)" fill="#efefef"/>
+    </g>
+    <text id="页面B卡片样式复用" transform="translate(661 54)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">页面B卡片样式复用</tspan></text>
+    <g id="组_13961-2" data-name="组 13961" transform="translate(510 77)">
+      <g transform="matrix(1, 0, 0, 1, -510, -77)" filter="url(#矩形_4573-2)">
+        <g id="矩形_4573-4" data-name="矩形 4573" transform="translate(510 77)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="440" height="183" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="439" height="182" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <text id="标题-2" data-name="标题" transform="translate(16 32)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">标题</tspan></text>
+      <text id="内容1_内容2_内容3-2" data-name="内容1
+内容2
+内容3" transform="translate(16 83)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">内容1</tspan><tspan x="0" y="40">内容2</tspan><tspan x="0" y="80">内容3</tspan></text>
+      <rect id="矩形_4574-2" data-name="矩形 4574" width="408" height="1" transform="translate(16 52)" fill="#efefef"/>
+    </g>
+  </g>
+</svg>

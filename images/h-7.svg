@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="612" height="185" viewBox="0 0 612 185">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="587" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-h-7">
+      <rect width="612" height="185"/>
+    </clipPath>
+  </defs>
+  <g id="h-7" clip-path="url(#clip-h-7)">
+    <rect width="612" height="185" fill="#fff"/>
+    <g id="组件_443_37" data-name="组件 443 – 37">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="612" height="185" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="611" height="184" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="572" height="145" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="571" height="144" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_16011" data-name="组 16011" transform="translate(-184 -37)">
+      <rect id="矩形_5155" data-name="矩形 5155" width="123" height="41" transform="translate(363 120)" fill="#e8f1ff"/>
+      <rect id="矩形_5156" data-name="矩形 5156" width="123" height="41" transform="translate(494 120)" fill="#e8f1ff"/>
+      <text id="_8px" data-name="8px" transform="translate(475 92)" fill="#377CFD" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">8px</tspan></text>
+      <g id="组件_460_17" data-name="组件 460 – 17" transform="translate(486 112.5) rotate(-90)">
+        <rect id="矩形_5051" data-name="矩形 5051" width="11.001" height="1.641" fill="#377CFD"/>
+        <rect id="矩形_5052" data-name="矩形 5052" width="11.001" height="1.641" transform="translate(0 6.358)" fill="#377CFD"/>
+        <rect id="矩形_5053" data-name="矩形 5053" width="7.026" height="1.572" transform="translate(6.286 0.41) rotate(90)" fill="#377CFD"/>
+      </g>
+      <rect id="矩形_5159" data-name="矩形 5159" width="48" height="8" transform="translate(486 165) rotate(-90)" fill="#377CFD" opacity="0.8"/>
+    </g>
+  </g>
+</svg>

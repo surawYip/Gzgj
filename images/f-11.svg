@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="245" viewBox="0 0 980 245">
+  <defs>
+    <filter id="矩形_5079" x="133.5" y="13.5" width="154.626" height="155" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-f-11">
+      <rect width="980" height="245"/>
+    </clipPath>
+  </defs>
+  <g id="f-11" clip-path="url(#clip-f-11)">
+    <rect width="980" height="245" fill="#fff"/>
+    <g id="矩形_4556" data-name="矩形 4556" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="480" height="245" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="244" rx="3.5" fill="none"/>
+    </g>
+    <path id="矩形_4567" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 241)" fill="#44c261"/>
+    <g id="组件_448_36" data-name="组件 448 – 36" transform="translate(20 201)">
+      <circle id="椭圆_479" data-name="椭圆 479" cx="12" cy="12" r="12" fill="#44c261"/>
+      <path id="路径_6439" data-name="路径 6439" d="M-13404.822-12343.829l3.727,3.408,6.229-7.4" transform="translate(13411.515 12356.083)" fill="none" stroke="#fff" stroke-width="2.5"/>
+    </g>
+    <text id="正确示范" transform="translate(54 219)" fill="#13ce66" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">正确示范</tspan></text>
+    <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(500)" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="480" height="245" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="244" rx="3.5" fill="none"/>
+    </g>
+    <path id="矩形_4567-2" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(500 241)" fill="#ff4949"/>
+    <g id="组件_448_37" data-name="组件 448 – 37" transform="translate(520 201)">
+      <g id="组_13960" data-name="组 13960" transform="translate(-0.146 -0.239)">
+        <g id="组_13956" data-name="组 13956">
+          <circle id="椭圆_479-2" data-name="椭圆 479" cx="12" cy="12" r="12" transform="translate(0.146 0.239)" fill="#ff4949"/>
+        </g>
+        <g id="组_13957" data-name="组 13957" transform="translate(8.356 8.356)">
+          <g id="组_13959" data-name="组 13959" transform="translate(-0.304 -0.305)">
+            <path id="路径_6440" data-name="路径 6440" d="M-13395.8-12073.376l-8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+            <path id="路径_6441" data-name="路径 6441" d="M-13404-12073.376l8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="错误示范" transform="translate(554 219)" fill="#ff4949" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">错误示范</tspan></text>
+    <g id="组_15922" data-name="组 15922">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_5079)">
+        <g id="矩形_5079-2" data-name="矩形 5079" transform="translate(141 20)" fill="#fff" stroke="#e6ecfc" stroke-width="1">
+          <rect width="139.626" height="140" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="138.626" height="139" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <path id="路径_6704" data-name="路径 6704" d="M0,0H137.875" transform="translate(211.285 21.313) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+      <path id="路径_6705" data-name="路径 6705" d="M1438.574-12214h139.138" transform="translate(-1297.375 12304.475)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+      <path id="路径_6706" data-name="路径 6706" d="M1439.392-12381l135.744,136.117" transform="translate(-1296.642 12402.677)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+      <path id="路径_6707" data-name="路径 6707" d="M1576.082-12381l-136.69,137.068" transform="translate(-1296.638 12402.678)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+      <g id="椭圆_506" data-name="椭圆 506" transform="translate(153.249 32.249)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <ellipse cx="58.12" cy="58.307" rx="58.12" ry="58.307" stroke="none"/>
+        <ellipse cx="58.12" cy="58.307" rx="57.62" ry="57.807" fill="none"/>
+      </g>
+      <g id="矩形_5074" data-name="矩形 5074" transform="translate(158 37.817)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="105.105" height="105.479" stroke="none"/>
+        <rect x="0.5" y="0.5" width="104.105" height="104.479" fill="none"/>
+      </g>
+      <g id="矩形_5075" data-name="矩形 5075" transform="translate(269.241 43.226) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="94.654" height="116.241" stroke="none"/>
+        <rect x="0.5" y="0.5" width="93.654" height="115.241" fill="none"/>
+      </g>
+      <g id="矩形_5076" data-name="矩形 5076" transform="translate(164 32.249)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="93.969" height="116.615" stroke="none"/>
+        <rect x="0.5" y="0.5" width="92.969" height="115.615" fill="none"/>
+      </g>
+      <g id="矩形_5077" data-name="矩形 5077" transform="translate(177.402 56.59)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="67.928" height="67.928" stroke="none"/>
+        <rect x="0.5" y="0.5" width="66.928" height="66.928" fill="none"/>
+      </g>
+      <g id="矩形_5080" data-name="矩形 5080" transform="translate(173.759 56.644)" fill="rgba(0,0,0,0)" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="81.269" height="81.269" stroke="none"/>
+        <rect x="0.5" y="0.5" width="80.269" height="80.269" fill="none"/>
+      </g>
+    </g>
+    <g id="组_15925" data-name="组 15925" transform="translate(84)">
+      <g id="组_15923" data-name="组 15923" transform="translate(445)">
+        <g id="矩形_5079-3" data-name="矩形 5079" transform="translate(141 20)" fill="#fff" stroke="#e6ecfc" stroke-width="1">
+          <rect width="139.626" height="140" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="138.626" height="139" rx="3.5" fill="none"/>
+        </g>
+        <path id="路径_6704-2" data-name="路径 6704" d="M0,0H137.875" transform="translate(211.285 21.313) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6705-2" data-name="路径 6705" d="M1438.574-12214h139.8" transform="translate(-1297.375 12304.475)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6706-2" data-name="路径 6706" d="M1439.392-12381l135.744,136.117" transform="translate(-1296.642 12402.677)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6707-2" data-name="路径 6707" d="M1576.082-12381l-136.69,137.068" transform="translate(-1296.638 12402.678)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <g id="椭圆_506-2" data-name="椭圆 506" transform="translate(153.249 32.249)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <ellipse cx="58.12" cy="58.307" rx="58.12" ry="58.307" stroke="none"/>
+          <ellipse cx="58.12" cy="58.307" rx="57.62" ry="57.807" fill="none"/>
+        </g>
+        <g id="矩形_5074-2" data-name="矩形 5074" transform="translate(158.817 37.817)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="105.105" height="105.479" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104.105" height="104.479" fill="none"/>
+        </g>
+        <g id="矩形_5075-2" data-name="矩形 5075" transform="translate(269.49 43.226) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="94.654" height="116.241" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93.654" height="115.241" fill="none"/>
+        </g>
+        <g id="矩形_5076-2" data-name="矩形 5076" transform="translate(164.385 32.249)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="93.969" height="116.615" stroke="none"/>
+          <rect x="0.5" y="0.5" width="92.969" height="115.615" fill="none"/>
+        </g>
+        <g id="矩形_5077-2" data-name="矩形 5077" transform="translate(177.402 56.59)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="67.928" height="67.928" stroke="none"/>
+          <rect x="0.5" y="0.5" width="66.928" height="66.928" fill="none"/>
+        </g>
+        <g id="矩形_5080-2" data-name="矩形 5080" transform="translate(173.759 56.644)" fill="rgba(0,0,0,0)" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="81.269" height="81.269" stroke="none"/>
+          <rect x="0.5" y="0.5" width="80.269" height="80.269" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_15934" data-name="组 15934" transform="translate(0 4)">
+      <rect id="矩形_5091" data-name="矩形 5091" width="10" height="50" rx="2" transform="translate(236 79) rotate(90)" fill="#333b44"/>
+      <rect id="矩形_5100" data-name="矩形 5100" width="10" height="40" rx="2" transform="translate(226 101) rotate(90)" fill="#333b44"/>
+    </g>
+    <path id="矩形_5096" data-name="矩形 5096" d="M0,0H94a0,0,0,0,1,0,0V8a2,2,0,0,1-2,2H2A2,2,0,0,1,0,8V0A0,0,0,0,1,0,0Z" transform="translate(164 133)" fill="#333b44"/>
+    <rect id="矩形_5098" data-name="矩形 5098" width="10" height="79" transform="translate(164 54)" fill="#333b44"/>
+    <rect id="矩形_5099" data-name="矩形 5099" width="10" height="79" transform="translate(248 54)" fill="#333b44"/>
+    <g id="矩形_5094" data-name="矩形 5094" transform="translate(186 37)" fill="none" stroke="#333b44" stroke-width="10">
+      <rect width="50" height="28" rx="2" stroke="none"/>
+      <rect x="5" y="5" width="40" height="18" rx="3" fill="none"/>
+    </g>
+    <path id="矩形_5095" data-name="矩形 5095" d="M2,0H22a0,0,0,0,1,0,0V10a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(164 46)" fill="#333b44"/>
+    <path id="矩形_5097" data-name="矩形 5097" d="M0,0H20a2,2,0,0,1,2,2v8a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(236 46)" fill="#333b44"/>
+    <g id="组_15935" data-name="组 15935" transform="translate(529 -5)">
+      <rect id="矩形_5091-2" data-name="矩形 5091" width="10" height="61" rx="2" transform="translate(242 106) rotate(90)" fill="#333b44"/>
+      <rect id="矩形_5111" data-name="矩形 5111" width="10" height="61" rx="2" transform="translate(242 91) rotate(90)" fill="#333b44"/>
+      <path id="路径_6708" data-name="路径 6708" d="M1,0H8a2,2,0,0,1,2,2V59a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2C0,.9-.1,0,1,0Z" transform="translate(242 76) rotate(90)" fill="#333b44"/>
+      <rect id="矩形_5100-2" data-name="矩形 5100" width="10" height="40" rx="2" transform="translate(221 121) rotate(90)" fill="#333b44"/>
+    </g>
+    <path id="矩形_5105" data-name="矩形 5105" d="M0,0H94a0,0,0,0,1,0,0V8a2,2,0,0,1-2,2H2A2,2,0,0,1,0,8V0A0,0,0,0,1,0,0Z" transform="translate(693 133)" fill="#333b44"/>
+    <rect id="矩形_5110" data-name="矩形 5110" width="10" height="79" transform="translate(693 54)" fill="#333b44"/>
+    <rect id="矩形_5108" data-name="矩形 5108" width="10" height="79" transform="translate(777 54)" fill="#333b44"/>
+    <g id="矩形_5106" data-name="矩形 5106" transform="translate(711 37)" fill="none" stroke="#333b44" stroke-width="10">
+      <rect width="58" height="26" rx="2" stroke="none"/>
+      <rect x="5" y="5" width="48" height="16" rx="3" fill="none"/>
+    </g>
+    <path id="矩形_5109" data-name="矩形 5109" d="M2,0H22a0,0,0,0,1,0,0V10a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" transform="translate(693 46)" fill="#333b44"/>
+    <path id="矩形_5107" data-name="矩形 5107" d="M0,0H20a2,2,0,0,1,2,2v8a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(765 46)" fill="#333b44"/>
+    <text id="_2" data-name="2" transform="translate(300 106)" fill="#377CFD" font-size="20" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">2</tspan></text>
+    <text id="_2-2" data-name="2" transform="translate(237 193)" fill="#377CFD" font-size="20" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">2</tspan></text>
+    <text id="_2-3" data-name="2" transform="translate(174 193)" fill="#377CFD" font-size="20" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">2</tspan></text>
+    <rect id="矩形_5102" data-name="矩形 5102" width="95" height="12" transform="translate(186 93)" fill="#377CFD" opacity="0.3"/>
+    <rect id="矩形_5103" data-name="矩形 5103" width="90.876" height="12" transform="translate(174 161.376) rotate(-90)" fill="#377CFD" opacity="0.2"/>
+    <rect id="矩形_5104" data-name="矩形 5104" width="90.876" height="12" transform="translate(236 161.376) rotate(-90)" fill="#377CFD" opacity="0.2"/>
+    <g id="组件_460_2" data-name="组件 460 – 2" transform="translate(285 93)">
+      <rect id="矩形_5051" data-name="矩形 5051" width="11.001" height="1.641" fill="#377CFD"/>
+      <rect id="矩形_5052" data-name="矩形 5052" width="11.001" height="1.641" transform="translate(0 10.358)" fill="#377CFD"/>
+      <rect id="矩形_5053" data-name="矩形 5053" width="11.026" height="1.572" transform="translate(6.286 0.41) rotate(90)" fill="#377CFD"/>
+    </g>
+    <g id="组件_460_3" data-name="组件 460 – 3" transform="translate(185.999 162.499) rotate(90)">
+      <rect id="矩形_5051-2" data-name="矩形 5051" width="11.001" height="1.641" fill="#377CFD"/>
+      <rect id="矩形_5052-2" data-name="矩形 5052" width="11.001" height="1.641" transform="translate(0 10.358)" fill="#377CFD"/>
+      <rect id="矩形_5053-2" data-name="矩形 5053" width="11.026" height="1.572" transform="translate(6.286 0.41) rotate(90)" fill="#377CFD"/>
+    </g>
+    <g id="组件_460_4" data-name="组件 460 – 4" transform="translate(247.999 162.499) rotate(90)">
+      <rect id="矩形_5051-3" data-name="矩形 5051" width="11.001" height="1.641" fill="#377CFD"/>
+      <rect id="矩形_5052-3" data-name="矩形 5052" width="11.001" height="1.641" transform="translate(0 10.358)" fill="#377CFD"/>
+      <rect id="矩形_5053-3" data-name="矩形 5053" width="11.026" height="1.572" transform="translate(6.286 0.41) rotate(90)" fill="#377CFD"/>
+    </g>
+  </g>
+</svg>

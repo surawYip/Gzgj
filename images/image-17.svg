@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="338" viewBox="0 0 980 338">
+  <defs>
+    <filter id="矩形_4500" x="512.5" y="67.5" width="455" height="175" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_4500-2" x="12.5" y="67.5" width="455" height="175" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-image-17">
+      <rect width="980" height="338"/>
+    </clipPath>
+  </defs>
+  <g id="image-17" clip-path="url(#clip-image-17)">
+    <rect width="980" height="338" fill="#fff"/>
+    <g id="矩形_4556" data-name="矩形 4556" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="480" height="338" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="337" rx="3.5" fill="none"/>
+    </g>
+    <g id="组_14009" data-name="组 14009" transform="translate(0 294)">
+      <path id="矩形_4567" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 40)" fill="#44c261"/>
+      <g id="组_14008" data-name="组 14008" transform="translate(20)">
+        <g id="组件_448_8" data-name="组件 448 – 8">
+          <circle id="椭圆_479" data-name="椭圆 479" cx="12" cy="12" r="12" fill="#44c261"/>
+          <path id="路径_6439" data-name="路径 6439" d="M-13404.822-12343.829l3.727,3.408,6.229-7.4" transform="translate(13411.515 12356.083)" fill="none" stroke="#fff" stroke-width="2.5"/>
+        </g>
+        <text id="正确示范" transform="translate(34 18)" fill="#13ce66" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">正确示范</tspan></text>
+      </g>
+    </g>
+    <g id="组件_447_20" data-name="组件 447 – 20" transform="translate(500)">
+      <g id="矩形_4556-2" data-name="矩形 4556" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="480" height="338" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="479" height="337" rx="3.5" fill="none"/>
+      </g>
+      <path id="矩形_4567-2" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 334)" fill="#ff4949"/>
+      <g id="组件_448_1" data-name="组件 448 – 1" transform="translate(20 294)">
+        <g id="组_13960" data-name="组 13960" transform="translate(0 -0.001)">
+          <g id="组_13956" data-name="组 13956">
+            <circle id="椭圆_479-2" data-name="椭圆 479" cx="12" cy="12" r="12" transform="translate(0 0)" fill="#ff4949"/>
+          </g>
+          <g id="组_13957" data-name="组 13957" transform="translate(7.906 7.813)">
+            <g id="组_13959" data-name="组 13959">
+              <path id="路径_6440" data-name="路径 6440" d="M-13395.8-12073.376l-8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+              <path id="路径_6441" data-name="路径 6441" d="M-13404-12073.376l8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="错误示范" transform="translate(54 312)" fill="#ff4949" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">错误示范</tspan></text>
+    </g>
+    <g id="组_14011" data-name="组 14011" transform="translate(-48 -2814)">
+      <g id="组_13876" data-name="组 13876" transform="translate(568 2888)">
+        <g id="组_13875" data-name="组 13875">
+          <g transform="matrix(1, 0, 0, 1, -520, -74)" filter="url(#矩形_4500)">
+            <g id="矩形_4500-3" data-name="矩形 4500" transform="translate(520 74)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+              <rect width="440" height="160" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="439" height="159" rx="3.5" fill="none"/>
+            </g>
+          </g>
+          <g id="组_13875-2" data-name="组 13875" transform="translate(404.115 23.263)">
+            <path id="路径_6422" data-name="路径 6422" d="M-3232.514-3500.083l-10.777,10.777" transform="translate(3243.291 3500.083)" fill="none" stroke="#858585" stroke-width="2.5"/>
+            <g id="组_13866" data-name="组 13866" transform="translate(0 0)">
+              <path id="路径_6421" data-name="路径 6421" d="M-3243.291-3500.083l10.777,10.777" transform="translate(3243.291 3500.083)" fill="none" stroke="#858585" stroke-width="2.5"/>
+            </g>
+          </g>
+        </g>
+        <text id="选择图片" transform="translate(24 35.481)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="SourceHanSansCN-Bold, Source Han Sans CN" font-weight="700"><tspan x="0" y="0">选择图片</tspan></text>
+        <text id="确定选择图片到收藏夹吗_" data-name="确定选择图片到收藏夹吗？" transform="translate(24 67.583)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">确定选择图片到收藏夹吗？</tspan></text>
+      </g>
+      <g id="组_13877" data-name="组 13877" transform="translate(872 2995)">
+        <g id="矩形_4503" data-name="矩形 4503" fill="#fff" stroke="rgba(0,0,0,0.12)" stroke-width="1">
+          <rect width="52" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="51" height="31" rx="3.5" fill="none"/>
+        </g>
+        <rect id="矩形_4504" data-name="矩形 4504" width="52" height="32" rx="4" transform="translate(60)" fill="#377CFD"/>
+        <text id="取消" transform="translate(12 21)" fill="#333b44" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">取消</tspan></text>
+        <text id="确定" transform="translate(72 21)" fill="#fff" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">确定</tspan></text>
+      </g>
+    </g>
+    <g id="组_14013" data-name="组 14013" transform="translate(0 -26)">
+      <g id="组_14007" data-name="组 14007" transform="translate(-548 -2788)">
+        <g id="组_13876-2" data-name="组 13876" transform="translate(568 2888)">
+          <g id="组_13875-3" data-name="组 13875">
+            <g transform="matrix(1, 0, 0, 1, -20, -74)" filter="url(#矩形_4500-2)">
+              <g id="矩形_4500-4" data-name="矩形 4500" transform="translate(20 74)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+                <rect width="440" height="160" rx="4" stroke="none"/>
+                <rect x="0.5" y="0.5" width="439" height="159" rx="3.5" fill="none"/>
+              </g>
+            </g>
+            <g id="组_13875-4" data-name="组 13875" transform="translate(404.115 23.263)">
+              <path id="路径_6422-2" data-name="路径 6422" d="M-3232.514-3500.083l-10.777,10.777" transform="translate(3243.291 3500.083)" fill="none" stroke="#858585" stroke-width="2.5"/>
+              <g id="组_13866-2" data-name="组 13866" transform="translate(0 0)">
+                <path id="路径_6421-2" data-name="路径 6421" d="M-3243.291-3500.083l10.777,10.777" transform="translate(3243.291 3500.083)" fill="none" stroke="#858585" stroke-width="2.5"/>
+              </g>
+            </g>
+          </g>
+          <text id="添加图片" transform="translate(24 35.481)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="SourceHanSansCN-Bold, Source Han Sans CN" font-weight="700"><tspan x="0" y="0">添加图片</tspan></text>
+          <text id="确定添加图片到收藏夹吗_" data-name="确定添加图片到收藏夹吗？" transform="translate(24 67.583)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">确定添加图片到收藏夹吗？</tspan></text>
+        </g>
+        <g id="组_13877-2" data-name="组 13877" transform="translate(872 2995)">
+          <g id="矩形_4503-2" data-name="矩形 4503" fill="#fff" stroke="rgba(0,0,0,0.12)" stroke-width="1">
+            <rect width="52" height="32" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="51" height="31" rx="3.5" fill="none"/>
+          </g>
+          <rect id="矩形_4504-2" data-name="矩形 4504" width="52" height="32" rx="4" transform="translate(60)" fill="#377CFD"/>
+          <text id="取消-2" data-name="取消" transform="translate(12 21)" fill="#333b44" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">取消</tspan></text>
+          <text id="确定-2" data-name="确定" transform="translate(72 21)" fill="#fff" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">确定</tspan></text>
+        </g>
+      </g>
+      <g id="组_14012" data-name="组 14012" transform="translate(-4.001)">
+        <text id="添加图片-2" data-name="添加图片" transform="translate(44 74)" fill="#377CFD" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">添加图片</tspan></text>
+        <path id="联合_74" data-name="联合 74" d="M9689,11713v-4h-4v-2h4v-4h2v4h4v2h-4v4Z" transform="translate(-9661 -11639)" fill="#377CFD"/>
+      </g>
+    </g>
+    <g id="组_14014" data-name="组 14014" transform="translate(495.999 -26)">
+      <text id="添加图片-3" data-name="添加图片" transform="translate(44 74)" fill="#377CFD" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">添加图片</tspan></text>
+      <path id="联合_74-2" data-name="联合 74" d="M9689,11713v-4h-4v-2h4v-4h2v4h4v2h-4v4Z" transform="translate(-9661 -11639)" fill="#377CFD"/>
+    </g>
+  </g>
+</svg>

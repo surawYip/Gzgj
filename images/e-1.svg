@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="588" height="132" viewBox="0 0 588 132">
+  <defs>
+    <clipPath id="clip-e-1">
+      <rect width="588" height="132"/>
+    </clipPath>
+  </defs>
+  <g id="e-1" clip-path="url(#clip-e-1)">
+    <rect width="588" height="132" fill="#fff"/>
+    <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="588" height="132" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="587" height="131" rx="3.5" fill="none"/>
+    </g>
+    <g id="组_15890" data-name="组 15890" transform="translate(-48 -35.999)">
+      <rect id="矩形_5023" data-name="矩形 5023" width="173" height="72" rx="4" transform="translate(259 66)" fill="#377CFD"/>
+      <text id="Font-size_16px" data-name="Font-size：16px" transform="translate(78 106)" fill="#377CFD" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">Font-size：16px</tspan></text>
+      <text id="Line-Height_22px" data-name="Line-Height：22px" transform="translate(467 106)" fill="#377CFD" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">Line-Height：22px</tspan></text>
+      <g id="组_15888" data-name="组 15888" transform="translate(0 -2)">
+        <path id="路径_6505" data-name="路径 6505" d="M902-13177h231.333" transform="translate(-713 13257)" fill="none" stroke="#a1c2ff" stroke-width="1"/>
+        <path id="路径_6506" data-name="路径 6506" d="M902-13177h231.333" transform="translate(-713 13305)" fill="none" stroke="#a1c2ff" stroke-width="1"/>
+      </g>
+      <g id="组_15889" data-name="组 15889" transform="translate(247 -14)">
+        <path id="路径_6505-2" data-name="路径 6505" d="M902-13177h43.821" transform="translate(-713 13257)" fill="none" stroke="#a1c2ff" stroke-width="1"/>
+        <path id="路径_6506-2" data-name="路径 6506" d="M902-13177h43.821" transform="translate(-713 13329)" fill="none" stroke="#a1c2ff" stroke-width="1"/>
+      </g>
+      <path id="路径_6507" data-name="路径 6507" d="M920.671-13173v45.5" transform="translate(-713 13252.214)" fill="none" stroke="#a1c2ff" stroke-width="1" stroke-dasharray="3"/>
+      <path id="路径_6509" data-name="路径 6509" d="M920.671-13173v72" transform="translate(-463.171 13239.001)" fill="none" stroke="#a1c2ff" stroke-width="1" stroke-dasharray="3"/>
+      <g id="组_15887" data-name="组 15887" transform="translate(-0.184 -0.424)">
+        <path id="路径_6508" data-name="路径 6508" d="M48.724-35.672H29.276l1.82-.468a43.321,43.321,0,0,0-2.808-7.436l-3.9.832a64.361,64.361,0,0,1,2.5,7.072H7.54V-20.8c0,6.916-.468,16.068-5.356,22.568A14.812,14.812,0,0,1,5.356,4.576C10.712-2.5,11.6-13.156,11.6-20.8V-31.876H48.724ZM68.64-36.816A40.29,40.29,0,0,0,58.812-41.7l-1.924,2.756a38.977,38.977,0,0,1,9.672,5.2Zm.624,8.32c-5.356,2.236-10.92,4.524-14.456,5.772l1.508,3.692c3.952-1.716,8.892-4.056,13.572-6.344ZM90.74-10.868V-1.56H65.832v-9.308ZM61.88,4.524h3.952v-2.6H90.74V4.316h4.108V-14.352H61.88Zm33.488-38.9a52.1,52.1,0,0,1-2.548,6.188l3.172.936a86.759,86.759,0,0,0,4.16-9.984l-2.652-.78-.624.156H78.52a49.082,49.082,0,0,0,1.664-4.888l-3.744-.832c-1.456,5.356-4.056,10.5-7.384,13.884a25.9,25.9,0,0,1,3.328,2.08,31.89,31.89,0,0,0,4.524-6.76h5.928c-1.2,7.54-4.212,12.948-15.392,15.7a10.305,10.305,0,0,1,2.184,3.12c8.32-2.288,12.584-5.98,14.924-11.024,2.6,5.668,7.176,9.1,14.352,10.712a11.983,11.983,0,0,1,2.288-3.276C92.82-20.488,88.14-24.544,86.112-31.2a31.1,31.1,0,0,0,.624-3.172Z" transform="translate(294 122)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="437" viewBox="0 0 980 437">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="412" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-image-2">
+      <rect width="980" height="437"/>
+    </clipPath>
+  </defs>
+  <g id="image-2" clip-path="url(#clip-image-2)">
+    <rect width="980" height="437" fill="#fff"/>
+    <g id="组件_443_1" data-name="组件 443 – 1">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="437" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="436" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="397" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="396" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_13942" data-name="组 13942" transform="translate(1 -9)">
+      <g id="椭圆_463" data-name="椭圆 463" transform="translate(84 55)" fill="none" stroke="#377CFD" stroke-width="4" opacity="0.9">
+        <circle cx="24" cy="24" r="24" stroke="none"/>
+        <circle cx="24" cy="24" r="22" fill="none"/>
+      </g>
+      <circle id="椭圆_464" data-name="椭圆 464" cx="11.5" cy="11.5" r="11.5" transform="translate(96.5 67.5)" fill="#e8e8e8"/>
+    </g>
+    <text id="原子_最小单位元素" data-name="原子/最小单位元素" transform="translate(50 125)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">原子/最小单位元素</tspan></text>
+    <text id="分子_基础控件" data-name="分子/基础控件" transform="translate(255 125)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">分子/基础控件</tspan></text>
+    <text id="组织_基础功能组件" data-name="组织/基础功能组件" transform="translate(432 125)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">组织/基础功能组件</tspan></text>
+    <text id="模板_业务定制组件" data-name="模板/业务定制组件" transform="translate(623 125)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">模板/业务定制组件</tspan></text>
+    <text id="页面" transform="translate(858 126)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">页面</tspan></text>
+    <rect id="矩形_4557" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(41 147)" fill="#f4f6f9"/>
+    <text id="颜色" transform="translate(108 173)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-13" y="0">颜色</tspan></text>
+    <rect id="矩形_4557-2" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(41 253)" fill="#f4f6f9"/>
+    <text id="图标" transform="translate(108 279)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-13" y="0">图标</tspan></text>
+    <rect id="矩形_4557-3" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(41 200)" fill="#f4f6f9"/>
+    <text id="字体" transform="translate(108 226)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-13" y="0">字体</tspan></text>
+    <rect id="矩形_4557-4" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(41 306)" fill="#f4f6f9"/>
+    <text id="尺寸" transform="translate(108 332)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-13" y="0">尺寸</tspan></text>
+    <rect id="矩形_4557-5" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(41 359)" fill="#f4f6f9"/>
+    <text id="线条" transform="translate(108 385)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-13" y="0">线条</tspan></text>
+    <rect id="矩形_4557-6" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(232 147)" fill="#f4f6f9"/>
+    <text id="输入框" transform="translate(299 173)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-19.5" y="0">输入框</tspan></text>
+    <rect id="矩形_4557-7" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(232 253)" fill="#f4f6f9"/>
+    <text id="按钮" transform="translate(299 279)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-13" y="0">按钮</tspan></text>
+    <rect id="矩形_4557-8" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(232 200)" fill="#f4f6f9"/>
+    <text id="选择器" transform="translate(299 226)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-19.5" y="0">选择器</tspan></text>
+    <rect id="矩形_4557-9" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(232 306)" fill="#f4f6f9"/>
+    <text id="单_复选框" data-name="单/复选框" transform="translate(299 332)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-28.777" y="0">单/复选框</tspan></text>
+    <rect id="矩形_4557-10" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(232 359)" fill="#f4f6f9"/>
+    <text id="_" data-name="…" transform="translate(299 385)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-5.288" y="0">…</tspan></text>
+    <rect id="矩形_4557-11" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(423 147)" fill="#f4f6f9"/>
+    <text id="搜索器" transform="translate(490 173)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-19.5" y="0">搜索器</tspan></text>
+    <rect id="矩形_4557-12" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(423 253)" fill="#f4f6f9"/>
+    <text id="Tab标签栏" transform="translate(490 279)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-29.666" y="0">tab标签栏</tspan></text>
+    <rect id="矩形_4557-13" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(423 200)" fill="#f4f6f9"/>
+    <text id="导航菜单" transform="translate(490 226)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-26" y="0">导航菜单</tspan></text>
+    <rect id="矩形_4557-14" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(423 306)" fill="#f4f6f9"/>
+    <text id="表单" transform="translate(490 332)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-13" y="0">表单</tspan></text>
+    <rect id="矩形_4557-15" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(423 359)" fill="#f4f6f9"/>
+    <text id="_2" data-name="…" transform="translate(490 385)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-5.288" y="0">…</tspan></text>
+    <rect id="矩形_4557-16" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(614 147)" fill="#f4f6f9"/>
+    <text id="列表" transform="translate(681 173)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-13" y="0">列表</tspan></text>
+    <rect id="矩形_4557-17" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(614 253)" fill="#f4f6f9"/>
+    <text id="消息模块" transform="translate(681 279)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-26" y="0">消息模块</tspan></text>
+    <rect id="矩形_4557-18" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(614 200)" fill="#f4f6f9"/>
+    <text id="筛选器" transform="translate(681 226)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-19.5" y="0">筛选器</tspan></text>
+    <rect id="矩形_4557-19" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(614 306)" fill="#f4f6f9"/>
+    <text id="分页器" transform="translate(681 332)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-19.5" y="0">分页器</tspan></text>
+    <rect id="矩形_4557-20" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(614 359)" fill="#f4f6f9"/>
+    <text id="_3" data-name="…" transform="translate(681 385)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-5.288" y="0">…</tspan></text>
+    <rect id="矩形_4557-21" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(805 147)" fill="#f4f6f9"/>
+    <text id="数据看板" transform="translate(872 173)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-26" y="0">数据看板</tspan></text>
+    <rect id="矩形_4557-22" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(805 253)" fill="#f4f6f9"/>
+    <text id="数据展示页" transform="translate(872 279)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-32.5" y="0">数据展示页</tspan></text>
+    <rect id="矩形_4557-23" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(805 200)" fill="#f4f6f9"/>
+    <text id="筛选结果列表" transform="translate(872 226)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-39" y="0">筛选结果列表</tspan></text>
+    <rect id="矩形_4557-24" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(805 306)" fill="#f4f6f9"/>
+    <text id="结果页" transform="translate(872 332)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-19.5" y="0">结果页</tspan></text>
+    <rect id="矩形_4557-25" data-name="矩形 4557" width="134" height="43" rx="4" transform="translate(805 359)" fill="#f4f6f9"/>
+    <text id="_4" data-name="…" transform="translate(872 385)" fill="#333b44" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-5.288" y="0">…</tspan></text>
+    <g id="组件_445_1" data-name="组件 445 – 1" transform="translate(185 65)">
+      <circle id="椭圆_465" data-name="椭圆 465" cx="3" cy="3" r="3" transform="translate(0 6)" fill="#ebebeb"/>
+      <circle id="椭圆_466" data-name="椭圆 466" cx="3" cy="3" r="3" transform="translate(13 6)" fill="#ebebeb"/>
+      <circle id="椭圆_467" data-name="椭圆 467" cx="3" cy="3" r="3" transform="translate(26 6)" fill="#ebebeb"/>
+      <path id="减去_77" data-name="减去 77" d="M21,22.064v-18l12,9-12,9Z" transform="translate(17 -4.064)" fill="#e8e8e8"/>
+    </g>
+    <g id="组件_445_2" data-name="组件 445 – 2" transform="translate(377 65)">
+      <circle id="椭圆_465-2" data-name="椭圆 465" cx="3" cy="3" r="3" transform="translate(0 6)" fill="#ebebeb"/>
+      <circle id="椭圆_466-2" data-name="椭圆 466" cx="3" cy="3" r="3" transform="translate(13 6)" fill="#ebebeb"/>
+      <circle id="椭圆_467-2" data-name="椭圆 467" cx="3" cy="3" r="3" transform="translate(26 6)" fill="#ebebeb"/>
+      <path id="减去_77-2" data-name="减去 77" d="M21,22.064v-18l12,9-12,9Z" transform="translate(17 -4.064)" fill="#e8e8e8"/>
+    </g>
+    <g id="组件_445_3" data-name="组件 445 – 3" transform="translate(567 65)">
+      <circle id="椭圆_465-3" data-name="椭圆 465" cx="3" cy="3" r="3" transform="translate(0 6)" fill="#ebebeb"/>
+      <circle id="椭圆_466-3" data-name="椭圆 466" cx="3" cy="3" r="3" transform="translate(13 6)" fill="#ebebeb"/>
+      <circle id="椭圆_467-3" data-name="椭圆 467" cx="3" cy="3" r="3" transform="translate(26 6)" fill="#ebebeb"/>
+      <path id="减去_77-3" data-name="减去 77" d="M21,22.064v-18l12,9-12,9Z" transform="translate(17 -4.064)" fill="#e8e8e8"/>
+    </g>
+    <g id="组件_445_4" data-name="组件 445 – 4" transform="translate(756 65)">
+      <circle id="椭圆_465-4" data-name="椭圆 465" cx="3" cy="3" r="3" transform="translate(0 6)" fill="#ebebeb"/>
+      <circle id="椭圆_466-4" data-name="椭圆 466" cx="3" cy="3" r="3" transform="translate(13 6)" fill="#ebebeb"/>
+      <circle id="椭圆_467-4" data-name="椭圆 467" cx="3" cy="3" r="3" transform="translate(26 6)" fill="#ebebeb"/>
+      <path id="减去_77-4" data-name="减去 77" d="M21,22.064v-18l12,9-12,9Z" transform="translate(17 -4.064)" fill="#e8e8e8"/>
+    </g>
+    <g id="组_13946" data-name="组 13946" transform="translate(-215 -27)">
+      <g id="组件_446_1" data-name="组件 446 – 1" transform="translate(501 73)">
+        <g id="路径_6437" data-name="路径 6437" fill="#fff" opacity="0.7">
+          <path d="M 13.5 25 C 10.4282398223877 25 7.540339946746826 23.80378913879395 5.368269920349121 21.63172912597656 C 3.196209907531738 19.45965957641602 2 16.5717601776123 2 13.5 C 2 10.4282398223877 3.196209907531738 7.540339946746826 5.368269920349121 5.368269920349121 C 7.540339946746826 3.196209907531738 10.4282398223877 2 13.5 2 C 16.5717601776123 2 19.45965957641602 3.196209907531738 21.63172912597656 5.368269920349121 C 23.80378913879395 7.540339946746826 25 10.4282398223877 25 13.5 C 25 16.5717601776123 23.80378913879395 19.45965957641602 21.63172912597656 21.63172912597656 C 19.45965957641602 23.80378913879395 16.5717601776123 25 13.5 25 Z" stroke="none"/>
+          <path d="M 13.5 4 C 8.261680603027344 4 4 8.261680603027344 4 13.5 C 4 18.73831939697266 8.261680603027344 23 13.5 23 C 18.73831939697266 23 23 18.73831939697266 23 13.5 C 23 8.261680603027344 18.73831939697266 4 13.5 4 M 13.5 0 C 20.95584106445312 0 27 6.044160842895508 27 13.5 C 27 20.95584106445312 20.95584106445312 27 13.5 27 C 6.044160842895508 27 0 20.95584106445312 0 13.5 C 0 6.044160842895508 6.044160842895508 0 13.5 0 Z" stroke="none" fill="#333"/>
+        </g>
+        <circle id="椭圆_469" data-name="椭圆 469" cx="6.5" cy="6.5" r="6.5" transform="translate(7 7)" fill="#ebebeb"/>
+      </g>
+      <g id="组_13945" data-name="组 13945">
+        <g id="组件_446_2" data-name="组件 446 – 2" transform="translate(489 93)">
+          <g id="路径_6436" data-name="路径 6436" fill="#fff" opacity="0.7">
+            <path d="M 13.5 25 C 10.4282398223877 25 7.540339946746826 23.80378913879395 5.368269920349121 21.63172912597656 C 3.196209907531738 19.45965957641602 2 16.5717601776123 2 13.5 C 2 10.4282398223877 3.196209907531738 7.540339946746826 5.368269920349121 5.368269920349121 C 7.540339946746826 3.196209907531738 10.4282398223877 2 13.5 2 C 16.5717601776123 2 19.45965957641602 3.196209907531738 21.63172912597656 5.368269920349121 C 23.80378913879395 7.540339946746826 25 10.4282398223877 25 13.5 C 25 16.5717601776123 23.80378913879395 19.45965957641602 21.63172912597656 21.63172912597656 C 19.45965957641602 23.80378913879395 16.5717601776123 25 13.5 25 Z" stroke="none"/>
+            <path d="M 13.5 4 C 8.261680603027344 4 4 8.261680603027344 4 13.5 C 4 18.73831939697266 8.261680603027344 23 13.5 23 C 18.73831939697266 23 23 18.73831939697266 23 13.5 C 23 8.261680603027344 18.73831939697266 4 13.5 4 M 13.5 0 C 20.95584106445312 0 27 6.044160842895508 27 13.5 C 27 20.95584106445312 20.95584106445312 27 13.5 27 C 6.044160842895508 27 0 20.95584106445312 0 13.5 C 0 6.044160842895508 6.044160842895508 0 13.5 0 Z" stroke="none" fill="#333"/>
+          </g>
+          <circle id="椭圆_469-2" data-name="椭圆 469" cx="6.5" cy="6.5" r="6.5" transform="translate(7 7)" fill="#ebebeb"/>
+        </g>
+        <g id="组件_446_3" data-name="组件 446 – 3" transform="translate(513 93)">
+          <g id="路径_6437-2" data-name="路径 6437" fill="#fff" opacity="0.9">
+            <path d="M 13.5 25 C 10.4282398223877 25 7.540339946746826 23.80378913879395 5.368269920349121 21.63172912597656 C 3.196209907531738 19.45965957641602 2 16.5717601776123 2 13.5 C 2 10.4282398223877 3.196209907531738 7.540339946746826 5.368269920349121 5.368269920349121 C 7.540339946746826 3.196209907531738 10.4282398223877 2 13.5 2 C 16.5717601776123 2 19.45965957641602 3.196209907531738 21.63172912597656 5.368269920349121 C 23.80378913879395 7.540339946746826 25 10.4282398223877 25 13.5 C 25 16.5717601776123 23.80378913879395 19.45965957641602 21.63172912597656 21.63172912597656 C 19.45965957641602 23.80378913879395 16.5717601776123 25 13.5 25 Z" stroke="none"/>
+            <path d="M 13.5 4 C 8.261680603027344 4 4 8.261680603027344 4 13.5 C 4 18.73831939697266 8.261680603027344 23 13.5 23 C 18.73831939697266 23 23 18.73831939697266 23 13.5 C 23 8.261680603027344 18.73831939697266 4 13.5 4 M 13.5 0 C 20.95584106445312 0 27 6.044160842895508 27 13.5 C 27 20.95584106445312 20.95584106445312 27 13.5 27 C 6.044160842895508 27 0 20.95584106445312 0 13.5 C 0 6.044160842895508 6.044160842895508 0 13.5 0 Z" stroke="none" fill="#377CFD"/>
+          </g>
+          <circle id="椭圆_469-3" data-name="椭圆 469" cx="6.5" cy="6.5" r="6.5" transform="translate(7 7)" fill="#ebebeb"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_13947" data-name="组 13947" transform="translate(13732 12782)">
+      <g id="椭圆_470" data-name="椭圆 470" transform="translate(-13266 -12737)" fill="none" stroke="#333" stroke-width="4" opacity="0.7">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7" fill="none"/>
+      </g>
+      <g id="椭圆_475" data-name="椭圆 475" transform="translate(-13250 -12737)" fill="none" stroke="#333" stroke-width="4" opacity="0.7">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7" fill="none"/>
+      </g>
+      <g id="椭圆_478" data-name="椭圆 478" transform="translate(-13235 -12737)" fill="none" stroke="#333" stroke-width="4" opacity="0.7">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7" fill="none"/>
+      </g>
+      <g id="椭圆_471" data-name="椭圆 471" transform="translate(-13266 -12722)" fill="none" stroke="#333" stroke-width="4" opacity="0.7">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7" fill="none"/>
+      </g>
+      <g id="路径_6438" data-name="路径 6438" transform="translate(-13250 -12722)" fill="none" opacity="0.9">
+        <path d="M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0Z" stroke="none"/>
+        <path d="M 9 4 C 6.242989540100098 4 4 6.242989540100098 4 9 C 4 11.75700950622559 6.242989540100098 14 9 14 C 11.75700950622559 14 14 11.75700950622559 14 9 C 14 6.242989540100098 11.75700950622559 4 9 4 M 9 0 C 13.97056007385254 0 18 4.029439926147461 18 9 C 18 13.97056007385254 13.97056007385254 18 9 18 C 4.029439926147461 18 0 13.97056007385254 0 9 C 0 4.029439926147461 4.029439926147461 0 9 0 Z" stroke="none" fill="#377CFD"/>
+      </g>
+      <g id="椭圆_477" data-name="椭圆 477" transform="translate(-13235 -12722)" fill="none" stroke="#333" stroke-width="4" opacity="0.7">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7" fill="none"/>
+      </g>
+      <g id="椭圆_472" data-name="椭圆 472" transform="translate(-13266 -12706)" fill="none" stroke="#333" stroke-width="4" opacity="0.7">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7" fill="none"/>
+      </g>
+      <g id="椭圆_473" data-name="椭圆 473" transform="translate(-13250 -12706)" fill="none" stroke="#333" stroke-width="4" opacity="0.7">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7" fill="none"/>
+      </g>
+      <g id="椭圆_476" data-name="椭圆 476" transform="translate(-13235 -12706)" fill="none" stroke="#333" stroke-width="4" opacity="0.7">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7" fill="none"/>
+      </g>
+    </g>
+    <g id="矩形_4560" data-name="矩形 4560" transform="translate(659 48)" fill="#fff" stroke="#707070" stroke-width="4">
+      <rect width="45" height="13" rx="1" stroke="none"/>
+      <rect x="2" y="2" width="41" height="9" rx="1" fill="none"/>
+    </g>
+    <g id="矩形_4561" data-name="矩形 4561" transform="translate(659 64)" fill="#fff" stroke="#707070" stroke-width="4">
+      <rect width="15" height="30" rx="1" stroke="none"/>
+      <rect x="2" y="2" width="11" height="26" rx="1" fill="none"/>
+    </g>
+    <g id="矩形_4562" data-name="矩形 4562" transform="translate(677 64)" fill="none" stroke="#377CFD" stroke-width="4" opacity="0.9">
+      <rect width="27" height="30" rx="1" stroke="none"/>
+      <rect x="2" y="2" width="23" height="26" rx="1" fill="none"/>
+    </g>
+    <g id="组_13951" data-name="组 13951" transform="translate(117 -10)">
+      <g id="矩形_4563" data-name="矩形 4563" transform="translate(733 60)" fill="#fff" stroke="#707070" stroke-width="4">
+        <rect width="44" height="45" rx="1" stroke="none"/>
+        <rect x="2" y="2" width="40" height="41" rx="1" fill="none"/>
+      </g>
+      <g id="矩形_4564" data-name="矩形 4564" transform="translate(742 75)" fill="none" stroke="#377CFD" stroke-width="4" opacity="0.9">
+        <rect width="27" height="4" rx="1" stroke="none"/>
+        <rect x="2" y="2" width="23" fill="none"/>
+      </g>
+      <g id="矩形_4565" data-name="矩形 4565" transform="translate(742 85)" fill="#fff" stroke="#707070" stroke-width="4">
+        <rect width="27" height="4" rx="1" stroke="none"/>
+        <rect x="2" y="2" width="23" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

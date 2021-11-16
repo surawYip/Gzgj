@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="150" viewBox="0 0 980 150">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="125" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-image-10">
+      <rect width="980" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="image-10" clip-path="url(#clip-image-10)">
+    <rect width="980" height="150" fill="#fff"/>
+    <g id="组件_443_6" data-name="组件 443 – 6">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="150" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="149" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="110" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="109" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="未预设时间" transform="translate(202 54)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">未预设时间</tspan></text>
+    <g id="组_13992" data-name="组 13992" transform="translate(-40 -520)">
+      <g id="_4" data-name="4" transform="translate(80 597)">
+        <g id="矩形_2511" data-name="矩形 2511" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1">
+          <rect width="430" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="429" height="31" rx="3.5" fill="none"/>
+        </g>
+        <text id="开始日期" transform="translate(12 21)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.48"><tspan x="0" y="0">开始日期</tspan></text>
+        <text id="_-" data-name="-" transform="translate(76 21)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">-</tspan></text>
+        <text id="结束日期" transform="translate(90 21)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" opacity="0.48"><tspan x="0" y="0">结束日期</tspan></text>
+        <g id="组_9249" data-name="组 9249" transform="translate(406.75 8.887)">
+          <g id="组_9248" data-name="组 9248">
+            <path id="路径_1302" data-name="路径 1302" d="M.964,4.821v7.714H12.536V1.929H10.607v.482a.482.482,0,1,1-.964,0V1.929H3.857v.482a.482.482,0,0,1-.964,0V1.929H.964V3.857H12.536v.964ZM3.857.964H9.643V.482a.482.482,0,0,1,.964,0V.964h2.411a.464.464,0,0,1,.482.482V13.018a.464.464,0,0,1-.482.482H.482A.464.464,0,0,1,0,13.018V1.446A.464.464,0,0,1,.482.964H2.893V.482a.482.482,0,0,1,.964,0ZM3.375,6.75h.964a.482.482,0,0,1,0,.964H3.375a.482.482,0,1,1,0-.964Zm0,2.893h.964a.482.482,0,0,1,0,.964H3.375a.482.482,0,1,1,0-.964ZM6.268,6.75h.964a.482.482,0,1,1,0,.964H6.268a.482.482,0,0,1,0-.964Zm0,2.893h.964a.482.482,0,0,1,0,.964H6.268a.482.482,0,0,1,0-.964ZM9.161,6.75h.964a.482.482,0,1,1,0,.964H9.161a.482.482,0,1,1,0-.964Zm0,2.893h.964a.482.482,0,1,1,0,.964H9.161a.482.482,0,1,1,0-.964Z" transform="translate(0)" fill="#c1c4cb" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="预设时间" transform="translate(693 54)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">预设时间</tspan></text>
+    <g id="组_13993" data-name="组 13993" transform="translate(430 -520)">
+      <g id="_4-2" data-name="4" transform="translate(80 597)">
+        <g id="矩形_2511-2" data-name="矩形 2511" fill="none" stroke="rgba(0,0,0,0.08)" stroke-width="1">
+          <rect width="430" height="32" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="429" height="31" rx="3.5" fill="none"/>
+        </g>
+        <g id="组_13994" data-name="组 13994">
+          <text id="_2021.11.02" data-name="2021.11.02" transform="translate(106 21)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">2021.11.02</tspan></text>
+          <text id="_--2" data-name="-" transform="translate(92 21)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">-</tspan></text>
+          <text id="_2021.11.01" data-name="2021.11.01" transform="translate(12 21)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">2021.11.01</tspan></text>
+        </g>
+        <g id="组_9249-2" data-name="组 9249" transform="translate(406.75 8.887)">
+          <g id="组_9248-2" data-name="组 9248">
+            <path id="路径_1302-2" data-name="路径 1302" d="M.964,4.821v7.714H12.536V1.929H10.607v.482a.482.482,0,1,1-.964,0V1.929H3.857v.482a.482.482,0,0,1-.964,0V1.929H.964V3.857H12.536v.964ZM3.857.964H9.643V.482a.482.482,0,0,1,.964,0V.964h2.411a.464.464,0,0,1,.482.482V13.018a.464.464,0,0,1-.482.482H.482A.464.464,0,0,1,0,13.018V1.446A.464.464,0,0,1,.482.964H2.893V.482a.482.482,0,0,1,.964,0ZM3.375,6.75h.964a.482.482,0,0,1,0,.964H3.375a.482.482,0,1,1,0-.964Zm0,2.893h.964a.482.482,0,0,1,0,.964H3.375a.482.482,0,1,1,0-.964ZM6.268,6.75h.964a.482.482,0,1,1,0,.964H6.268a.482.482,0,0,1,0-.964Zm0,2.893h.964a.482.482,0,0,1,0,.964H6.268a.482.482,0,0,1,0-.964ZM9.161,6.75h.964a.482.482,0,1,1,0,.964H9.161a.482.482,0,1,1,0-.964Zm0,2.893h.964a.482.482,0,1,1,0,.964H9.161a.482.482,0,1,1,0-.964Z" transform="translate(0)" fill="#c1c4cb" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

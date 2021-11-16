@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="372" viewBox="0 0 980 372">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="347" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-h-3">
+      <rect width="980" height="372"/>
+    </clipPath>
+  </defs>
+  <g id="h-3" clip-path="url(#clip-h-3)">
+    <rect width="980" height="372" fill="#fff"/>
+    <g id="组件_443_33" data-name="组件 443 – 33">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="372" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="371" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="332" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="331" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_16005" data-name="组 16005" transform="translate(-2 -12)">
+      <text id="_" data-name="…" transform="translate(890 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-12" y="21">…</tspan></text>
+      <text id="_56" data-name="56" transform="translate(798 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">56</tspan></text>
+      <text id="_48" data-name="48" transform="translate(706 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">48</tspan></text>
+      <text id="_40" data-name="40" transform="translate(614 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">40</tspan></text>
+      <text id="_32" data-name="32" transform="translate(522 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">32</tspan></text>
+      <text id="_24" data-name="24" transform="translate(430 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">24</tspan></text>
+      <text id="_16" data-name="16" transform="translate(338 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-13.176" y="21">16</tspan></text>
+      <text id="_8" data-name="8" transform="translate(246 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-6.588" y="21">8</tspan></text>
+      <text id="_4" data-name="4" transform="translate(154 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-6.588" y="21">4</tspan></text>
+      <text id="_0" data-name="0" transform="translate(62 84)" fill="rgba(0,0,0,0.8)" font-size="24" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="-6.588" y="21">0</tspan></text>
+    </g>
+    <rect id="矩形_5148" data-name="矩形 5148" width="884" height="227" transform="translate(48 48)" fill="#e8f1ff"/>
+    <rect id="矩形_5041" data-name="矩形 5041" width="27" height="16" transform="translate(873 275)" fill="#377CFD" opacity="0.8"/>
+    <text id="_16px" data-name="16px" transform="translate(922 289)" fill="#377CFD" font-size="18" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">16px</tspan></text>
+    <g id="组件_460_9" data-name="组件 460 – 9" transform="translate(906 275)">
+      <rect id="矩形_5051" data-name="矩形 5051" width="11.001" height="1.641" fill="#377CFD"/>
+      <rect id="矩形_5052" data-name="矩形 5052" width="11.001" height="1.641" transform="translate(0 14.358)" fill="#377CFD"/>
+      <rect id="矩形_5053" data-name="矩形 5053" width="15.026" height="1.572" transform="translate(6.286 0.41) rotate(90)" fill="#377CFD"/>
+    </g>
+    <rect id="矩形_5151" data-name="矩形 5151" width="90" height="33" transform="translate(842 291)" fill="#e8f1ff"/>
+  </g>
+</svg>

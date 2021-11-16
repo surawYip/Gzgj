@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="245" viewBox="0 0 980 245">
+  <defs>
+    <filter id="矩形_5079" x="133.5" y="13.5" width="154.626" height="155" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 53 48">
+      <image width="53" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAAwCAYAAACxKzLDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFFmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDggNzkuMTY0MDM2LCAyMDE5LzA4LzEzLTAxOjA2OjU3ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMCAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDIxLTExLTAzVDExOjEyOjEwKzA4OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAyMS0xMS0wM1QxMToyMTo0MiswODowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAyMS0xMS0wM1QxMToyMTo0MiswODowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJzUkdCIElFQzYxOTY2LTIuMSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3ZjBiY2I5OS1hYWY0LWQ4NDktYTk4MS1hYmRjMWYyYmRjNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6N2YwYmNiOTktYWFmNC1kODQ5LWE5ODEtYWJkYzFmMmJkYzQ4IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6N2YwYmNiOTktYWFmNC1kODQ5LWE5ODEtYWJkYzFmMmJkYzQ4Ij4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDo3ZjBiY2I5OS1hYWY0LWQ4NDktYTk4MS1hYmRjMWYyYmRjNDgiIHN0RXZ0OndoZW49IjIwMjEtMTEtMDNUMTE6MTI6MTArMDg6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCAyMS4wIChXaW5kb3dzKSIvPiA8L3JkZjpTZXE+IDwveG1wTU06SGlzdG9yeT4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6yy9LPAAADZ0lEQVRoge2azW8NURTAf2f6fARFRIg0EUlFgp1igYRoFzbi4w9gIV0RsUEiNhYSCyuJP4CdWFgIm0airKxoYlV0QeqrUS1RlL5jMR9v+t59M3fmzrzXSn/JvLw5c+6558w9c+fc+57s2NtHjHsCvbSPCYXDwJCLkYrUvi8Fjjq55E6nwG4cg/Ji3wWYcDFWED9dDVRi3zU42k0+H2KtKs21Iv7m7iidCn6GuFGd7V5aUArsBD44d2zmFnCoaKM2IzVMAXnehO9lGPXSVVhTRscBi8swahNUDdWG/DXLsNMrCZv0q1Gl+WNdVf9amt9Vst7KzNibr1roWA2Elv7iyHDPNNS+BryOHQ+A5YYG5+v0ngDrXZy1xT79vCDvhNPAikgu0o2wmcbSph/ortPrAR7mddaWPNk9ZpCZEuqLQTaTo7/M5AnKFICtzObJdKbkeSgXzqM5F4P642og23vKZ5VBtsggW2mQLbGwfx24lMkjeARcCE/sg9LoEXmBSHx1/BXVUUOLIUS2x86nUX0DgCQW5puCwx5PdgCXgWnIFFRweBwHttbk+hHlU4O+0A/ciOmNo7yKXS+SSaAjPMn2nppRgG/AM4sWU031ig0I/Fk1SqVsE4VNbRfSTC859QrBfqTCe+Hqk2paYFeBgYTra4G7SZ5kmP00NHMWOBK7MAycA37XNTgBnIydvwfOAJMpN+cpMGjvVyPZaz+4AqyO5CIHEW4CL+taXAS2xfRAuE3yKIA/Ekl0pbqapmBgwiDrMMhMS/WWvOzzdGKq31xkhTMXyyRnFoIKMK1yTbWfSc+m9nPGPijV8GgsidCxqI6q6Rk2QHW0FTvb2Wo/AOEYsKsm17co7xr0hVPAvpjeGMrz4FoZpVKEfVAi4TbYCDBi0WIUuGO2Zd1rLuzTr6i724LaL2NBK+6PRPkx5ajSk5xKc7gFowR5lvPNHKvtCwajWTekLQoI8u1RzMYvVOtk0UdbWKgo5gtebJfo/0B11kj9wjxhj5fowrRBlvaTqckfxfcfqE0U6/D/HGJKxy2U90N2p0HWFfjTjA0GmQdsxA/ss/Ts6R1AZD/+dGWaDVv9l4MZkheTyX4qgxVE+gwK9R23kg7M2wNp+H4KfR7wo0iP5gBTHubF3HxmWQXV+4gcaLcnhaH6+B8qaM7wEGrU4QAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <clipPath id="clip-f-10">
+      <rect width="980" height="245"/>
+    </clipPath>
+  </defs>
+  <g id="f-10" clip-path="url(#clip-f-10)">
+    <rect width="980" height="245" fill="#fff"/>
+    <g id="矩形_4556" data-name="矩形 4556" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="480" height="245" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="244" rx="3.5" fill="none"/>
+    </g>
+    <path id="矩形_4567" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(0 241)" fill="#44c261"/>
+    <g id="组件_448_34" data-name="组件 448 – 34" transform="translate(20 201)">
+      <circle id="椭圆_479" data-name="椭圆 479" cx="12" cy="12" r="12" fill="#44c261"/>
+      <path id="路径_6439" data-name="路径 6439" d="M-13404.822-12343.829l3.727,3.408,6.229-7.4" transform="translate(13411.515 12356.083)" fill="none" stroke="#fff" stroke-width="2.5"/>
+    </g>
+    <text id="正确示范" transform="translate(54 219)" fill="#13ce66" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">正确示范</tspan></text>
+    <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(500)" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+      <rect width="480" height="245" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="479" height="244" rx="3.5" fill="none"/>
+    </g>
+    <path id="矩形_4567-2" data-name="矩形 4567" d="M0,0H480a0,0,0,0,1,0,0V0a4,4,0,0,1-4,4H4A4,4,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(500 241)" fill="#ff4949"/>
+    <g id="组件_448_35" data-name="组件 448 – 35" transform="translate(520 201)">
+      <g id="组_13960" data-name="组 13960" transform="translate(-0.146 -0.239)">
+        <g id="组_13956" data-name="组 13956">
+          <circle id="椭圆_479-2" data-name="椭圆 479" cx="12" cy="12" r="12" transform="translate(0.146 0.239)" fill="#ff4949"/>
+        </g>
+        <g id="组_13957" data-name="组 13957" transform="translate(8.356 8.356)">
+          <g id="组_13959" data-name="组 13959" transform="translate(-0.304 -0.305)">
+            <path id="路径_6440" data-name="路径 6440" d="M-13395.8-12073.376l-8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+            <path id="路径_6441" data-name="路径 6441" d="M-13404-12073.376l8.209,8.209" transform="translate(13404.005 12073.376)" fill="none" stroke="#fff" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="错误示范" transform="translate(554 219)" fill="#ff4949" font-size="16" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">错误示范</tspan></text>
+    <g id="组_15922" data-name="组 15922">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_5079)">
+        <g id="矩形_5079-2" data-name="矩形 5079" transform="translate(141 20)" fill="#fff" stroke="#e6ecfc" stroke-width="1">
+          <rect width="139.626" height="140" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="138.626" height="139" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <path id="路径_6704" data-name="路径 6704" d="M0,0H137.875" transform="translate(211.285 21.313) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+      <path id="路径_6705" data-name="路径 6705" d="M1438.574-12214h139.8" transform="translate(-1297.375 12304.475)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+      <path id="路径_6706" data-name="路径 6706" d="M1439.392-12381l135.744,136.117" transform="translate(-1296.642 12402.677)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+      <path id="路径_6707" data-name="路径 6707" d="M1576.082-12381l-136.69,137.068" transform="translate(-1296.638 12402.678)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+      <g id="椭圆_506" data-name="椭圆 506" transform="translate(153.249 32.249)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <ellipse cx="58.12" cy="58.307" rx="58.12" ry="58.307" stroke="none"/>
+        <ellipse cx="58.12" cy="58.307" rx="57.62" ry="57.807" fill="none"/>
+      </g>
+      <g id="矩形_5074" data-name="矩形 5074" transform="translate(158.817 37.817)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="105.105" height="105.479" stroke="none"/>
+        <rect x="0.5" y="0.5" width="104.105" height="104.479" fill="none"/>
+      </g>
+      <g id="矩形_5075" data-name="矩形 5075" transform="translate(269.49 43.226) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="94.654" height="116.241" stroke="none"/>
+        <rect x="0.5" y="0.5" width="93.654" height="115.241" fill="none"/>
+      </g>
+      <g id="矩形_5076" data-name="矩形 5076" transform="translate(164.385 32.249)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="93.969" height="116.615" stroke="none"/>
+        <rect x="0.5" y="0.5" width="92.969" height="115.615" fill="none"/>
+      </g>
+      <g id="矩形_5077" data-name="矩形 5077" transform="translate(177.402 56.59)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="67.928" height="67.928" stroke="none"/>
+        <rect x="0.5" y="0.5" width="66.928" height="66.928" fill="none"/>
+      </g>
+      <g id="矩形_5080" data-name="矩形 5080" transform="translate(173.759 56.644)" fill="rgba(0,0,0,0)" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+        <rect width="81.269" height="81.269" stroke="none"/>
+        <rect x="0.5" y="0.5" width="80.269" height="80.269" fill="none"/>
+      </g>
+    </g>
+    <g id="组_15925" data-name="组 15925" transform="translate(84)">
+      <g id="组_15923" data-name="组 15923" transform="translate(445)">
+        <g id="矩形_5079-3" data-name="矩形 5079" transform="translate(141 20)" fill="#fff" stroke="#e6ecfc" stroke-width="1">
+          <rect width="139.626" height="140" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="138.626" height="139" rx="3.5" fill="none"/>
+        </g>
+        <path id="路径_6704-2" data-name="路径 6704" d="M0,0H137.875" transform="translate(211.285 21.313) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6705-2" data-name="路径 6705" d="M1438.574-12214h139.8" transform="translate(-1297.375 12304.475)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6706-2" data-name="路径 6706" d="M1439.392-12381l135.744,136.117" transform="translate(-1296.642 12402.677)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <path id="路径_6707-2" data-name="路径 6707" d="M1576.082-12381l-136.69,137.068" transform="translate(-1296.638 12402.678)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1"/>
+        <g id="椭圆_506-2" data-name="椭圆 506" transform="translate(153.249 32.249)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <ellipse cx="58.12" cy="58.307" rx="58.12" ry="58.307" stroke="none"/>
+          <ellipse cx="58.12" cy="58.307" rx="57.62" ry="57.807" fill="none"/>
+        </g>
+        <g id="矩形_5074-2" data-name="矩形 5074" transform="translate(158.817 37.817)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="105.105" height="105.479" stroke="none"/>
+          <rect x="0.5" y="0.5" width="104.105" height="104.479" fill="none"/>
+        </g>
+        <g id="矩形_5075-2" data-name="矩形 5075" transform="translate(269.49 43.226) rotate(90)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="94.654" height="116.241" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93.654" height="115.241" fill="none"/>
+        </g>
+        <g id="矩形_5076-2" data-name="矩形 5076" transform="translate(164.385 32.249)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="93.969" height="116.615" stroke="none"/>
+          <rect x="0.5" y="0.5" width="92.969" height="115.615" fill="none"/>
+        </g>
+        <g id="矩形_5077-2" data-name="矩形 5077" transform="translate(177.402 56.59)" fill="none" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="67.928" height="67.928" stroke="none"/>
+          <rect x="0.5" y="0.5" width="66.928" height="66.928" fill="none"/>
+        </g>
+        <g id="矩形_5080-2" data-name="矩形 5080" transform="translate(173.759 56.644)" fill="rgba(0,0,0,0)" stroke="#e5ebfc" stroke-linecap="round" stroke-width="1">
+          <rect width="81.269" height="81.269" stroke="none"/>
+          <rect x="0.5" y="0.5" width="80.269" height="80.269" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="组_15931" data-name="组 15931">
+      <g id="矩形_5092" data-name="矩形 5092" transform="translate(165 43)" fill="none" stroke="#333b44" stroke-width="10">
+        <rect width="66" height="95" rx="2" stroke="none"/>
+        <rect x="5" y="5" width="56" height="85" rx="3" fill="none"/>
+      </g>
+      <g id="组_15930" data-name="组 15930">
+        <rect id="矩形_5086" data-name="矩形 5086" width="10" height="16" rx="2" transform="translate(183 65)" fill="#333b44"/>
+        <rect id="矩形_5089" data-name="矩形 5089" width="10" height="16" rx="2" transform="translate(203 65)" fill="#333b44"/>
+        <rect id="矩形_5087" data-name="矩形 5087" width="10" height="16" rx="2" transform="translate(183 89)" fill="#333b44"/>
+        <rect id="矩形_5088" data-name="矩形 5088" width="10" height="16" rx="2" transform="translate(203 89)" fill="#333b44"/>
+      </g>
+      <rect id="矩形_5085" data-name="矩形 5085" width="10" height="105" rx="2" transform="translate(264 128) rotate(90)" fill="#333b44"/>
+      <rect id="矩形_5090" data-name="矩形 5090" width="10" height="53" transform="translate(248 82)" fill="#333b44"/>
+      <rect id="矩形_5091" data-name="矩形 5091" width="10" height="34" rx="2" transform="translate(258 77) rotate(90)" fill="#333b44"/>
+    </g>
+    <rect id="组_15931-2" data-name="组 15931" width="105" height="95" transform="translate(688 43)" fill="url(#pattern)"/>
+  </g>
+</svg>
