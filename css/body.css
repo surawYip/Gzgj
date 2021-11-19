@@ -246,7 +246,7 @@ a:hover,a:active{
 
 .neirong_list{
 	padding: 48px 75px 60px 55px;
-	text-align: center;
+	text-align: left;
 	width: 1240px;
 }
 
@@ -314,7 +314,7 @@ font-size: 14px;
 
 
 .ant-timeline-item-content{
-	padding:30px 24px 24px;
+	padding:30px 0px 14px 30px;
 	width: 1000px;
 	text-align: left;
 	background:#fff;
@@ -364,22 +364,21 @@ font-size: 14px;
 
 
 
-.neirong_list_h3{
+h2{
 	text-align: left;
 	font-size: 24px;
 	font-weight: 600;
-	margin-bottom: 40px;
-	margin-top: 36px;
+	margin-bottom: 24px;
+	margin-top: 60px;
 
 }
 
-.neirong_list_h4{
+h3{
 	text-align: left;
 	font-size: 18px;
 	font-weight: 600;
 	margin-bottom: 24px;
-	margin-top: 36px;
-	
+	margin-top: 36px
 }
 
 
@@ -410,25 +409,25 @@ font-size: 14px;
 
 
 
-.neirong_list_img{
-	width:1400px;
+.neirong_list img {
+	
 	text-align: left;
-	padding:30px 0px 30px 0px;
+	padding:40px 0px 12px 0px;
 }
 
 
-.neirong_list_text ul{
+.neirong_list ul{
 	text-align: left;
 	font-size: 14px;
 	color:rgba(0,0,0,0.65);
 	line-height: 1.75;
 	padding-left: 20px;
 	list-style-type:disc;
-	margin-top:30px;
-	margin-bottom: 30px;
+
+
 }
 
-.neirong_list_text li{
+.neirong_list li{
 	color:rgba(0,0,0,0.65);
 }
 
@@ -566,7 +565,8 @@ font-size: 14px;
 
 .color-linshi{
 	overflow: auto;
-	margin-bottom: 80px;
+	margin-bottom: 20px;
+
 }
 
 .neirong-list-table{
@@ -1354,4 +1354,75 @@ z-index: 999;
 }
 
 
+        /*这是百科右侧导航代码的样式表*/
+        .directory-nav{width: 210px; height: auto; background: #fff; position: fixed; right: 50px;top:150px; display:none;text-indent: 30px}
 
+        .directory-nav li{height: 34px;line-height: 34px;  position: relative;cursor:pointer; list-style-type: none;}
+        .directory-nav li a{}
+        .directory-nav .l1{ }
+        .directory-nav .l2{ text-indent: 46px}
+        .directory-nav .l1 a{font-size: 14px;}
+        .directory-nav .l2 a{font-size: 12px;}
+        .directory-nav,.directory-nav a{ color:rgba(0,0,0,0.60);}
+        .directory-nav .cur a{ color: #377CFD;}
+
+        .directory-nav .line{ position: absolute; left:10px; top: 16px; bottom: 10px; z-index: 1; width: 1px; background:rgba(0,0,0,0.08);}
+        .directory-nav .c-top,.directory-nav .c-bottom{ position: absolute; left: 0; z-index: 2;
+            display: block; width: 10px; height: 10px; font-size: 0; line-height: 0;
+            
+        }
+        .directory-nav .c-dot{
+            position: absolute; left:-32px; top: 50%; z-index: 2; margin-top: -5px;
+            display: block; width: 10px; height: 10px; font-size: 0; line-height: 0;
+        }
+
+        .directory-nav .c-top{ top: 0}
+        .directory-nav .c-bottom{ bottom: 0}
+        .directory-nav .cur-tag{
+            position: absolute; left: 2px; top:16px; z-index: 5; margin-top: -6px;
+            display: block; width: 19px; height: 19px; font-size: 0; line-height: 0;
+            background: url("../images/point.svg") ;
+            -webkit-transition:top .3s ease 0s;
+            transition:top .3s ease 0s;
+        }
+
+
+h1{font-size: 34px;
+	font-weight: 500;
+	padding:0 15;
+	padding-bottom: 30px;
+	text-align: left;}
+
+
+p{
+		text-align: left;
+	font-size: 14px;
+	color: rgba(0,0,0,.65);
+	line-height:1.75;
+	margin-bottom: 12px;
+	font-weight: 400;
+}
+
+.list span{
+	line-height: inherit;
+	
+}
+
+.border-radius p{
+	font-size: 16px;
+	color:rgba(0,0,0,0.80);
+	margin-bottom: 0px;
+	
+}
+
+
+.list p{
+	margin-bottom: 0px;
+}
+
+.tag-qing p{
+	margin-bottom: 0px;
+}
+
+.color-value2 img{padding:0px;}
+.color-value7 img{padding:0px;}
