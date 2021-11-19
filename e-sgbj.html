@@ -126,100 +126,90 @@
 	
 			<div class="neirong">
 <div class="neirong_list" >
-	     <div class="neirong_list_top">栅格布局</div>
+	
+	  <h1>栅格布局</h1>
 
-<div class="neirong_list_span">合理的栅格系统可以通过调整布局网格以满足产品和各种设备尺寸的需求。布局的栅格化系统， 我们是基于行(row)和列(col)来定义信息区块的外部框架，以保证页面的每个区域能够稳 健地排布起来。栅格的列数，根据实际业务内容设定，业务内容划分较少，因此系统默认规范采用12 列栅格系统。栅格系统的设计需要满足一下三个原则:等比缩放、弹性控件、文字流自适应。</div>
+<p>合理的栅格系统可以通过调整布局网格以满足产品和各种设备尺寸的需求。布局的栅格化系统， 我们是基于行(row)和列(col)来定义信息区块的外部框架，以保证页面的每个区域能够稳 健地排布起来。栅格的列数，根据实际业务内容设定，业务内容划分较少，因此系统默认规范采用12 列栅格系统。栅格系统的设计需要满足一下三个原则:等比缩放、弹性控件、文字流自适应。</p>
 	
-	<div class="neirong_list_h3">栅格说明</div>
-	<div class="neirong_list_span">在栅格系统中，我们基于行（Row）和列（Col）来定义信息框架，其中使用较多是行。</div>
-	
-		<div class="neirong_list_img">
-	<img src="images/c-1.svg"></img>
-				</div>
-	
-	
-	<div class="neirong_list_span">布局的栅格化系统，基于行（Row）和列（Col）来定义信息区块的外部框架，以保证页面的每个模块能够清晰地排布起来且保证统一性。所有的信息都存在于 Col 中，Row 的唯一元素为 Col。</div>
+	<h2>栅格说明</h2>
+	<p>在栅格系统中，我们基于行（Row）和列（Col）来定义信息框架，其中使用较多是行。</p>
+		
+	<img src="images/c-1.svg"></img>			
+
+	<p>布局的栅格化系统，基于行（Row）和列（Col）来定义信息区块的外部框架，以保证页面的每个模块能够清晰地排布起来且保证统一性。所有的信息都存在于 Col 中，Row 的唯一元素为 Col。</p>
 					
+
+	<h3>栅格列说明</h3>
 	
-	
-	
-	<div class="neirong_list_span"></div>
-	<div class="neirong_list_h4">栅格列说明</div>
-	
-		<div class="neirong_list_img">
+		
 	<img src="images/c-2.svg"></img>
-				</div>
 				
-				<div class="neirong_list_h4">左右布局结构与其对应的栅格系统</div>
+				
+	<h3>左右布局结构</h3>
 			
-	<div class="neirong_list_span">1200/1024断点:图形理解</div>
+	<p>1200/1024断点:图形理解</p>
 	
-	<div class="neirong_list_span">Viewport Min-width≥1200 Columns=12 Gutter=24 Margin=24</div>
-			<div class="neirong_list_img">
+	<p>Viewport Min-width≥1200 Columns=12 Gutter=24 Margin=24</p>
+			
 	<img src="images/c-3.svg"></img>
-				</div>
-	<div class="neirong_list_span">Viewport Min-width(1024，1200] Columns=12 Gutter=16 Margin=16</div>
-	<div class="neirong_list_img">
+				
+	<p>Viewport Min-width(1024，1200] Columns=12 Gutter=16 Margin=16</p>
+	
 	<img src="images/c-4.svg"></img>
-				</div>
-	<div class="neirong_list_span">Viewport Min-width≤1024 Columns=12 Gutter=8 Margin=8</div>
-	<div class="neirong_list_img">
+				
+	<p>Viewport Min-width≤1024 Columns=12 Gutter=8 Margin=8</p>
+	
 	<img src="images/c-5.svg"></img>
-				</div>
+				
 
-<div class="neirong_list_h3">内容区域变化与Column、Gutter、Margin响应 策略表-左右布局</div>
-		<div class="neirong_list_span">顶部导航、页签部分固定，视窗每达到一个最小宽度，就会触发该宽度下预设的页面布局方式</div>
-	<div class="neirong_list_img">
+	<h2>左右布局</h2>
+
+	<p>内容区域变化与Column、Gutter、Margin响应 策略表-左右布局</p>
+	<p>顶部导航、页签部分固定，视窗每达到一个最小宽度，就会触发该宽度下预设的页面布局方式</p>
+	
 	<img src="images/c-6.svg"></img>
+				
+
+<h2>盒子宽度</h2>
+<p>根据业务内容分配页面比例，确定盒子宽度</p>
+<p>根据业务需要盒子被分为不同的比例,常见方法和比例如下图：</p>
+
+
+<h3> 1.通栏</h3>
+<p>用于广告位，通栏banner，栏目：100%</p>
+<img src="images/c-7.svg"></img>
+
+<h3> 2.两栏式（1:1）</h3>
+<p>用于详情页，展示页，广告位，栏目：50%</p>
+<img src="images/c-8.svg"></img>
+
+<h3> 3.三栏式（1:1:1）</h3>
+<p>用于图例展示，信息展示，栏目：33.33%</p>
+<img src="images/c-9.svg"></img>
+
+<h3> 4.四栏式（1:1:1:1）</h3>
+<p>用于图例展示，信息展示，栏目：25%</p>
+<img src="images/c-10.svg"></img>
+
+<h3> 5.三栏式（1:2:1）</h3>
+<p>用于带目录式详情页，栏目：25%，50%，25%</p>
+<img src="images/c-11.svg"></img>
+
+<h3> 6.二栏式（1:3）</h3>
+<p>用于带目录式详情页，栏目：25%，75%</p>
+<img src="images/c-12.svg"></img>
+
+<h3> 7.二栏式（1:2）</h3>
+<p>用于带图片式详情页，栏目：33.33%，66.66%</p>
+<img src="images/c-13.svg"></img>
+	
+	
+	
+	   </div>
+
+
 				</div>
 
-<div class="neirong_list_h3">根据业务内容分配页面比例，确定盒子宽度</div>
-<div class="neirong_list_span">根据业务需要盒子被分为不同的比例,常见方法和比例如下图：</div>
-
-
-<div class="neirong_list_h4"> 1.通栏</div>
-<div class="neirong_list_span">用于广告位，通栏banner，栏目：100%</div>
-<div class="neirong_list_img"><img src="images/c-7.svg"></img></div>
-
-<div class="neirong_list_h4"> 2.两栏式（1:1）</div>
-<div class="neirong_list_span">用于详情页，展示页，广告位，栏目：50%</div>
-<div class="neirong_list_img"><img src="images/c-8.svg"></img></div>
-
-<div class="neirong_list_h4"> 3.三栏式（1:1:1）</div>
-<div class="neirong_list_span">用于图例展示，信息展示，栏目：33.33%</div>
-<div class="neirong_list_img"><img src="images/c-9.svg"></img></div>
-
-<div class="neirong_list_h4"> 4.四栏式（1:1:1:1）</div>
-<div class="neirong_list_span">用于图例展示，信息展示，栏目：25%</div>
-<div class="neirong_list_img"><img src="images/c-10.svg"></img></div>
-
-<div class="neirong_list_h4"> 5.三栏式（1:2:1）</div>
-<div class="neirong_list_span">用于带目录式详情页，栏目：25%，50%，25%</div>
-<div class="neirong_list_img"><img src="images/c-11.svg"></img></div>
-
-<div class="neirong_list_h4"> 6.二栏式（1:3）</div>
-<div class="neirong_list_span">用于带目录式详情页，栏目：25%，75%</div>
-<div class="neirong_list_img"><img src="images/c-12.svg"></img></div>
-
-<div class="neirong_list_h4"> 7.二栏式（1:2）</div>
-<div class="neirong_list_span">用于带图片式详情页，栏目：33.33%，66.66%</div>
-<div class="neirong_list_img"><img src="images/c-13.svg"></img></div>
-
-
-				</div>
-				
-			
-
-	
-	
-
-
-	
-	
-	
-
-				
-</div>
 			<div class="arrow-line"></div>
 	
 	
@@ -231,6 +221,7 @@
 <script src="js/jquery.bootstrap-autohidingnavbar.js"></script>
 <script> $("div.navbar.fixed-top").autoHidingNavbar();</script>
 
-
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/menu-list.js"></script>
 </body>
 </html>
