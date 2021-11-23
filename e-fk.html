@@ -19,8 +19,8 @@
 <div class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
   <div class="container">
 	   <div class="topspan">
-		
-		<span><a href="web-demo/index.html" target="_blank">进入演示版</a></span>
+		<!--<span><a href="web-demo/index.html" target="_blank">知识库</a></span>-->
+		<button class="button-normal-big" onclick="window.location.href='web-demo/index.html'" style="margin-top: -5px">进入演示版</button>
 	  </div>
 	<a href="index.html" class="navbar-brand"><img src="images/logo.png"></a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -126,51 +126,159 @@
 	
 			<div class="neirong">
 <div class="neirong_list" >
+	
 	     <h1>反馈</h1>
 
 
-<p>常用浮动层来呈现一种反馈信息、系统提示、补充说明来指导用户完成任务</p>
+<p>在用户使用系统的过程中，系统需要适时的做出适当反馈，以告知用户当前系统所属的状态、帮助用户了解当前或下一步需要作何操作，并明确操作有何种后果。形式多样的反馈贯穿用户与系统交互的始末。反馈的设计需要满足以下原则：</p>
+	<ul>
+	<li>在操作的各个阶段给出适时、适当的反馈；</li>
+	<li>根据输入内容/操作影响的量级，决定反馈的量级，避免干扰用户；</li>
+	<li>反馈内容清晰易懂、积极有效，符合用户认知和操作场景。</li>
+	</ul>
 
-<div class="color-linshi" style="overflow:auto;">
-		
-	<div class="at-color-container4" style="width:566px; height: 280px;">
-		<div class="border-radius" style="color: rgba(0,0,0,0.80)">
-		<p>小提示/中下</p>
-			<span>点击图标显示气泡文字</span>
-		</div>
-			<div class="color-value2" style="margin-top:8px; height: 140px; ">
-				<div style="margin-left: -16px; margin-top: -40px;">
-				<img src="images/q-1.svg"></img>
-				</div>
-		</div>
-	  </div>
+	<h2>提示信息</h2>
+	<p>在用户开始输入或操作前，提示信息可预先告知用户注意事项，解释说明原因或潜在风险，以及接下来可以做些什么。</p>
+	<h2>警告</h2>
+<h3>警告提示（Alert）</h3>
+<p>警告提示是一种非浮层的静态展现形式，通常在载入时出现在页面或区块顶部。一般不可关闭，或需用户主动点击关闭或完成指定任务后关闭。此外，警告提示作为非阻碍式的信息展示方式，不会影响用户操作，但视觉上有一定的干扰。</p>
+	
+	<h4>适用范围</h4>
+	<ul>
+<li>可用于系统通知、推广消息、公告等内容的主动推送；</li>
+<li>可用于对当前页面新规则、政策等内容的解释说明。</li>
+		</ul>
+	<img src="images/y-1.svg">
+	<h2>通知</h2>
+<h3>通知提醒（Notification）</h3>
+<p>通知提醒是全局性、非阻碍式的模态弹窗。一般由系统主动推送，出现于页面右上角或右下角，承载重要的通知信息。可由用户主动关闭，或指定时间后自行消失。通常还伴随稍后提醒的功能，可在关闭后再次提示。</p>
+	
+	<h4>适用范围</h4>
+<ul>
+<li>在通知较为复杂或重要的信息时使用，可伴随跳转入口；</li>
+<li>可承载待办或任务提醒内容。</li>
+</ul>
+<img src="images/y-2.svg">
+	<h3>徽标数（Badge）</h3>
+<p>徽标数一般出现在图标/标签/按钮的右上角或功能入口的右侧，通过醒目的视觉样式提示新上内容或未读消息/通知，吸引用户处理。</p>
+	<p>精准数字用于提示相对重要或关联度高的信息内容；</p>
+<p>文字徽标用于提示当前层级重要新上功能或运营推广内容；</p>
+<p>红点用于提示相对次要或无需用户重视的消息内容，提示当前层级功能常规更新，或暗示子层级有新上或更新内容。</p>
+<p>单层级或子层级内容，用户点击后徽标消失；仅当子层级全部浏览、徽标消失后，父层级徽标消失。新上业务可不采用点击消失的规则，并根据需要自定义展示时长。</p>
+
+	<h4>适用范围</h4>
+<ul>
+<li>提示消息未读、任务未处理；</li>
+<li>提示功能更新、业务新上。</li>
+</ul>
+	<img src="images/y-3.svg">
+	<h2>帮助</h2>
+<h3>文字提示（Tooltip）</h3>
+<p>轻量级提示，鼠标移入则气泡显示提示内容，移出后消失。提示可精确地指向图标、图形、链接等元素并描述，目标元素应带有交互暗示，如文字使用“…”暗示内容未展示完全、元素后使用帮助或说明icon等。通常为简短文字描述，不承载复杂文本和操作。</p>
+	
+	<h4>适用范围</h4>
+<ul>
+<li>可代替标签，提供对按钮/文字/操作的简单解释；</li>
+<li>适合对输入框内金额等内容，或无法全量显示的过长选项进行补充提示。</li>
+</ul>
+<img src="images/y-4.svg">
+<h3>气泡卡片（Popover）</h3>
+<h4>适用范围</h4>
+<ul>
+<li>当解释的内容较复杂，或需承载一定操作时使用；</li>
+<li>对于少量或低频出现的承载目标，可使用鼠标移入的形式唤起气泡卡片；</li>
+<li>对于大量高频出现的承载目标，应避免鼠标移入唤起而使用鼠标点击唤起，防止鼠标滑过时大量气泡加载，影响页面性能。</li>
+</ul>
+	<img src="images/y-5.svg">
+	
+<h2>过程反馈</h2>
+<p>在用户使用系统进行输入/操作的过程中，即时响应、适时反馈可以有效增加用户的信赖感，同时避免出错，提高操作效率。</p>
+
+<h3>进度反馈</h3>
+<h3>加载动画（Spin）</h3>
+<p>页面或模块内轻量级的进度反馈样式。当操作完成需2s以上时间时，需给出加载状态以提醒用户等待，同时避免用户产生焦虑。若加载时间过长，应在加载时充分告知预计等待时间，给用户心理预期。</p>
+	<img src="images/y-6.svg">
+<h4>适用范围</h4>
+<ul>
+<li>需用户等待非长时间加载时使用；</li>
+<li>无法明确告知加载进度时使用。</li>
+</ul>
+<h3>进度条（Progress）</h3>
+<p>当操作时间较长，且操作进度可量化时使用。可搭配上传组件或对话框使用。通常用于页面内容提交，文件上传等场景。明确告知用户加载进度及状态，可有效缓解长时间等待带来的焦虑。加载时间较长时，可配合取消操作。</p>
+	
+<h4>适用范围</h4>
+<ul>
+<li>操作完成需要较长时间时使用，如图片、文件上传，页面提交或保存等；</li>
+<li>当需要显示操作进度百分比时可使用。</li>
+</ul>
+<img src="images/y-7.svg">
+	<h3>骨架屏（Skeleton）</h3>
+<p>当页面内容承载大量重复内容需加载时，在加载内容位置提供图形占位组合以给用户适当的心理预期。</p>
+<img src="images/y-8.svg">
 	
 	
-	<div class="at-color-container4" style="width: 566px; height: 280px;">
-		<div class="border-radius" style="color: rgba(0,0,0,0.80)">
-		<p>大提示</p>
-			<span>大范围强调文字，带关闭按钮</span>
-		</div>
-			<div class="color-value2" style="margin-top:8px; height: 140px; ">
-				<div style="margin-left: -16px; margin-top: -45px;">
-				<img src="images/q-2.svg"></img>
-				</div>
-		</div>
-	  </div>
-					
-	  <div class="at-color-container4" style="width: 566px; height: 280px;">
-		<div class="border-radius" style="color: rgba(0,0,0,0.80)">
-		<p>确认提示</p>
-			<span>带确认、取消按钮，悬停显示</span>
-		</div>
-			<div class="color-value2" style="margin-top:8px; height: 140px; ">
-			<div style="margin-left: -20px; margin-top: -40px;">
-				<img src="images/q-3.svg"></img>
-				</div>
-					
-					</div>
-		</div>
-	  </div>
+<h4>适用范围</h4>
+<ul>
+<li>用户网络较慢导致加载时长无法预期时使用；</li>
+<li>首次进入页面，需加载数据时使用；</li>
+<li>页面承载大量图文列表、卡片信息时。</li>
+</ul>
+	<img src="images/y-9.svg">
+<h2>录入反馈</h2>
+<h3>报错</h3>
+<p>在用户输入或操作系统的过程中，通过不同的校验规则和形式发现错误，以提示用户纠正，从而避免错误带来的后续影响。报错通常应用在数据录入组件中，通过醒目的视觉样式区分出错组件，使用图标搭配红色文字，提示出错原因。仅当用户进行新的相关操作时，报错才会消失。</p>
+
+<h4>适用范围</h4>
+<ul>
+<li>用于常用数据录入组件。</li>
+</ul>	
+	<img src="images/y-10.svg">
+	
+<h2>结果反馈</h2>
+<p>在用户进行了某种操作时，系统将对用户操作进行反馈，告知用户结果。</p>
+
+<h3>全局反馈</h3>
+<h3>全局提示（Message）</h3>
+<p>反馈浮层是轻量级、非阻断性的全局提示方式，通常出现在页面顶部，当页面承载信息过多时，也可从页面中部出现。浮层提示居中显示，默认3s后消失，可根据实际情况调整时长。若需提示较多的重要信息，可采用模态对话框的形式通知，防止用户遗漏而导致犯错。
+</p>
+	
+	<h4>适用范围</h4>
+<ul>
+<li>针对如提交、保存等全局的操作，提供简短的成功、警告、失败等信息。</li>
+<li>用户无需等待较长时间时使用</li>
+</ul>
+<img src="images/y-11.svg">
+
+<h3>模态对话框（Modal）</h3>
+<p>模态对话框是阻断性较强的全局反馈形式，用户未处理对话框时无法进行其他操作，因此需要谨慎使用。对话框由操作引发，搭配遮罩出现于当前页面中心，通常伴随确认、取消或其他对立性质的操作。</p>
+
+<h4>适用范围</h4>
+<ul>
+<li>较为严重的失败/警告场景下使用；</li>
+<li>传达需用户悉知的重要信息，如用于不可逆操作的二次确认；</li>
+<li>需要在传递信息同时，承载下一步任务。</li>
+</ul>
+	
+	<h2>页面反馈</h2>
+<h3>结果页</h3>
+<p>用于反馈一系列操作任务的处理结果。</p>
+
+<h4>适用范围</h4>
+<ul>
+<li>常用于分步操作的结果呈现；</li>
+<li>反馈内容特别复杂、承载较多内容或功能任务入口时使用。</li>
+</ul>
+<img src="images/y-12.svg">
+<h3>缺省页</h3>
+反馈非用户操作导致的页面异常状态。通常搭配插图进行报错提示，报错文案应清晰、明确，易于用户理解。解释出错原因的同时，为用户提供解决方案和引导，使流程连贯、体验顺畅。
+
+<h4>适用范围</h4>
+<ul>
+<li>可用于无结果、无网络、无权限、无数据等异常情况下的页面展示。</li>
+</ul>
+	<img src="images/y-13.svg">
+	
+	
 	
 		</div>
 
@@ -191,8 +299,8 @@
 
 <script src="js/jquery.bootstrap-autohidingnavbar.js"></script>
 <script> $("div.navbar.fixed-top").autoHidingNavbar();</script>
-<!--
+
 <script type="text/javascript" src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/menu-list.js"></script>-->
+<script type="text/javascript" src="js/menu-list.js"></script>
 </body>
 </html>
