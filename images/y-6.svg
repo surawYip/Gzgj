@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="202" viewBox="0 0 980 202">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-y-6">
+      <rect width="980" height="202"/>
+    </clipPath>
+  </defs>
+  <g id="y-6" clip-path="url(#clip-y-6)">
+    <rect width="980" height="202" fill="#fff"/>
+    <g id="组件_443_57" data-name="组件 443 – 57">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="202" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="201" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="162" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="161" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="加载动画_Spin_" data-name="加载动画（Spin）" transform="translate(48 68)" fill="rgba(0,0,0,0.8)" font-size="20" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">加载动画（Spin）</tspan></text>
+    <rect id="矩形_5320" data-name="矩形 5320" width="884" height="1" transform="translate(48 93)" fill="#fff"/>
+    <path id="矩形_5320_-_轮廓" data-name="矩形 5320 - 轮廓" d="M0,0H884V1H0Z" transform="translate(48 93)" fill="#e4e5eb"/>
+    <g id="组_16253" data-name="组 16253" transform="translate(0 10)">
+      <g id="组_16252" data-name="组 16252" transform="translate(0.286 -1)">
+        <g id="组_16251" data-name="组 16251" transform="translate(88 122)">
+          <path id="路径_8805" data-name="路径 8805" d="M592.573,444.209a7.42,7.42,0,0,1,5.9,2.913,7.369,7.369,0,0,1,1.534,4.525,7.444,7.444,0,1,1-7.438-7.438Zm0,13.376a5.938,5.938,0,1,0-5.938-5.938A5.945,5.945,0,0,0,592.573,457.585Z" transform="translate(-585.885 -444.959)" fill="#d2d9e7"/>
+          <path id="路径_8806" data-name="路径 8806" d="M590.751,446.017l-.476-1.422a7.482,7.482,0,0,1,4.4-.106l-.407,1.444a5.982,5.982,0,0,0-3.514.084Z" transform="translate(-585.956 -444.959)" fill="#377cfd"/>
+        </g>
+      </g>
+      <text id="加载中" transform="translate(110 133)" fill="#377cfd" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">加载中</tspan></text>
+    </g>
+  </g>
+</svg>

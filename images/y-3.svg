@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="264" viewBox="0 0 980 264">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="239" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-y-3">
+      <rect width="980" height="264"/>
+    </clipPath>
+  </defs>
+  <g id="y-3" clip-path="url(#clip-y-3)">
+    <rect width="980" height="264" fill="#fff"/>
+    <g id="组件_443_54" data-name="组件 443 – 54">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="264" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="263" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="224" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="223" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="徽标数_Badge_" data-name="徽标数（Badge）" transform="translate(48 68)" fill="rgba(0,0,0,0.8)" font-size="20" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">徽标数（Badge）</tspan></text>
+    <g id="矩形_5320" data-name="矩形 5320" transform="translate(48 93)" fill="#fff" stroke="#e4e5eb" stroke-width="1">
+      <rect width="884" height="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="883" fill="none"/>
+    </g>
+    <rect id="矩形_5342" data-name="矩形 5342" width="40" height="40" rx="4" transform="translate(48 141)" fill="#e4e5eb"/>
+    <rect id="矩形_5345" data-name="矩形 5345" width="40" height="40" rx="4" transform="translate(208 141)" fill="#e4e5eb"/>
+    <rect id="矩形_5347" data-name="矩形 5347" width="40" height="40" rx="4" transform="translate(451 141)" fill="#e4e5eb"/>
+    <rect id="矩形_5348" data-name="矩形 5348" width="40" height="40" rx="4" transform="translate(371 141)" fill="#e4e5eb"/>
+    <rect id="矩形_5343" data-name="矩形 5343" width="40" height="40" rx="4" transform="translate(288 141)" fill="#e4e5eb"/>
+    <g id="椭圆_531" data-name="椭圆 531" transform="translate(321 138)" fill="#ff4949" stroke="#fff" stroke-width="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="5.5" fill="none"/>
+    </g>
+    <g id="椭圆_533" data-name="椭圆 533" transform="translate(567 147)" fill="#ff4949" stroke="#fff" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="3.5" fill="none"/>
+    </g>
+    <g id="椭圆_534" data-name="椭圆 534" transform="translate(629 147)" fill="#ff4949" stroke="#fff" stroke-width="1">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="3.5" fill="none"/>
+    </g>
+    <g id="组_16223" data-name="组 16223" transform="translate(-3204 5520)">
+      <g id="椭圆_530" data-name="椭圆 530" transform="translate(3280 -5387)" fill="#ff4949" stroke="#fff" stroke-width="1">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="10.5" fill="none"/>
+      </g>
+      <text id="_9" data-name="9" transform="translate(3284 -5385)" fill="#fff" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="2.481" y="12">9</tspan></text>
+    </g>
+    <g id="组_16226" data-name="组 16226" transform="translate(-3284 5520)">
+      <rect id="矩形_5344" data-name="矩形 5344" width="40" height="40" rx="4" transform="translate(3412 -5379)" fill="#e4e5eb"/>
+      <g id="椭圆_530-2" data-name="椭圆 530" transform="translate(3440 -5387)" fill="#ff4949" stroke="#fff" stroke-width="1">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="10.5" fill="none"/>
+      </g>
+      <text id="_23" data-name="23" transform="translate(3442 -5385)" fill="#fff" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0.963" y="12">23</tspan></text>
+    </g>
+    <g id="组_16227" data-name="组 16227" transform="translate(-3206 5520)">
+      <g id="组_16230" data-name="组 16230">
+        <g id="矩形_5346" data-name="矩形 5346" transform="translate(3444 -5388)" fill="#ff4949" stroke="#fff" stroke-width="1">
+          <rect width="30" height="21" rx="10.5" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="31" height="22" rx="11" fill="none"/>
+        </g>
+        <text id="_99_" data-name="99+" transform="translate(3459 -5373)" fill="#fff" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-11.487" y="0">99+</tspan></text>
+      </g>
+    </g>
+    <g id="组_16232" data-name="组 16232" transform="translate(-3040 5520)">
+      <g id="组_16230-2" data-name="组 16230">
+        <g id="矩形_5346-2" data-name="矩形 5346" transform="translate(3441 -5388)" fill="#ff4949" stroke="#fff" stroke-width="1">
+          <rect width="36" height="21" rx="10.5" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="37" height="22" rx="11" fill="none"/>
+        </g>
+        <text id="NEW" transform="translate(3459 -5373)" fill="#fff" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-14.282" y="0">NEW</tspan></text>
+      </g>
+    </g>
+    <g id="组_16233" data-name="组 16233" transform="translate(-2958 5520)">
+      <g id="组_16230-3" data-name="组 16230">
+        <g id="矩形_5346-3" data-name="矩形 5346" transform="translate(3439 -5388)" fill="#ff4949" stroke="#fff" stroke-width="1">
+          <rect width="34" height="21" rx="10.5" stroke="none"/>
+          <rect x="-0.5" y="-0.5" width="35" height="22" rx="11" fill="none"/>
+        </g>
+        <text id="HOT" transform="translate(3456 -5373)" fill="#fff" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="-12.97" y="0">HOT</tspan></text>
+      </g>
+    </g>
+    <path id="_1" data-name="1" d="M9112.018-5584.34v-2h5.377v2Zm-7.019-3.6v-2h1.738v-5.867a8.051,8.051,0,0,1,7.044-7.977V-5605h2v1.215a8.052,8.052,0,0,1,7.032,7.975v5.867h1.967v2Zm15.815-2v-5.867a6.046,6.046,0,0,0-6.039-6.039,6.044,6.044,0,0,0-6.037,6.039v5.867Z" transform="translate(-8557.999 5756)" fill="#44566c"/>
+    <text id="链接" transform="translate(617 165)" fill="#377cfd" font-size="12" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" text-decoration="underline"><tspan x="-12" y="0">链接</tspan></text>
+  </g>
+</svg>

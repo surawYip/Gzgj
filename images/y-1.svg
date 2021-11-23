@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="334" viewBox="0 0 980 334">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="309" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_5319" x="53" y="124" width="416" height="122" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_5319-2" x="502" y="124" width="416" height="156" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-y-1">
+      <rect width="980" height="334"/>
+    </clipPath>
+  </defs>
+  <g id="y-1" clip-path="url(#clip-y-1)">
+    <rect width="980" height="334" fill="#fff"/>
+    <g id="组件_443_52" data-name="组件 443 – 52">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="334" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="333" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="294" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="293" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="通知提醒_Notification_" data-name="通知提醒（Notification）" transform="translate(48 68)" fill="rgba(0,0,0,0.8)" font-size="20" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">通知提醒（Notification）</tspan></text>
+    <g id="矩形_5320" data-name="矩形 5320" transform="translate(48 93)" fill="#fff" stroke="#e4e5eb" stroke-width="1">
+      <rect width="884" height="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="883" fill="none"/>
+    </g>
+    <g id="组_16169" data-name="组 16169" transform="translate(0 -3)">
+      <g transform="matrix(1, 0, 0, 1, 0, 3)" filter="url(#矩形_5319)">
+        <rect id="矩形_5319-3" data-name="矩形 5319" width="380" height="86" rx="4" transform="translate(71 142)" fill="#fff"/>
+      </g>
+      <text id="会议通知" transform="translate(87 177)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">会议通知</tspan></text>
+      <text id="_10分钟后会议开始_请及时签到_" data-name="10分钟后会议开始，请及时签到。" transform="translate(87 211)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">10分钟后会议开始，请及时签到。</tspan></text>
+      <g id="组件_464_1" data-name="组件 464 – 1" transform="translate(417 151)">
+        <g id="组件_463_1" data-name="组件 463 – 1">
+          <g id="组_16165" data-name="组 16165">
+            <rect id="矩形_5321" data-name="矩形 5321" width="28" height="28" rx="14" fill="rgba(240,240,240,0)"/>
+          </g>
+          <g id="组_16164" data-name="组 16164" transform="translate(9.5 9.5)">
+            <line id="直线_875" data-name="直线 875" x1="9" y2="9" fill="none" stroke="rgba(0,0,0,0.8)" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="直线_876" data-name="直线 876" x2="9" y2="9" fill="none" stroke="rgba(0,0,0,0.8)" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="组_16168" data-name="组 16168" transform="translate(0 -3)">
+      <g transform="matrix(1, 0, 0, 1, 0, 3)" filter="url(#矩形_5319-2)">
+        <rect id="矩形_5319-4" data-name="矩形 5319" width="380" height="120" rx="4" transform="translate(520 142)" fill="#fff"/>
+      </g>
+      <text id="会议通知-2" data-name="会议通知" transform="translate(536 177)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">会议通知</tspan></text>
+      <text id="_10分钟后会议开始_请及时签到_2" data-name="10分钟后会议开始，请及时签到。" transform="translate(536 211)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">10分钟后会议开始，请及时签到。</tspan></text>
+      <g id="组件_464_2" data-name="组件 464 – 2" transform="translate(866 151)">
+        <g id="组件_463_1-2" data-name="组件 463 – 1">
+          <g id="组_16165-2" data-name="组 16165">
+            <rect id="矩形_5321-2" data-name="矩形 5321" width="28" height="28" rx="14" fill="rgba(240,240,240,0)"/>
+          </g>
+          <g id="组_16164-2" data-name="组 16164" transform="translate(9.5 9.5)">
+            <line id="直线_875-2" data-name="直线 875" x1="9" y2="9" fill="none" stroke="rgba(0,0,0,0.8)" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="直线_876-2" data-name="直线 876" x2="9" y2="9" fill="none" stroke="rgba(0,0,0,0.8)" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="组_16167" data-name="组 16167" transform="translate(12 -8)">
+        <text id="稍后提示" transform="translate(736 253)" fill="#377cfd" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">稍后提示</tspan></text>
+        <text id="不再提示" transform="translate(816 253)" fill="#377cfd" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">不再提示</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

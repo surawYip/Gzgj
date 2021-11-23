@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="378" viewBox="0 0 980 378">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="353" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-y-7">
+      <rect width="980" height="378"/>
+    </clipPath>
+  </defs>
+  <g id="y-7" clip-path="url(#clip-y-7)">
+    <rect width="980" height="378" fill="#fff"/>
+    <g id="组件_443_58" data-name="组件 443 – 58">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="378" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="377" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="338" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="337" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="进度条_Progress_" data-name="进度条（Progress）" transform="translate(48 68)" fill="rgba(0,0,0,0.8)" font-size="20" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">进度条（Progress）</tspan></text>
+    <rect id="矩形_5320" data-name="矩形 5320" width="884" height="1" transform="translate(48 93)" fill="#fff"/>
+    <path id="矩形_5320_-_轮廓" data-name="矩形 5320 - 轮廓" d="M0,0H884V1H0Z" transform="translate(48 93)" fill="#e4e5eb"/>
+    <g id="组_16254" data-name="组 16254" transform="translate(-13532 9588)">
+      <rect id="矩形_5359" data-name="矩形 5359" width="287" height="6" rx="3" transform="translate(13588 -9446)" fill="#f5f5f5"/>
+      <rect id="矩形_5360" data-name="矩形 5360" width="128" height="6" rx="3" transform="translate(13588 -9446)" fill="#f5222d"/>
+    </g>
+    <g id="组_16257" data-name="组 16257" transform="translate(-13532 9642)">
+      <rect id="矩形_5359-2" data-name="矩形 5359" width="287" height="6" rx="3" transform="translate(13588 -9446)" fill="#f5f5f5"/>
+      <rect id="矩形_5361" data-name="矩形 5361" width="176" height="6" rx="3" transform="translate(13588 -9446)" fill="#377cfd" opacity="0.3"/>
+      <rect id="矩形_5362" data-name="矩形 5362" width="116" height="6" rx="3" transform="translate(13588 -9446)" fill="#377cfd"/>
+    </g>
+    <g id="组_16256" data-name="组 16256" transform="translate(200 -6)">
+      <g id="首页_生产者" transform="translate(-640.5 0.5)">
+        <g id="编组-3" transform="translate(791 143)">
+          <circle id="椭圆形" cx="7" cy="7" r="7" transform="translate(0.5 0.5)" fill="#ff4949"/>
+        </g>
+      </g>
+      <g id="组_16190" data-name="组 16190" transform="translate(154.654 147.65)">
+        <path id="路径_8791" data-name="路径 8791" d="M190.475,170l1.216,1.216-5.475,5.475L185,175.475Z" transform="translate(-185 -170)" fill="#fff" fill-rule="evenodd"/>
+        <path id="路径_8792" data-name="路径 8792" d="M186.216,170,185,171.216l5.475,5.475,1.216-1.216Z" transform="translate(-185 -170)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <text id="加载中" transform="translate(351 203)" fill="rgba(0,0,0,0.48)" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">加载中</tspan></text>
+    <text id="_50_" data-name="50%" transform="translate(351 257)" fill="rgba(0,0,0,0.48)" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">50%</tspan></text>
+    <rect id="矩形_5363" data-name="矩形 5363" width="287" height="6" rx="3" transform="translate(56 250)" fill="#f5f5f5"/>
+    <rect id="矩形_5365" data-name="矩形 5365" width="287" height="6" rx="3" transform="translate(56 304)" fill="#13ce66"/>
+    <rect id="矩形_5364" data-name="矩形 5364" width="116" height="6" rx="3" transform="translate(56 250)" fill="#377cfd"/>
+    <g id="组_16182" data-name="组 16182" transform="translate(25 116.001)">
+      <path id="联合_120" data-name="联合 120" d="M-2903,8576a7,7,0,0,1,7-7,7,7,0,0,1,7,7,7,7,0,0,1-7,7A7,7,0,0,1-2903,8576Z" transform="translate(3229 -8385)" fill="#13ce66"/>
+      <path id="联合_120_-_轮廓" data-name="联合 120 - 轮廓" d="M-2896,8568.5a7.508,7.508,0,0,1,7.5,7.5,7.508,7.508,0,0,1-7.5,7.5,7.509,7.509,0,0,1-7.5-7.5A7.51,7.51,0,0,1-2896,8568.5Zm0,14a6.507,6.507,0,0,0,6.5-6.5,6.507,6.507,0,0,0-6.5-6.5,6.508,6.508,0,0,0-6.5,6.5A6.508,6.508,0,0,0-2896,8582.5Z" transform="translate(3229 -8385)" fill="rgba(0,0,0,0)"/>
+      <path id="路径_8777" data-name="路径 8777" d="M335.586,188.211l-3.544,3.579-1.743-1.742-1.414,1.414,3.157,3.157,1.414-1.414,3.544-3.58Z" fill="#fff"/>
+    </g>
+    <g id="组_16065" data-name="组 16065" transform="translate(453 107)">
+      <g id="组_16062" data-name="组 16062" transform="translate(-922 -1120)">
+        <g id="组_13829" data-name="组 13829" transform="translate(913 960)">
+          <g id="组_9706" data-name="组 9706" transform="translate(188 218)">
+            <path id="路径_1652" data-name="路径 1652" d="M60,0A59.924,59.924,0,1,1,25.279,11.034,60,60,0,0,1,60,0Z" transform="translate(0)" fill="#fff"/>
+            <path id="路径_1652_-_轮廓" data-name="路径 1652 - 轮廓" d="M60-4A64,64,0,1,1-4,60,64.76,64.76,0,0,1-.271,38.426,63.924,63.924,0,0,1,60-4Zm0,120A56.041,56.041,0,1,0,4,60,56.063,56.063,0,0,0,60,116Z" transform="translate(0)" fill="rgba(0,0,0,0.04)"/>
+            <path id="路径_1653" data-name="路径 1653" d="M60,124A64.072,64.072,0,0,1-4,60,64.76,64.76,0,0,1-.271,38.426a4,4,0,1,1,7.545,2.659A56.01,56.01,0,1,0,60,4a4,4,0,0,1-4-4,4,4,0,0,1,4-4,64,64,0,0,1,0,128Z" transform="translate(0)" fill="#ff5722"/>
+          </g>
+        </g>
+        <g id="组_13830" data-name="组 13830" transform="translate(5479.839 -7399.367)">
+          <path id="路径_6415" data-name="路径 6415" d="M-5313.462,6000.086l-13.062-13.063,2.121-2.121,13.063,13.063Z" transform="translate(999.625 2644.405)" fill="#ff5722"/>
+          <path id="路径_6416" data-name="路径 6416" d="M-5324.4,6000.086l-2.121-2.121,13.063-13.063,2.121,2.121Z" transform="translate(999.625 2644.405)" fill="#ff5722"/>
+        </g>
+      </g>
+      <g id="组_16063" data-name="组 16063" transform="translate(-1536 -1120)">
+        <g id="组_13832" data-name="组 13832" transform="translate(1363 960)">
+          <g id="组_9706-2" data-name="组 9706" transform="translate(188 218)">
+            <path id="路径_1652-2" data-name="路径 1652" d="M60,0A59.924,59.924,0,1,1,25.279,11.034,60,60,0,0,1,60,0Z" transform="translate(0)" fill="#fff"/>
+            <path id="路径_1652_-_轮廓-2" data-name="路径 1652 - 轮廓" d="M60-4A64,64,0,1,1-4,60,64.76,64.76,0,0,1-.271,38.426,63.924,63.924,0,0,1,60-4Zm0,120A56.041,56.041,0,1,0,4,60,56.063,56.063,0,0,0,60,116Z" transform="translate(0)" fill="#13ce66"/>
+          </g>
+        </g>
+        <path id="路径_6417" data-name="路径 6417" d="M450.643,676.4l-7.014-7.014,2.121-2.121,4.892,4.892,12.569-12.569,2.121,2.121Z" transform="translate(1156.811 570.854)" fill="#13ce66"/>
+      </g>
+      <g id="组_16064" data-name="组 16064" transform="translate(-9931 11928)">
+        <g id="组_13836" data-name="组 13836" transform="translate(10086 -12088)">
+          <g id="组_9706-3" data-name="组 9706" transform="translate(188 218)">
+            <path id="路径_1652-3" data-name="路径 1652" d="M60,0A59.924,59.924,0,1,1,25.279,11.034,60,60,0,0,1,60,0Z" transform="translate(0)" fill="#fff"/>
+            <path id="路径_1652_-_轮廓-3" data-name="路径 1652 - 轮廓" d="M60-4A64,64,0,1,1-4,60,64.76,64.76,0,0,1-.271,38.426,63.924,63.924,0,0,1,60-4Zm0,120A56.041,56.041,0,1,0,4,60,56.063,56.063,0,0,0,60,116Z" transform="translate(0)" fill="rgba(0,0,0,0.04)"/>
+          </g>
+        </g>
+        <text id="_0_" data-name="0%" transform="translate(10314 -11799)" fill="rgba(0,0,0,0.24)" font-size="28" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">0%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="440" viewBox="0 0 980 440">
+  <defs>
+    <filter id="矩形_4556" x="12.5" y="13.5" width="955" height="415" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_5350" x="376" y="318" width="172" height="76" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="减去_94" x="371" y="333" width="41" height="46" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_4476" x="376" y="225" width="292" height="95" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-4"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="矩形_4476-2" x="376" y="122" width="276" height="95" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-5"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="减去_76" x="371.002" y="137" width="40.999" height="46" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-6"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="减去_76-2" x="371" y="240" width="41" height="46" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-7"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-y-5">
+      <rect width="980" height="440"/>
+    </clipPath>
+  </defs>
+  <g id="y-5" clip-path="url(#clip-y-5)">
+    <rect width="980" height="440" fill="#fff"/>
+    <g id="组件_443_56" data-name="组件 443 – 56">
+      <g id="矩形_4553" data-name="矩形 4553" fill="#f5f7fc" stroke="#edeff6" stroke-width="1">
+        <rect width="980" height="440" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="979" height="439" rx="3.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4556)">
+        <g id="矩形_4556-2" data-name="矩形 4556" transform="translate(20 20)" fill="#fff" stroke="rgba(231,235,246,0.7)" stroke-width="1">
+          <rect width="940" height="400" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="939" height="399" rx="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="气泡卡片_Popover_" data-name="气泡卡片（Popover）" transform="translate(48 68)" fill="rgba(0,0,0,0.8)" font-size="20" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">气泡卡片（Popover）</tspan></text>
+    <rect id="矩形_5320" data-name="矩形 5320" width="884" height="1" transform="translate(48 93)" fill="#fff"/>
+    <path id="矩形_5320_-_轮廓" data-name="矩形 5320 - 轮廓" d="M0,0H884V1H0Z" transform="translate(48 93)" fill="#e4e5eb"/>
+    <g id="组_16220" data-name="组 16220" transform="translate(-38 -1297)">
+      <text id="标题名称_" data-name="标题名称：" transform="translate(96 1461)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">标题名称：</tspan></text>
+      <g id="组_16241" data-name="组 16241" transform="translate(-252)">
+        <rect id="矩形_5341" data-name="矩形 5341" width="240" height="32" rx="4" transform="translate(429 1440)" fill="#fff"/>
+        <path id="矩形_5341_-_轮廓" data-name="矩形 5341 - 轮廓" d="M4,1A3,3,0,0,0,1,4V28a3,3,0,0,0,3,3H236a3,3,0,0,0,3-3V4a3,3,0,0,0-3-3H4M4,0H236a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(429 1440)" fill="#377cfd"/>
+        <text id="请输入信息" transform="translate(439 1461)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">请输入信息</tspan></text>
+        <rect id="矩形_5358" data-name="矩形 5358" width="1" height="20" transform="translate(439 1446)" fill="rgba(0,0,0,0.48)"/>
+        <path id="矩形_5358_-_轮廓" data-name="矩形 5358 - 轮廓" d="M0,0H1V20H0Z" transform="translate(439 1446)" fill="#707070"/>
+      </g>
+    </g>
+    <g id="组_16243" data-name="组 16243" transform="translate(-38 -1194)">
+      <text id="标题名称_2" data-name="标题名称：" transform="translate(96 1461)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">标题名称：</tspan></text>
+      <g id="组_16241-2" data-name="组 16241" transform="translate(-252)">
+        <rect id="矩形_5341-2" data-name="矩形 5341" width="240" height="32" rx="4" transform="translate(429 1440)" fill="#fff"/>
+        <path id="矩形_5341_-_轮廓-2" data-name="矩形 5341 - 轮廓" d="M4,1A3,3,0,0,0,1,4V28a3,3,0,0,0,3,3H236a3,3,0,0,0,3-3V4a3,3,0,0,0-3-3H4M4,0H236a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(429 1440)" fill="#377cfd"/>
+        <text id="请输入信息-2" data-name="请输入信息" transform="translate(439 1461)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">请输入信息</tspan></text>
+      </g>
+    </g>
+    <g id="组_16244" data-name="组 16244" transform="translate(-38 -1101)">
+      <text id="标题名称_3" data-name="标题名称：" transform="translate(96 1461)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">标题名称：</tspan></text>
+      <g id="组_16241-3" data-name="组 16241" transform="translate(-252)">
+        <rect id="矩形_5341-3" data-name="矩形 5341" width="240" height="32" rx="4" transform="translate(429 1440)" fill="#fff"/>
+        <path id="矩形_5341_-_轮廓-3" data-name="矩形 5341 - 轮廓" d="M4,1A3,3,0,0,0,1,4V28a3,3,0,0,0,3,3H236a3,3,0,0,0,3-3V4a3,3,0,0,0-3-3H4M4,0H236a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" transform="translate(429 1440)" fill="#377cfd"/>
+        <text id="X" transform="translate(439 1461)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">X</tspan></text>
+      </g>
+    </g>
+    <g id="组_16247" data-name="组 16247">
+      <g id="组_16250" data-name="组 16250">
+        <g id="组_16246" data-name="组 16246">
+          <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_5350)">
+            <rect id="矩形_5350-2" data-name="矩形 5350" width="136" height="40" rx="4" transform="translate(394 336)" fill="#fff"/>
+          </g>
+          <g id="组_16245" data-name="组 16245" transform="translate(410 348)">
+            <text id="你已开启大写输入" transform="translate(0 13)" fill="rgba(0,0,0,0.8)" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">你已开启大写输入</tspan></text>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#减去_94)">
+          <path id="减去_94-2" data-name="减去 94" d="M5,10l0,0L0,5,5,0V10Z" transform="translate(389 351)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#矩形_4476)">
+      <rect id="矩形_4476-3" data-name="矩形 4476" width="256" height="59" rx="4" transform="translate(394 243)" fill="#fff"/>
+    </g>
+    <g id="组_13862" data-name="组 13862" transform="translate(410 255)">
+      <text id="这是一段文案说明_这是一段文案说_明_这是一段文案说明_" data-name="这是一段文案说明，这是一段文案说
+明，这是一段文案说明。" transform="translate(0 13)" fill="rgba(0,0,0,0.8)" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">这是一段文案说明，这是一段文案说</tspan><tspan x="0" y="19">明，这是一段文案说明。</tspan></text>
+    </g>
+    <g id="组件_464_3" data-name="组件 464 – 3" transform="translate(620 245)">
+      <g id="组件_463_1" data-name="组件 463 – 1">
+        <rect id="矩形_5321" data-name="矩形 5321" width="28" height="28" rx="14" fill="rgba(240,240,240,0)"/>
+        <path id="联合_119" data-name="联合 119" d="M-4127.658,8663.4l-3.282,3.282-1.059-1.062,3.282-3.28-3.282-3.281,1.059-1.06,3.282,3.281,3.282-3.281,1.059,1.06-3.281,3.281,3.281,3.28-1.059,1.062Z" transform="translate(4141.658 -8648.342)" fill="rgba(0,0,0,0.48)"/>
+      </g>
+    </g>
+    <g id="组_16248" data-name="组 16248" transform="translate(-13700 10879)">
+      <g transform="matrix(1, 0, 0, 1, 13700, -10879)" filter="url(#矩形_4476-2)">
+        <rect id="矩形_4476-4" data-name="矩形 4476" width="240" height="59" rx="4" transform="translate(394 140)" fill="#fff"/>
+      </g>
+      <g id="组_13862-2" data-name="组 13862" transform="translate(13895 -12535)">
+        <text id="这是一段文案说明_这是一段文案说_明_这是一段文案说明_2" data-name="这是一段文案说明，这是一段文案说
+明，这是一段文案说明。" transform="translate(215 1821)" fill="rgba(0,0,0,0.8)" font-size="13" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">这是一段文案说明，这是一段文案说</tspan><tspan x="0" y="19">明，这是一段文案说明。</tspan></text>
+      </g>
+    </g>
+    <g id="组_16249" data-name="组 16249" transform="translate(-13700 10879)">
+      <g transform="matrix(1, 0, 0, 1, 13700, -10879)" filter="url(#减去_76)">
+        <path id="减去_76-3" data-name="减去 76" d="M5,10l0,0L0,5,5,0V10Z" transform="translate(389 155)" fill="#fff"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#减去_76-2)">
+      <path id="减去_76-4" data-name="减去 76" d="M5,10l0,0L0,5,5,0V10Z" transform="translate(389 258)" fill="#fff"/>
+    </g>
+    <rect id="矩形_5352" data-name="矩形 5352" width="20" height="20" rx="2" transform="translate(353 345)" fill="#9699ac"/>
+    <path id="联合_122" data-name="联合 122" d="M2.5,10V6.323H0L5,0l5,6.321v0H7.5V10Z" transform="translate(358 350)" fill="#fff"/>
+    <rect id="矩形_5356" data-name="矩形 5356" width="1" height="20" transform="translate(159 345)" fill="rgba(0,0,0,0.48)"/>
+    <path id="矩形_5356_-_轮廓" data-name="矩形 5356 - 轮廓" d="M0,0H1V20H0Z" transform="translate(159 345)" fill="#707070"/>
+    <rect id="矩形_5357" data-name="矩形 5357" width="1" height="20" transform="translate(149 252)" fill="rgba(0,0,0,0.48)"/>
+    <path id="矩形_5357_-_轮廓" data-name="矩形 5357 - 轮廓" d="M0,0H1V20H0Z" transform="translate(149 252)" fill="#707070"/>
+  </g>
+</svg>
