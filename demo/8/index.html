@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="max-age=300" />
+
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/style.css">
+
+<script src="js/jquery.min.js"></script>
+
+</head>
+<body>
+
+<div style="width:1448px; margin:0 auto;">
+    <div class="clearfix">
+        <p class="shaixuan-tj floatLeft clearfix"> 
+            <span><a href="/">全部结果</a></span>
+            <i class="icon-angle-right"></i>
+           <!-- <span>领域</span>
+            <i class="icon-angle-right"></i>-->
+            <!--<span>搜索关键词为<a href="/"><strong>“####”</strong></a></span>-->
+        </p>
+        <p id="sxbtn" class="shaixuan-btn clearfix"><span><em>收起筛选</em><i class="icon-angle-up"></i></span></p>
+    </div>
+    <div id="page-search-store" class="mb10 border sxcon">
+        <div class="search-by by-category relative">
+            <dl class="relative clearfix">
+                <dt class="floatLeft"><a href="/">工程分类：</a></dt>
+                <dd class="floatLeft show-con">
+                    <a href="/" class="">明挖隧道（U型槽）</a>
+                    <a href="/" class="">暗挖隧道</a>
+                </dd>
+                
+            </dl>
+            <dl class="relative clearfix" >
+                <dt class="floatLeft"><a href="/">工程地点：</a></dt>
+                <dd class="floatLeft show-con">
+                    <a href="/" class="">不限</a>
+                    <a href="/" class="">广州市</a>
+					<a href="/" class="">珠海市</a>
+					<a href="/" class="">深圳市</a>
+					<a href="/" class="">清远市</a>
+					<a href="/" class="">茂名市</a>
+					<a href="/" class="">顺德市</a>
+					<a href="/" class="">佛山市</a>
+					<a href="/" class="">韶关市</a>
+					<a href="/" class="">汕头市</a>
+					<a href="/" class="">惠州市</a>
+					<a href="/" class="">梅州市</a>
+					<a href="/" class="">肇庆市</a>
+					<a href="/" class="">湛江市</a>
+					<a href="/" class="">茂名市</a>
+					<a href="/" class="">清远市</a>
+					<a href="/" class="">中山市</a>
+					<a href="/" class="">揭阳市</a>
+					<dd class="floatLeft show-more"><h3 class="pointer clearfix"><span>更多</span><i class="icon-angle-down"></i></h3></dd>
+                </dd>
+            </dl>
+		 <dl class="relative clearfix"style="border-bottom:0" >
+                <dt class="floatLeft"><a href="/">工程分类：</a></dt>
+                <dd class="floatLeft show-con">
+                    <a href="/" class="">新建</a>
+                    <a href="/" class="">扩建</a>
+					<a href="/" class="">改建</a>
+					<a href="/" class="">修缮</a>
+					<a href="/" class="">修复</a>
+					<a href="/" class="">维护保养</a>
+					<a href="/" class="">其他</a>
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function(){
+        $(".shaixuan-tj span.crumb-select-item").live('hover',function(event){
+            if(event.type=='mouseenter'){ 
+            $(this).addClass("crumb-select-itemon");
+            }else{ 
+            $(this).removeClass("crumb-select-itemon");
+            } 
+        });
+        $(".shaixuan-tj span.crumb-select-item").live('click', function(event){
+            event.preventDefault();
+            $(this).remove();
+            var TTR = $(this).find("em").text();
+            $(".show-con a").each(function(){
+                var TT = $(this).text();
+                    THI = $(this);
+                    THIPP = $(this).parents("dl");
+                if(TTR==TT){
+                    THI.removeClass("nzw12");
+                    THIPP.css("display","block");
+                }
+            })
+        });
+        $(".show-con a").click(function(event){
+            event.preventDefault();
+                 THIP = $(this).parents("dl");
+            if($(this).hasClass("nzw12")){
+            }else{
+                $(this).addClass("nzw12");
+                var zhiclass = $(this).parents("dd").siblings("dt").find("a").text();
+                    zhicon = $(this).text();
+                    tianjaneir="<span class='crumb-select-item'><a href='/'><b>"+zhiclass+"</b><em>"+zhicon+"</em><i class='icon-remove'></i></a></span>"
+                $(".shaixuan-tj").children().last().after(tianjaneir);
+                THIP.css("display","none");
+            }
+        });
+        $(".show-more").click(function(event){
+            event.preventDefault();
+            var ticon = $(this).find("i");
+                tspan = $(this).find("span");
+                if($(this).hasClass("zk")){
+                    $(this).siblings(".show-con").css("height","30px");
+                    ticon.removeClass("icon-angle-up");
+                    ticon.addClass("icon-angle-down");
+                    tspan.html("更多");
+                    $(this).removeClass("zk")
+                }else{
+                    $(this).siblings(".show-con").css("height","auto");
+                    ticon.removeClass("icon-angle-down");
+                    ticon.addClass("icon-angle-up");
+                    tspan.html("收起");
+                    $(this).addClass("zk")
+                }
+        });
+        $("#sxbtn").click(function(event){
+            event.preventDefault();
+            var xicon = $(this).find("span i");
+                xspan = $(this).find("span em");
+            if($(this).hasClass("zkon")){
+                xspan.text("收起筛选");
+                xicon.removeClass("icon-angle-down");
+                xicon.addClass("icon-angle-up");
+                $(".sxcon").slideDown();
+                $(this).removeClass("zkon")
+            }else{
+                xspan.text("查看筛选");
+                xicon.removeClass("icon-angle-up");
+                xicon.addClass("icon-angle-down");
+                $(".sxcon").slideUp();
+                $(this).addClass("zkon")
+            }
+        })
+
+
+    })
+</script>
+
+</body>
+</html>
