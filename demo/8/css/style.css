@@ -43,13 +43,13 @@
     top: 0;
 }
 .shaixuan-tj span.crumb-select-item em , .shaixuan-tj span.crumb-select-item i{
-    color: #e4393c;
+    color: #377CFD;
 }
 .shaixuan-tj span.crumb-select-itemon{
-	border-color: #e4393c;
+	border-color: #377CFD;
 }
 .shaixuan-tj span.crumb-select-itemon i{
-	background: #e4393c;
+	background: #377CFD;
 	color: #fff;
 }.shaixuan-tj a:hover{
 	color: inherit;
