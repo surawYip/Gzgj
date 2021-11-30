@@ -10,6 +10,11 @@ input:hover{
 body{font-family:14px/1.5 Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;text-align:left;background:#FFF;color:#000;}
 html{overflow-y:scroll;}
 
+#yellow{ background: #FFC82C; color:#FFC82C;}
+#green{ background: #13CE66; color: #13CE66;}
+#red{background: #FF4949; color: #FF4949;}
+#blue{background: #78A4FA; color:#78A4FA;}
+
 svg:hover * {
   fill: #377CFD;
 }
@@ -392,7 +397,6 @@ h4{
 
 
 
-
 .neirong_list_span{
 	text-align: left;
 	font-size: 14px;
@@ -411,19 +415,27 @@ h4{
 	text-align: left;
 	border-radius: 4px;
 	border: 1px solid #EDEFF6;
-
-	
 }
 
 
-
+.neirong_list_daima:hover{
+		transition:box-shadow .5s ease;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	position:relative;
+	top: -1px;
+}
 
 
 .neirong_list img {
-	
 	text-align: left;
-	padding:40px 0px 12px 0px;
+	margin:24px 0px 16px 0px;
 }
+
+/*.neirong_list img:hover {
+	transition:box-shadow .5s ease;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.10)
+}*/
+
 
 
 .neirong_list ul{
@@ -445,6 +457,7 @@ h4{
 
 
 
+
 .at-color-container{
 	width:258px;
 	height: 70px;
@@ -458,7 +471,12 @@ h4{
 }
 
 
-
+.at-color-container:hover{
+	transition:box-shadow .5s ease;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	position:relative;
+	top: -1px;
+}
 
 .demo-abc{
 	width:258px;
@@ -477,10 +495,18 @@ h4{
 
 .demo-abc:hover{
 	background-color:#5F96FE;
+	transition:box-shadow .5s ease;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	position:relative;
+	top: -1px;
 }
 
 .demo-abc:active{
 	background-color:#316FE3;
+		transition:box-shadow .5s ease;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	position:relative;
+	top: -1px;
 }
 
 
@@ -490,9 +516,16 @@ h4{
 	font-size: 16px;
 	color: #fff;
 	text-align: left;
-	margin-bottom: 12px;
+	margin-bottom: 16px;
 }
 
+.border-radius2{
+	font-size: 16px;
+	color: #fff;
+	text-align: left;
+	margin-bottom: 8px;
+	color: rgba(0,0,0,0.80);
+}
 
 
 
@@ -505,10 +538,19 @@ h4{
 
 }
 
+.border-radius3 p{
+	font-size: 16px;
+	color: #fff;
+	text-align: left;
+	margin-bottom: 16px;
+	color: rgba(0,0,0,0.80)
+}
+
+
 
 .at-color-container2{
 	width:256px;
-	height: 220px;
+	height: auto;
 	margin-right: 20px;
 	margin-left: 0;
 	margin-top:20px;
@@ -516,12 +558,44 @@ h4{
 	border-radius:4px;
 	padding: 16px;
 	background:#F5F7FC;
-	height: 180px; 
+	height: auto; 
 	float: left;
 	border: 1px solid #EDEFF6;
-
 }
 
+
+
+
+.at-color-container2:hover{
+	transition:box-shadow .5s ease;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	position:relative;
+	top: -1px;
+}
+
+.at-color-container10:hover{
+	transition:box-shadow .5s ease;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	position:relative;
+	top: -1px;
+}
+
+
+
+.at-color-container10{
+	width:332px;
+	height: auto;
+	margin-right: 20px;
+	margin-left: 0;
+	margin-top:20px;
+	margin-bottom: 0px;
+	border-radius:4px;
+	padding: 16px;
+	background:#F5F7FC;
+	height: auto; 
+	float: left;
+	border: 1px solid #EDEFF6;
+}
 
 
 .at-color-container3{
@@ -538,11 +612,21 @@ h4{
 
 }
 
+.at-color-container3:hover{
+	transition:box-shadow .5s ease;
+ box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	position:relative;
+	top: -1px;
+}
+.at-color-container4:hover{
+	transition:box-shadow .5s ease;
+ 	box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	position:relative;
+	top: -1px;
+}
 
 
-
-
-
+.border-radius p { margin:0; margin-bottom: -4px; font-size: 16px;}
 
 
 
@@ -550,17 +634,43 @@ h4{
 	font-size: 12px;
 	font-weight: 400;
 	line-height: 36px;
-	color: rgba(0,0,0,0.48)
+	color: rgba(0,0,0,0.48);
 }
+
+.border-radius2 p { margin:0; margin-bottom: -4px; font-size: 16px; color: rgba(0,0,0,0.80)}
+
+
+
+.border-radius2 span{
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 36px;
+	color: rgba(0,0,0,0.48);
+}
+
 
 
 .color-value2{
 	display: block; 
 	background: #fff; 
-	height:72px;
-	margin-top:20px;
+	height:auto;
+	margin-top:0px;
 	border-radius:4px;
-	padding:68px 48px 0px 48px;
+	padding:68px 48px 68px 48px;
+	text-align: center;
+}
+
+
+
+.color-value7{
+	display: block; 
+	width: 366px;
+	background: #fff; 
+	height:auto;
+	margin-top:0px;
+	border-radius:4px;
+	padding:68px 48px 68px 48px;
+	text-align: center;
 }
 
 
@@ -574,16 +684,13 @@ h4{
 }
 
 .color-linshi{
-	overflow: auto;
-	margin-bottom: 20px;
-
 }
 
 .neirong-list-table{
 	margin-left: 0px;
 	float: left;
 	margin-top: 30px;
-    
+    margin-bottom: 100px;
 }
 	
 
@@ -637,13 +744,14 @@ background-color:#fff;
  .aa222:hover~.aa221{
             background-color:#fff;
         }
-
+.head-pic{width: 160px;height: 120px; margin: auto;}
+.head-ren{  width:70px; height: 70px; margin: auto;}
 .head-ren img{border-radius:88px;} 
-.head-pic img{border-radius:4px;} 
+.head-pic img{border-radius:4px; margin: 0px;} 
 
 .at-color-container4{
 	width:566px;
-	height: 180px;
+	height: auto;
 	margin-right: 20px;
 	margin-left: 0;
 	margin-top:20px;
@@ -656,25 +764,10 @@ background-color:#fff;
 	border: 1px solid #EDEFF6;
 }
 
-.at-color-container5{
+.at-color-container7{
 	width:566px;
 	height: 180px;
 	margin-right: 20px;
-	margin-left: 0px;
-	margin-top:20px;
-	margin-bottom: 0px;
-	border-radius:4px;
-	padding: 16px;
-	background:#F5F7FC;
-	height: 180px; 
-	float: left;
-	border: 1px solid #EDEFF6;
-}
-
-.at-color-container6{
-	width:1240px;
-	height: 180px;
-	margin-right: 20px;
 	margin-left: 0;
 	margin-top:20px;
 	margin-bottom: 0px;
@@ -685,6 +778,8 @@ background-color:#fff;
 	float: left;
 	border: 1px solid #EDEFF6;
 }
+
+
 
 .tag-qing{
 	background: #FFF1F0;
@@ -749,13 +844,60 @@ background-color:#fff;
 
 
 
-
 .button-card{
 	width:200px;
 	height: 32px;
 	text-align: center;
 	margin-bottom: 20px;
 }
+
+
+.button-normal-big{
+	height: 40px;
+	line-height: 40px;
+	background: #377CFD;
+	border: none;
+	font-weight: 600;
+	font-size: 16px;
+	border-radius: 4px;
+	color: #fff;
+	line-height: 32px;
+	padding-left: 16px;
+	padding-right: 16px;
+	text-align: center;
+	white-space:nowrap;
+}
+
+
+
+.button-normal-big:hover{
+	background: #5F96FE;
+	text-decoration: none;
+	transition: all 1s cubic-bezier(0.3, 1, 0.2, 1);
+ 
+}
+
+.button-normal-big:active{
+	background: #316FE3;
+	text-decoration: none;
+	-webkit-transition: all 1s cubic-bezier(0.1, 0.5, 0.1, 1);
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -774,37 +916,6 @@ background-color:#fff;
 	text-align: center;
 	white-space:nowrap;
 }
-
-.button-normal-big{
-	height: 40px;
-	line-height: 32px;
-	background: #377CFD;
-	border: none;
-	font-weight: 600;
-	font-size: 16px;
-	border-radius: 4px;
-		color: #fff;
-	line-height: 40px;
-	padding-left: 16px;
-	padding-right: 16px;
-	text-align: center;
-	white-space:nowrap;
-}
-
-.button-normal-big:hover{
-	background: #5F96FE;
-	text-decoration: none;
-	transition: all 1s cubic-bezier(0.3, 1, 0.2, 1);
- 
-}
-.button-normal-big:active{
-	background: #316FE3;
-	text-decoration: none;
-	-webkit-transition: all 1s cubic-bezier(0.1, 0.5, 0.1, 1);
-   
-}
-
-
 
 
 
@@ -1189,14 +1300,7 @@ background-color:#fff;
 }
 
 
-.color-value7{
-	display: block; 
-	background: #fff; 
-	height:72px;
-	margin-top:20px;
-	border-radius:4px;
-	padding:68px 48px 0px 48px;
-}
+
 
 
 .color-value7 img{
@@ -1329,7 +1433,7 @@ background-color:#fff;
 .button-text7 {
 z-index: 999;
 	position: absolute;
-	left: 313px;
+	left: 293px;
 	margin-top: 1px;
 	color: rgba(0,0,0,0.28);
 	font-size: 14px;
@@ -1338,10 +1442,10 @@ z-index: 999;
 .button-text8 {
 z-index: 999;
 	position: absolute;
-	left: 652px;
 	margin-top: 0px;
-	left:748px;
+	left:704px;
 	color: rgba(0,0,0,0.48);
+	top:782px;
 	}
 
 .button-text input{
@@ -1391,14 +1495,14 @@ z-index: 999;
 .topspan span {
 	font-size：12px;
 	color: rgba(0,0,0,0.80);
-	margin-right: 30px;
+	margin-left: 30px;
 }
 
 
         /*这是百科右侧导航代码的样式表*/
-        .directory-nav{width: 210px; height: auto; background: #fff; position: fixed; right: 50px;top:150px; display:none;text-indent: 30px;overflow: auto; }
+        .directory-nav{width: 210px; height: auto; background: #fff; position: fixed; right: 50px;top:150px; display:none;text-indent: 30px}
 
-        .directory-nav li{height: 32px;line-height: 32px;  position: relative;cursor:pointer; list-style-type: none;}
+        .directory-nav li{height: 34px;line-height: 34px;  position: relative;cursor:pointer; list-style-type: none;}
         .directory-nav li a{}
         .directory-nav .l1{ }
         .directory-nav .l2{ text-indent: 46px}
@@ -1452,8 +1556,6 @@ p{
 .border-radius p{
 	font-size: 16px;
 	color:rgba(0,0,0,0.80);
-	margin-bottom: 0px;
-	
 }
 
 
@@ -1467,3 +1569,7 @@ p{
 
 .color-value2 img{padding:0px;}
 .color-value7 img{padding:0px;}
+
+
+.class_bottom
+{overflow: auto; padding-bottom: 24px}
