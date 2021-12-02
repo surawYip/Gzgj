@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 2961897 */
+  src: url('//at.alicdn.com/t/font_2961897_a4ve926lxok.woff2?t=1638406178838') format('woff2'),
+       url('//at.alicdn.com/t/font_2961897_a4ve926lxok.woff?t=1638406178838') format('woff'),
+       url('//at.alicdn.com/t/font_2961897_a4ve926lxok.ttf?t=1638406178838') format('truetype');
+}
+
+
+.sfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+.system-document:before {
+
+  content: "\ec7d";
+}
+
+.system-home:before {
+ font-family:iconfont;
+  content: "\ecc2";
+}
+
+.system-page:before {
+  content: "\ecf2";
+}
+
+.system-shequ:before {
+  content: "\ec34";
+}
+
+.system-menu:before {
+  content: "\ecdc";
+}
+
+.system-chart:before {
+  content: "\ed12";
+}
+
+.system-xitongzhuangtai:before {
+  content: "\ec4f";
+}
+
+.system-zidingyi:before {
+  content: "\ec81";
+}
+
+.system-24gl-printer:before {
+  content: "\ed2c";
+}
+
+.system-component:before {
+  content: "\ec6a";
+}
+
+.system-success:before {
+  content: "\e6d0";
+}
+
+.system-xiala:before {
+  content: "\e6b9";
+}
+
+.system-s-fold:before {
+  content: "\ecf8";
+}
+
+.system-s-unfold:before {
+  content: "\ecf6";
+}
+
+.system-zuixiaohua:before {
+  content: "\ed52";
+}
+
+.system-yonghu:before {
+  content: "\e603";
+}
+
+.system-jindutiaoshouyidaozhang:before {
+  content: "\e63c";
+}
+
+.system-xiaoxi:before {
+  content: "\e65b";
+}
+
+.system-shuliang_mianxing:before {
+  content: "\e61c";
+}
+
+.system-yanjing:before {
+  content: "\e67c";
+}
+
+.system-yanjing-guan:before {
+  content: "\ec78	";
+}
+
+.system-xingmingyonghumingnicheng:before {
+  content: "\ec7a";
+}
+
+.system-mima:before {
+  content: "\ecc3";
+}
+
+.system-shezhi:before {
+  content: "\ed0f";
+}
+
+.system-github:before {
+  content: "\ed50";
+}
+
+.system-quanping:before {
+  content: "\e768";
+}
+
+.system-wenzi:before {
+  content: "\ecad";
+}
+
+.system-quanping1:before {
+  content: "\e680";
+}
