@@ -50,17 +50,17 @@
             </g>
           </g>
         </g>
-        <text id="提示" transform="translate(24 35.481)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="SourceHanSansCN-Bold, Source Han Sans CN" font-weight="700"><tspan x="0" y="0">提示</tspan></text>
-        <text id="是否发送短信通知业主_" data-name="是否发送短信通知业主?" transform="translate(24 67.583)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">是否发送短信通知业主?</tspan></text>
+        <text id="提示" transform="translate(24 35.481)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">提示</tspan></text>
+        <text id="是否发送短信通知业主_" data-name="是否发送短信通知业主?" transform="translate(24 67.583)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">是否发送短信通知业主?</tspan></text>
       </g>
       <g id="组_13877" data-name="组 13877" transform="translate(872 2995)">
         <g id="矩形_4503" data-name="矩形 4503" fill="#fff" stroke="rgba(0,0,0,0.12)" stroke-width="1">
           <rect width="52" height="32" rx="4" stroke="none"/>
           <rect x="0.5" y="0.5" width="51" height="31" rx="3.5" fill="none"/>
         </g>
-        <rect id="矩形_4504" data-name="矩形 4504" width="52" height="32" rx="4" transform="translate(60)" fill="#377CFD"/>
-        <text id="取消" transform="translate(12 21)" fill="#333b44" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">取消</tspan></text>
-        <text id="确定" transform="translate(72 21)" fill="#fff" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">确定</tspan></text>
+        <rect id="矩形_4504" data-name="矩形 4504" width="52" height="32" rx="4" transform="translate(60)" fill="#377cfd"/>
+        <text id="取消" transform="translate(12 21)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">取消</tspan></text>
+        <text id="确定" transform="translate(72 21)" fill="#fff" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">确定</tspan></text>
       </g>
     </g>
     <g id="组件_447_15" data-name="组件 447 – 15" transform="translate(500)">
@@ -100,17 +100,17 @@
             </g>
           </g>
         </g>
-        <text id="提示-2" data-name="提示" transform="translate(24 35.481)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="SourceHanSansCN-Bold, Source Han Sans CN" font-weight="700"><tspan x="0" y="0">提示</tspan></text>
-        <text id="是否发送短信通知业主_2" data-name="是否发送短信通知业主?" transform="translate(24 67.583)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">是否发送短信通知业主?</tspan></text>
+        <text id="提示-2" data-name="提示" transform="translate(24 35.481)" fill="rgba(0,0,0,0.8)" font-size="16" font-family="MicrosoftYaHeiUI-Bold, Microsoft YaHei UI" font-weight="700"><tspan x="0" y="0">提示</tspan></text>
+        <text id="是否发送短信通知业主_2" data-name="是否发送短信通知业主?" transform="translate(24 67.583)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">是否发送短信通知业主?</tspan></text>
       </g>
       <g id="组_13877-2" data-name="组 13877" transform="translate(844 2995)">
         <g id="矩形_4503-2" data-name="矩形 4503" fill="#fff" stroke="rgba(0,0,0,0.12)" stroke-width="1">
           <rect width="52" height="32" rx="4" stroke="none"/>
           <rect x="0.5" y="0.5" width="51" height="31" rx="3.5" fill="none"/>
         </g>
-        <rect id="矩形_4504-2" data-name="矩形 4504" width="80" height="32" rx="4" transform="translate(60)" fill="#377CFD"/>
-        <text id="取消-2" data-name="取消" transform="translate(12 21)" fill="#333b44" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">取消</tspan></text>
-        <text id="发送短信" transform="translate(72 21)" fill="#fff" font-size="14" font-family="SourceHanSansCN-Normal, Source Han Sans CN"><tspan x="0" y="0">发送短信</tspan></text>
+        <rect id="矩形_4504-2" data-name="矩形 4504" width="80" height="32" rx="4" transform="translate(60)" fill="#377cfd"/>
+        <text id="取消-2" data-name="取消" transform="translate(12 21)" fill="#333b44" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">取消</tspan></text>
+        <text id="发送短信" transform="translate(72 21)" fill="#fff" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">发送短信</tspan></text>
       </g>
     </g>
   </g>
