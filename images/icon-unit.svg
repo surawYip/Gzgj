@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="18" viewBox="0 0 28 18">
+  <g id="单位" transform="translate(9501 -18844)">
+    <g id="矩形_5382" data-name="矩形 5382" transform="translate(-9501 18844)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="28" height="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="17" fill="none"/>
+    </g>
+    <text id="单位-2" data-name="单位" transform="translate(-9501 18858)" fill="rgba(0,0,0,0.24)" font-size="14" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI"><tspan x="0" y="0">单位</tspan></text>
+  </g>
+</svg>
