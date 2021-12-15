@@ -421,6 +421,8 @@ h4{
 .neirong_list_daima:hover{
 		transition:box-shadow .5s ease;
  box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+		-moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.10);
+-webkit-box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
 	position:relative;
 	top: -1px;
 }
@@ -474,6 +476,8 @@ h4{
 .at-color-container:hover{
 	transition:box-shadow .5s ease;
  box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+		-moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.10);
+-webkit-box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
 	position:relative;
 	top: -1px;
 }
@@ -497,6 +501,8 @@ h4{
 	background-color:#5F96FE;
 	transition:box-shadow .5s ease;
  box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+		-moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.10);
+-webkit-box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
 	position:relative;
 	top: -1px;
 }
@@ -505,6 +511,8 @@ h4{
 	background-color:#316FE3;
 		transition:box-shadow .5s ease;
  box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+		-moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.10);
+-webkit-box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
 	position:relative;
 	top: -1px;
 }
@@ -558,7 +566,6 @@ h4{
 	border-radius:4px;
 	padding: 16px;
 	background:#F5F7FC;
-	height: auto; 
 	float: left;
 	border: 1px solid #EDEFF6;
 }
@@ -569,6 +576,8 @@ h4{
 .at-color-container2:hover{
 	transition:box-shadow .5s ease;
  box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+	-moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.10);
+-webkit-box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
 	position:relative;
 	top: -1px;
 }
@@ -576,6 +585,8 @@ h4{
 .at-color-container10:hover{
 	transition:box-shadow .5s ease;
  box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+		-moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.10);
+-webkit-box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
 	position:relative;
 	top: -1px;
 }
@@ -615,14 +626,19 @@ h4{
 .at-color-container3:hover{
 	transition:box-shadow .5s ease;
  box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+		-moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.10);
+-webkit-box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
 	position:relative;
 	top: -1px;
 }
 .at-color-container4:hover{
 	transition:box-shadow .5s ease;
  	box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
+		-moz-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.10);
+-webkit-box-shadow:0 8px 16px 0 rgba(0,0,0,0.10);
 	position:relative;
 	top: -1px;
+	
 }
 
 
@@ -1572,4 +1588,4 @@ p{
 
 
 .class_bottom
-{overflow: auto; padding-bottom: 24px}
+{/*overflow: auto; */padding-bottom: 24px}
