@@ -9,7 +9,7 @@ input:hover{
 	}
 body{font-family:14px/1.5 Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;text-align:left;background:#FFF;color:#000;}
 html{overflow-y:scroll;}
-
+button{box-sizing: border-box;}  /*按钮外描边*/
 #yellow{ background: #FFC82C; color:#FFC82C;}
 #green{ background: #13CE66; color: #13CE66;}
 #red{background: #FF4949; color: #FF4949;}
@@ -877,7 +877,6 @@ background-color:#fff;
 	font-size: 16px;
 	border-radius: 4px;
 	color: #fff;
-	line-height: 32px;
 	padding-left: 16px;
 	padding-right: 16px;
 	text-align: center;
@@ -1504,7 +1503,7 @@ z-index: 999;
 	float: right;
 	text-align: right;
 	margin-right: 40px;
-	margin-top: 30px;
+	margin-top: 26px;
 }
 
 
@@ -1589,3 +1588,65 @@ p{
 
 .class_bottom
 {/*overflow: auto; */padding-bottom: 24px}
+
+
+
+
+
+
+
+.button-secondary-big{
+	
+	height: 42px;
+	line-height: 42px;
+	background: #fff;
+	border:1px solid rgba(0,0,0,0.16);
+	font-weight: 600;
+	font-size: 16px;
+	border-radius: 4px;
+	 padding-left:16px;
+	padding-right:16px; 
+	text-align: center;
+	display: inline-block;
+	color:rgba(0,0,0,0.64);
+		white-space:nowrap;
+	display: inline-block;
+		white-space:nowrap;
+}
+
+
+
+
+
+
+
+
+
+
+.button-secondary-big:hover{
+	background: #fff;
+	border: 1px solid #377CFD;
+	color: #377CFD;
+	transition: all 1s cubic-bezier(0.3, 1, 0.2, 1);
+            -webkit-transition: all 1s cubic-bezier(0.3, 1, 0.2, 1);
+}
+
+.button-secondary-big:active{
+	background: rgba(0,0,0,0.04);
+	text-decoration: none;
+	color: rgba(0,0,0,0.64);
+	-webkit-transition: all 1s cubic-bezier(0.1, 0.5, 0.1, 1);
+	border: 1px solid rgba(0,0,0,0.02);
+}
+
+
+
+
+
+
+
+
+
+
+
+
